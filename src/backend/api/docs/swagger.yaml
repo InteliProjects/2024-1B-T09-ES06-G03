@@ -1,0 +1,544 @@
+definitions:
+  types.Category:
+    properties:
+      id:
+        type: integer
+      name:
+        type: string
+    type: object
+  types.CategoryPayload:
+    properties:
+      name:
+        type: string
+    required:
+    - name
+    type: object
+  types.LoginUserPayload:
+    properties:
+      email:
+        type: string
+      password:
+        type: string
+    required:
+    - email
+    - password
+    type: object
+  types.RegisterUserPayload:
+    properties:
+      company:
+        type: string
+      description:
+        type: string
+      email:
+        type: string
+      instagram:
+        type: string
+      linkedin:
+        type: string
+      name:
+        type: string
+      password:
+        maxLength: 130
+        minLength: 3
+        type: string
+      photo:
+        type: string
+    required:
+    - company
+    - email
+    - name
+    - password
+    type: object
+  types.Subcategory:
+    properties:
+      category_id:
+        type: integer
+      id:
+        type: integer
+      name:
+        type: string
+    type: object
+  types.SubcategoryPayload:
+    properties:
+      category_id:
+        type: integer
+      name:
+        type: string
+    required:
+    - category_id
+    - name
+    type: object
+  utils.ErrorResponse:
+    properties:
+      message:
+        type: string
+    type: object
+info:
+  contact: {}
+paths:
+  /categories:
+    get:
+      consumes:
+      - application/json
+      description: Retrieves a list of all categories
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/types.Category'
+            type: array
+        "500":
+          description: Internal server error
+          schema:
+            type: string
+      security:
+      - ApiKeyAuth: []
+      summary: List all categories
+      tags:
+      - categories
+    post:
+      consumes:
+      - application/json
+      description: Adds a new category to the system
+      parameters:
+      - description: Category information
+        in: body
+        name: category
+        required: true
+        schema:
+          $ref: '#/definitions/types.CategoryPayload'
+      produces:
+      - application/json
+      responses:
+        "201":
+          description: category created successfully
+          schema:
+            type: string
+        "400":
+          description: Invalid payload
+          schema:
+            type: string
+        "500":
+          description: Internal server error
+          schema:
+            type: string
+      security:
+      - ApiKeyAuth: []
+      summary: Create a category
+      tags:
+      - categories
+  /categories/{category_id}/subcategories:
+    get:
+      consumes:
+      - application/json
+      description: Retrieves subcategories associated with a category ID
+      parameters:
+      - description: Category ID
+        in: path
+        name: category_id
+        required: true
+        type: integer
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/types.Subcategory'
+            type: array
+        "400":
+          description: Invalid category ID
+          schema:
+            type: string
+        "404":
+          description: Category not found
+          schema:
+            type: string
+        "500":
+          description: Internal server error
+          schema:
+            type: string
+      security:
+      - ApiKeyAuth: []
+      summary: Get subcategories by category ID
+      tags:
+      - subcategories
+  /categories/{id}:
+    delete:
+      consumes:
+      - application/json
+      description: Deletes a category by ID
+      parameters:
+      - description: Category ID
+        in: path
+        name: id
+        required: true
+        type: integer
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: category deleted successfully
+          schema:
+            type: string
+        "400":
+          description: Invalid category ID
+          schema:
+            type: string
+        "404":
+          description: Category not found
+          schema:
+            type: string
+        "500":
+          description: Internal server error
+          schema:
+            type: string
+      security:
+      - ApiKeyAuth: []
+      summary: Delete a category
+      tags:
+      - categories
+    get:
+      consumes:
+      - application/json
+      description: Retrieves a category by its ID
+      parameters:
+      - description: Category ID
+        in: path
+        name: id
+        required: true
+        type: integer
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/types.Category'
+        "400":
+          description: Invalid category ID
+          schema:
+            type: string
+        "404":
+          description: Category not found
+          schema:
+            type: string
+        "500":
+          description: Internal server error
+          schema:
+            type: string
+      security:
+      - ApiKeyAuth: []
+      summary: Get a category by ID
+      tags:
+      - categories
+    put:
+      consumes:
+      - application/json
+      description: Updates an existing category by ID
+      parameters:
+      - description: Category ID
+        in: path
+        name: id
+        required: true
+        type: integer
+      - description: Category information
+        in: body
+        name: category
+        required: true
+        schema:
+          $ref: '#/definitions/types.CategoryPayload'
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: category updated successfully
+          schema:
+            type: string
+        "400":
+          description: Invalid category ID or payload
+          schema:
+            type: string
+        "404":
+          description: Category not found
+          schema:
+            type: string
+        "500":
+          description: Internal server error
+          schema:
+            type: string
+      security:
+      - ApiKeyAuth: []
+      summary: Update a category
+      tags:
+      - categories
+  /geocode:
+    get:
+      description: Retorna a latitude e longitude de um endereço fornecido
+      parameters:
+      - description: Endereço para geocodificação
+        in: query
+        name: address
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            additionalProperties:
+              type: number
+            type: object
+        "400":
+          description: Bad Request
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "500":
+          description: Internal Server Error
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+      summary: Obtém as coordenadas de um endereço
+      tags:
+      - geolocation
+  /healthcheck:
+    get:
+      description: Retorna o status atual do serviço, ambiente, versão e nome do serviço
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            additionalProperties:
+              type: string
+            type: object
+      summary: Verifica o status do serviço
+      tags:
+      - healthcheck
+  /login:
+    post:
+      consumes:
+      - application/json
+      description: Autentica o usuário usando email e senha e retorna um JWT
+      parameters:
+      - description: Informações de Login
+        in: body
+        name: user
+        required: true
+        schema:
+          $ref: '#/definitions/types.LoginUserPayload'
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: 'token: JWT token'
+          schema:
+            additionalProperties:
+              type: string
+            type: object
+        "400":
+          description: erro de validação ou login falho
+          schema:
+            type: string
+      summary: Logar usuário
+      tags:
+      - user
+  /register:
+    post:
+      consumes:
+      - application/json
+      description: Registra um novo usuário no sistema e retorna mensagem de sucesso
+      parameters:
+      - description: Informações de Registro do Usuário
+        in: body
+        name: user
+        required: true
+        schema:
+          $ref: '#/definitions/types.RegisterUserPayload'
+      produces:
+      - application/json
+      responses:
+        "201":
+          description: Usuário criado com sucesso
+          schema:
+            type: string
+        "400":
+          description: erro de validação ou email já existente
+          schema:
+            type: string
+        "500":
+          description: erro interno no servidor
+          schema:
+            type: string
+      summary: Registrar novo usuário
+      tags:
+      - user
+  /subcategories:
+    get:
+      consumes:
+      - application/json
+      description: Retrieves a list of all subcategories
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/types.Subcategory'
+            type: array
+        "500":
+          description: Internal server error
+          schema:
+            type: string
+      security:
+      - ApiKeyAuth: []
+      summary: List all subcategories
+      tags:
+      - subcategories
+    post:
+      consumes:
+      - application/json
+      description: Adds a new subcategory to the system
+      parameters:
+      - description: Subcategory information
+        in: body
+        name: subcategory
+        required: true
+        schema:
+          $ref: '#/definitions/types.SubcategoryPayload'
+      produces:
+      - application/json
+      responses:
+        "201":
+          description: subcategory created successfully
+          schema:
+            type: string
+        "400":
+          description: Invalid payload
+          schema:
+            type: string
+        "500":
+          description: Internal server error
+          schema:
+            type: string
+      security:
+      - ApiKeyAuth: []
+      summary: Create a subcategory
+      tags:
+      - subcategories
+  /subcategories/{id}:
+    delete:
+      consumes:
+      - application/json
+      description: Deletes a subcategory by ID
+      parameters:
+      - description: Subcategory ID
+        in: path
+        name: id
+        required: true
+        type: integer
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: subcategory deleted successfully
+          schema:
+            type: string
+        "400":
+          description: Invalid subcategory ID
+          schema:
+            type: string
+        "404":
+          description: Subcategory not found
+          schema:
+            type: string
+        "500":
+          description: Internal server error
+          schema:
+            type: string
+      security:
+      - ApiKeyAuth: []
+      summary: Delete a subcategory
+      tags:
+      - subcategories
+    get:
+      consumes:
+      - application/json
+      description: Retrieves a subcategory by its ID
+      parameters:
+      - description: Subcategory ID
+        in: path
+        name: id
+        required: true
+        type: integer
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/types.Subcategory'
+        "400":
+          description: Invalid subcategory ID
+          schema:
+            type: string
+        "404":
+          description: Subcategory not found
+          schema:
+            type: string
+        "500":
+          description: Internal server error
+          schema:
+            type: string
+      security:
+      - ApiKeyAuth: []
+      summary: Get a subcategory by ID
+      tags:
+      - subcategories
+    put:
+      consumes:
+      - application/json
+      description: Updates an existing subcategory by ID
+      parameters:
+      - description: Subcategory ID
+        in: path
+        name: id
+        required: true
+        type: integer
+      - description: Subcategory information
+        in: body
+        name: subcategory
+        required: true
+        schema:
+          $ref: '#/definitions/types.SubcategoryPayload'
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: subcategory updated successfully
+          schema:
+            type: string
+        "400":
+          description: Invalid subcategory ID or payload
+          schema:
+            type: string
+        "404":
+          description: Subcategory not found
+          schema:
+            type: string
+        "500":
+          description: Internal server error
+          schema:
+            type: string
+      security:
+      - ApiKeyAuth: []
+      summary: Update a subcategory
+      tags:
+      - subcategories
+swagger: "2.0"

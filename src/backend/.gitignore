@@ -1,0 +1,50 @@
+# Sistema Operacional arquivos
+.DS_Store
+Thumbs.db
+
+# Diretórios de compilação e binários
+bin/
+obj/
+out/
+build/
+dist/
+
+# Arquivos de log
+*.log
+
+# Diretórios temporários
+tmp/
+
+# Ambientes Virtuais Python
+venv/
+env/
+pyvenv.cfg
+
+# Arquivos compilados Python
+*.pyc
+__pycache__/
+
+# Arquivos de configuração do editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Dependências do Go
+/vendor/
+Gopkg.lock
+go.sum
+
+# Arquivos de binários compilados Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Arquivos de Metadados do Go
+*.out
+
+# Certificados de Segurança
+*.pem

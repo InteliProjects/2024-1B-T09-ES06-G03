@@ -1,0 +1,411 @@
+definitions:
+  types.CustomDate:
+    properties:
+      time.Time:
+        type: string
+    type: object
+  types.Notification:
+    properties:
+      created_at:
+        type: string
+      id:
+        type: integer
+      message:
+        type: string
+      related_project_id:
+        type: integer
+      related_synergy_id:
+        type: integer
+      status:
+        type: boolean
+      title:
+        type: string
+      type:
+        description: 'Enum: ''Solicitação'', ''Atualização'', ''Novo Projeto'', ''Outro'''
+        type: string
+      user_id:
+        type: integer
+    type: object
+  types.NotificationPayload:
+    properties:
+      created_at:
+        $ref: '#/definitions/types.CustomDate'
+      message:
+        type: string
+      related_project_id:
+        type: integer
+      related_synergy_id:
+        type: integer
+      status:
+        type: boolean
+      title:
+        type: string
+      type:
+        enum:
+        - Solicitação
+        - Atualização
+        - Novo Projeto
+        - Outro
+        type: string
+      user_id:
+        type: integer
+    required:
+    - message
+    - title
+    - type
+    - user_id
+    type: object
+  types.Rating:
+    properties:
+      date:
+        type: string
+      id:
+        type: integer
+      level:
+        description: 'Enum: ''1'', ''2'', ''3'', ''4'''
+        type: string
+      project_id:
+        type: integer
+      user_id:
+        type: integer
+    type: object
+  types.RatingPayload:
+    properties:
+      date:
+        $ref: '#/definitions/types.CustomDate'
+      level:
+        description: Ensures the level is one of the enum values
+        enum:
+        - "1"
+        - "2"
+        - "3"
+        - "4"
+        type: string
+      project_id:
+        type: integer
+      user_id:
+        type: integer
+    required:
+    - date
+    - level
+    - project_id
+    - user_id
+    type: object
+  utils.ErrorResponse:
+    properties:
+      message:
+        type: string
+    type: object
+info:
+  contact: {}
+paths:
+  /healthcheck:
+    get:
+      description: Retorna o status atual do serviço, ambiente, versão e nome do serviço
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            additionalProperties:
+              type: string
+            type: object
+      summary: Verifica o status do serviço
+      tags:
+      - healthcheck
+  /notifications:
+    get:
+      description: Retorna uma lista de todas as notificações
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/types.Notification'
+            type: array
+        "500":
+          description: Internal Server Error
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+      summary: Obtém todas as notificações
+      tags:
+      - notifications
+    post:
+      consumes:
+      - application/json
+      description: Cria uma nova notificação com base nos dados fornecidos
+      parameters:
+      - description: Dados da notificação
+        in: body
+        name: notification
+        required: true
+        schema:
+          $ref: '#/definitions/types.NotificationPayload'
+      produces:
+      - application/json
+      responses:
+        "201":
+          description: notification created successfully
+          schema:
+            type: string
+        "400":
+          description: Bad Request
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "500":
+          description: Internal Server Error
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+      summary: Cria uma nova notificação
+      tags:
+      - notifications
+  /notifications/{id}:
+    delete:
+      description: Exclui uma notificação existente com base no ID fornecido
+      parameters:
+      - description: ID da notificação
+        in: path
+        name: id
+        required: true
+        type: integer
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: notification deleted successfully
+          schema:
+            type: string
+        "400":
+          description: Bad Request
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "404":
+          description: Not Found
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "500":
+          description: Internal Server Error
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+      summary: Exclui uma notificação existente
+      tags:
+      - notifications
+    get:
+      description: Retorna uma notificação com base no ID fornecido
+      parameters:
+      - description: ID da notificação
+        in: path
+        name: id
+        required: true
+        type: integer
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/types.Notification'
+        "400":
+          description: Bad Request
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "404":
+          description: Not Found
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "500":
+          description: Internal Server Error
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+      summary: Obtém uma notificação por ID
+      tags:
+      - notifications
+    put:
+      consumes:
+      - application/json
+      description: Atualiza uma notificação existente com base nos dados fornecidos
+      parameters:
+      - description: ID da notificação
+        in: path
+        name: id
+        required: true
+        type: integer
+      - description: Dados da notificação
+        in: body
+        name: notification
+        required: true
+        schema:
+          $ref: '#/definitions/types.NotificationPayload'
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: notification updated successfully
+          schema:
+            type: string
+        "400":
+          description: Bad Request
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "404":
+          description: Not Found
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "500":
+          description: Internal Server Error
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+      summary: Atualiza uma notificação existente
+      tags:
+      - notifications
+  /ratings:
+    get:
+      description: Retorna uma lista de todas as avaliações
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/types.Rating'
+            type: array
+        "500":
+          description: Internal Server Error
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+      summary: Obtém todas as avaliações
+      tags:
+      - ratings
+    post:
+      consumes:
+      - application/json
+      description: Cria uma nova avaliação com base nos dados fornecidos
+      parameters:
+      - description: Dados da avaliação
+        in: body
+        name: rating
+        required: true
+        schema:
+          $ref: '#/definitions/types.RatingPayload'
+      produces:
+      - application/json
+      responses:
+        "201":
+          description: rating created successfully
+          schema:
+            type: string
+        "400":
+          description: Bad Request
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "500":
+          description: Internal Server Error
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+      summary: Cria uma nova avaliação
+      tags:
+      - ratings
+  /ratings/{id}:
+    delete:
+      description: Exclui uma avaliação existente com base no ID fornecido
+      parameters:
+      - description: ID da avaliação
+        in: path
+        name: id
+        required: true
+        type: integer
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: rating deleted successfully
+          schema:
+            type: string
+        "400":
+          description: Bad Request
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "404":
+          description: Not Found
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "500":
+          description: Internal Server Error
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+      summary: Exclui uma avaliação existente
+      tags:
+      - ratings
+    get:
+      description: Retorna uma avaliação com base no ID fornecido
+      parameters:
+      - description: ID da avaliação
+        in: path
+        name: id
+        required: true
+        type: integer
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/types.Rating'
+        "400":
+          description: Bad Request
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "404":
+          description: Not Found
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "500":
+          description: Internal Server Error
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+      summary: Obtém uma avaliação por ID
+      tags:
+      - ratings
+    put:
+      consumes:
+      - application/json
+      description: Atualiza uma avaliação existente com base nos dados fornecidos
+      parameters:
+      - description: ID da avaliação
+        in: path
+        name: id
+        required: true
+        type: integer
+      - description: Dados da avaliação
+        in: body
+        name: rating
+        required: true
+        schema:
+          $ref: '#/definitions/types.RatingPayload'
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: rating updated successfully
+          schema:
+            type: string
+        "400":
+          description: Bad Request
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "404":
+          description: Not Found
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "500":
+          description: Internal Server Error
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+      summary: Atualiza uma avaliação existente
+      tags:
+      - ratings
+swagger: "2.0"

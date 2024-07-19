@@ -1,0 +1,50 @@
+{
+  "expo": {
+    "name": "sr-match",
+    "slug": "sr-match",
+    "version": "0.5.0",
+    "orientation": "portrait",
+    "icon": "./assets/launcherIcon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/launcherIcon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/launcherIcon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyAItwFun_EWXXG_Hr7rfDgMXUXBfy1ZbpU"
+        }
+      },
+      "package": "com.marceloassis.srmatch"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "packagerOpts": {
+      "config": "metro.config.js",
+      "sourceExts": [
+        "js",
+        "jsx",
+        "ts",
+        "tsx",
+        "json",
+        "svg"
+      ]
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a9141564-6c36-42b3-8d13-dd75e4bb3bac"
+      }
+    },
+    "owner": "marceloassis"
+  }
+}

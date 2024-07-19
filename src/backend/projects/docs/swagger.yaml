@@ -1,0 +1,546 @@
+definitions:
+  types.CustomDate:
+    properties:
+      time.Time:
+        type: string
+    type: object
+  types.Project:
+    properties:
+      created_at:
+        $ref: '#/definitions/types.CustomDate'
+      description:
+        type: string
+      id:
+        type: integer
+      name:
+        type: string
+      photo:
+        type: string
+      status:
+        type: string
+      subcategory_id:
+        type: integer
+      updated_at:
+        $ref: '#/definitions/types.CustomDate'
+      user_id:
+        type: integer
+    type: object
+  types.ProjectPayload:
+    properties:
+      description:
+        type: string
+      name:
+        type: string
+      photo:
+        type: string
+      status:
+        type: string
+      subcategory_id:
+        type: integer
+      user_id:
+        type: integer
+    type: object
+  types.Synergy:
+    properties:
+      description:
+        type: string
+      id:
+        type: integer
+      source_project_id:
+        type: integer
+      status:
+        type: string
+      target_project_id:
+        type: integer
+      type:
+        type: string
+    type: object
+  types.SynergyPayload:
+    properties:
+      description:
+        type: string
+      source_project_id:
+        type: integer
+      status:
+        type: string
+      target_project_id:
+        type: integer
+      type:
+        type: string
+    type: object
+  types.Update:
+    properties:
+      created_at:
+        $ref: '#/definitions/types.CustomDate'
+      date:
+        type: string
+      description:
+        type: string
+      id:
+        type: integer
+      synergy_id:
+        type: integer
+      title:
+        type: string
+    type: object
+  types.UpdatePayload:
+    properties:
+      date:
+        type: string
+      description:
+        type: string
+      synergy_id:
+        type: integer
+      title:
+        type: string
+    type: object
+  utils.ErrorResponse:
+    properties:
+      message:
+        type: string
+    type: object
+info:
+  contact: {}
+paths:
+  /projects:
+    get:
+      description: Retorna uma lista de todos os projetos
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/types.Project'
+            type: array
+        "500":
+          description: Internal Server Error
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+      summary: Obtém todos os projetos
+      tags:
+      - projects
+    post:
+      consumes:
+      - application/json
+      description: Cria um novo projeto com base nos dados fornecidos
+      parameters:
+      - description: Dados do projeto
+        in: body
+        name: project
+        required: true
+        schema:
+          $ref: '#/definitions/types.ProjectPayload'
+      produces:
+      - application/json
+      responses:
+        "201":
+          description: project created successfully
+          schema:
+            type: string
+        "400":
+          description: Bad Request
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "500":
+          description: Internal Server Error
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+      summary: Cria um novo projeto
+      tags:
+      - projects
+  /projects/{id}:
+    delete:
+      description: Exclui um projeto existente com base no ID fornecido
+      parameters:
+      - description: ID do projeto
+        in: path
+        name: id
+        required: true
+        type: integer
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: project deleted successfully
+          schema:
+            type: string
+        "400":
+          description: Bad Request
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "404":
+          description: Not Found
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "500":
+          description: Internal Server Error
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+      summary: Exclui um projeto existente
+      tags:
+      - projects
+    get:
+      description: Retorna um projeto com base no ID fornecido
+      parameters:
+      - description: ID do projeto
+        in: path
+        name: id
+        required: true
+        type: integer
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/types.Project'
+        "400":
+          description: Bad Request
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "404":
+          description: Not Found
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "500":
+          description: Internal Server Error
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+      summary: Obtém um projeto por ID
+      tags:
+      - projects
+    put:
+      consumes:
+      - application/json
+      description: Atualiza um projeto existente com base nos dados fornecidos
+      parameters:
+      - description: ID do projeto
+        in: path
+        name: id
+        required: true
+        type: integer
+      - description: Dados do projeto
+        in: body
+        name: project
+        required: true
+        schema:
+          $ref: '#/definitions/types.ProjectPayload'
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: project updated successfully
+          schema:
+            type: string
+        "400":
+          description: Bad Request
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "404":
+          description: Not Found
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "500":
+          description: Internal Server Error
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+      summary: Atualiza um projeto existente
+      tags:
+      - projects
+  /synergies:
+    get:
+      description: Retorna uma lista de todas as sinergias
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/types.Synergy'
+            type: array
+        "500":
+          description: Internal Server Error
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+      summary: Obtém todas as sinergias
+      tags:
+      - synergies
+    post:
+      consumes:
+      - application/json
+      description: Cria uma nova sinergia com base nos dados fornecidos
+      parameters:
+      - description: Dados da sinergia
+        in: body
+        name: synergy
+        required: true
+        schema:
+          $ref: '#/definitions/types.SynergyPayload'
+      produces:
+      - application/json
+      responses:
+        "201":
+          description: synergy created successfully
+          schema:
+            type: string
+        "400":
+          description: Bad Request
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "500":
+          description: Internal Server Error
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+      summary: Cria uma nova sinergia
+      tags:
+      - synergies
+  /synergies/{id}:
+    delete:
+      description: Exclui uma sinergia existente com base no ID fornecido
+      parameters:
+      - description: ID da sinergia
+        in: path
+        name: id
+        required: true
+        type: integer
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: synergy deleted successfully
+          schema:
+            type: string
+        "400":
+          description: Bad Request
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "404":
+          description: Not Found
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "500":
+          description: Internal Server Error
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+      summary: Exclui uma sinergia existente
+      tags:
+      - synergies
+    get:
+      description: Retorna uma sinergia com base no ID fornecido
+      parameters:
+      - description: ID da sinergia
+        in: path
+        name: id
+        required: true
+        type: integer
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/types.Synergy'
+        "400":
+          description: Bad Request
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "404":
+          description: Not Found
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "500":
+          description: Internal Server Error
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+      summary: Obtém uma sinergia por ID
+      tags:
+      - synergies
+    put:
+      consumes:
+      - application/json
+      description: Atualiza uma sinergia existente com base nos dados fornecidos
+      parameters:
+      - description: ID da sinergia
+        in: path
+        name: id
+        required: true
+        type: integer
+      - description: Dados da sinergia
+        in: body
+        name: synergy
+        required: true
+        schema:
+          $ref: '#/definitions/types.SynergyPayload'
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: synergy updated successfully
+          schema:
+            type: string
+        "400":
+          description: Bad Request
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "404":
+          description: Not Found
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "500":
+          description: Internal Server Error
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+      summary: Atualiza uma sinergia existente
+      tags:
+      - synergies
+  /updates:
+    get:
+      description: Retorna uma lista de todas as atualizações
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/types.Update'
+            type: array
+        "500":
+          description: Internal Server Error
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+      summary: Obtém todas as atualizações
+      tags:
+      - updates
+    post:
+      consumes:
+      - application/json
+      description: Cria uma nova atualização com base nos dados fornecidos
+      parameters:
+      - description: Dados da atualização
+        in: body
+        name: update
+        required: true
+        schema:
+          $ref: '#/definitions/types.UpdatePayload'
+      produces:
+      - application/json
+      responses:
+        "201":
+          description: update created successfully
+          schema:
+            type: string
+        "400":
+          description: Bad Request
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "500":
+          description: Internal Server Error
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+      summary: Cria uma nova atualização
+      tags:
+      - updates
+  /updates/{id}:
+    delete:
+      description: Exclui uma atualização existente com base no ID fornecido
+      parameters:
+      - description: ID da atualização
+        in: path
+        name: id
+        required: true
+        type: integer
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: update deleted successfully
+          schema:
+            type: string
+        "400":
+          description: Bad Request
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "404":
+          description: Not Found
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "500":
+          description: Internal Server Error
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+      summary: Exclui uma atualização existente
+      tags:
+      - updates
+    get:
+      description: Retorna uma atualização com base no ID fornecido
+      parameters:
+      - description: ID da atualização
+        in: path
+        name: id
+        required: true
+        type: integer
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/types.Update'
+        "400":
+          description: Bad Request
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "404":
+          description: Not Found
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "500":
+          description: Internal Server Error
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+      summary: Obtém uma atualização por ID
+      tags:
+      - updates
+    put:
+      consumes:
+      - application/json
+      description: Atualiza uma atualização existente com base nos dados fornecidos
+      parameters:
+      - description: ID da atualização
+        in: path
+        name: id
+        required: true
+        type: integer
+      - description: Dados da atualização
+        in: body
+        name: update
+        required: true
+        schema:
+          $ref: '#/definitions/types.UpdatePayload'
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: update updated successfully
+          schema:
+            type: string
+        "400":
+          description: Bad Request
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "404":
+          description: Not Found
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+        "500":
+          description: Internal Server Error
+          schema:
+            $ref: '#/definitions/utils.ErrorResponse'
+      summary: Atualiza uma atualização existente
+      tags:
+      - updates
+swagger: "2.0"

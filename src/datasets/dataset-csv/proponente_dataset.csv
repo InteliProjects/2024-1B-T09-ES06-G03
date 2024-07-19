@@ -1,0 +1,1425 @@
+id,proponente,nome da empresa,indústria de atuação,cargo
+1,Braian Goulart,Fundação Banco do Brasil,Terceiro Setor,COO
+2,Kerolay Ferreira,Fundação Itaú Social,Terceiro Setor,COO
+3,Vlamir Guterres Holanda Pureza,Sesc,Cultura e Entretenimento,COO
+4,Wilene Vila-Chã,Fundación Telefónica,Terceiro Setor,CHRO
+5,Jamur Mantas,Acciona,Energia Renovável,COO
+6,Willa  Vergueiro,Fundación MAPFRE,Seguros e Assistência Social,CEO
+7,Misangela Félix Botica,Sebrae,Desenvolvimento de Negócios,Embaixador
+8,Iracene Camargo,McKinsey & Company,Consultoria de Gestão,CCO
+9,Noelia Franca Conde Arantes,Farmax,Farmacêutica,CHRO
+10,Amerita Azenha,Thyssenkrupp,Indústria Metalúrgica,Embaixador
+11,Darleti Negromonte Taveiros,Wacker Chemie AG,Química,CCO
+12,Sanuza Dinis Setúbal,SaúdeMais,Saúde,CMO
+13,Rendel Frade Keil,SaúdeTotal,Saúde,CEO
+14,Rosentina Bicudo Balsemão,Açotubo,Distribuição e Serviços de Aço,CCO
+15,Grasilene Amado,Thyssenkrupp,Indústria Metalúrgica,Embaixador
+16,Eliana Coutinho Palos,Wacker Chemie AG,Química,Embaixador
+17,Verucia Corte-Real,WWF-Brasil,Conservação Ambiental,CTO
+18,Marivanio Cavaco,Farmapar,Farmacêutica,CHRO
+19,Allan Goulão Henriques,Pharmalife,Farmacêutica,CEO
+20,Decelis Quintas Graça,Pharmavida,Farmacêutica,CCO
+21,Emanuele Anes,The Nature Conservancy,Conservação Ambiental,CFO
+22,Georgia Mariz,Google,Tecnologia,Embaixador
+23,Hidekazu Graça Andrade,Khan Academy,Educação,CFO
+24,Losani Capistrano,Khan Academy,Educação,CFO
+25,Juliermerson Liberato,Harvard University,Educação,CFO
+26,Ranieri Feijó Freixo,Johnson & Johnson,Farmacêutica e Produtos de Consumo,CTO
+27,Claudionete Simões Vale Guerreiro,Brookdale Senior Living,Gestão de Residências Seniores,CMO
+28,Iarlete Vilhena Cachão Dorneles,Sunrise Senior Living,Gestão de Residências Seniores,COO
+29,Adrieni Vale Madureira Moita,Ministério da Saúde,Governo,COO
+30,Isis Baía,Khan Academy,Educação,CFO
+31,Lenires Frazão,American Psychological Association,Saúde Mental,CIO
+32,Dieferson Valgueiro Inês Leão,Corrections Corporation of America,Gestão de Instalações Correcionais,CTO
+33,Juracelia Afonso Rebouças,Pharmex,Farmacêutica,CFO
+34,Mizaiane Barrico,Amnesty International,Direitos Humanos,CHRO
+35,Jesana Sandinha Bento,Embraer,Aeroespacial,Embaixador
+36,Neli Maia Godoi Esparteiro,Airbus,Aeroespacial,CFO
+37,Benides Águeda Belchior Xavier,Médicos Sem Fronteiras,Saúde e Ajuda Humanitária,CTO
+38,Ronielly Neiva,John Deere,Maquinário Agrícola,CCO
+39,Julinei Curvelo Terra Rios,Unilever,Bens de Consumo,CMO
+40,Julis Lucena Leal Belchior,IBM,Tecnologia e Computação,CHRO
+41,Rocicleia Cabeça Castilho,Microsoft,Tecnologia e Computação,CLO
+42,Nelcino Estrada,General Electric,Tecnologia e Engenharia,Embaixador
+43,Waderlei Adão Landim,Boeing,Aeroespacial,CLO
+44,Erlaine Espargosa Belo,Airbus,Aeroespacial,CEO
+45,Janilson Azambuja Granja,SAP,Tecnologia,CCO
+46,Acassiano Farias Gadelha Leite,ACNUR,Ajuda Humanitária,CEO
+47,Elenito Feira Boto,Nestlé,Alimentos e Bebidas,CEO
+48,Gibran Faustino,Barilla,Alimentos e Bebidas,CTO
+49,Joseildo Torrado Aldeia,BASF,Química,CIO
+50,Wainy Mariz Lobato Madeira,Sony Music,Entretenimento,Embaixador
+51,Hellmuth Guedes,Amnesty International,Direitos Humanos,COO
+52,Edenilse Quadros,BlackRock,Serviços Financeiros,CTO
+53,Rafael Barreto,Futurewei (Huawei),Tecnologia,Embaixador
+54,Geisica Bingre Malho,Ellen MacArthur Foundation,Sustentabilidade Ambiental,CLO
+55,Ronilton Morão Janes,Whole Foods Market (Amazon),Varejo de Alimentos,CEO
+56,Gelsione Bouça,McKinsey & Company,Consultoria de Gestão,CEO
+57,Adalzira Peralta,Siemens,Tecnologia e Engenharia,Embaixador
+58,Keli Abelho,DeepMind (Alphabet),Inteligência Artificial,CLO
+59,Welen Café,Coursera,Educação,CCO
+60,Josielly Almada,Danone,Alimentos e Bebidas,CIO
+61,Cristineide Mondragão Goulão Ulhoa,Uber,Transporte,CMO
+62,Julinda Caminha Vilanova,Saatchi & Saatchi,Publicidade,CFO
+63,Daiani Oleiro Mirandela,Dyson,Tecnologia de Consumo,CTO
+64,Faiza Amaro Palhares,Google,Tecnologia,CMO
+65,Nance Lira Garcia,Microsoft,Tecnologia,CFO
+66,Inede Setúbal Setúbal Castelo,Google,Tecnologia,COO
+67,Darliane Durão Mondragão,Sotheby's,Arte e Leilões,COO
+68,Jailton Craveiro Camelo,Nonprofit Arts Organization,Cultura e Artes,CMO
+69,Edival Quinzeiro,Nonprofit Arts Organization,Cultura e Artes,CFO
+70,Simelia Castanheira Carvalho Castanheda,Adobe,Software,CFO
+71,Ediane Peçanha,SAS Institute,Análise de Dados,CEO
+72,Zilda Anjos,Nonprofit Arts Organization,Cultura e Artes,CEO
+73,Silvo Azevedo Esparteiro Faria,Khan Academy,Educação,CHRO
+74,Cesaro Paz,Amnesty International,Direitos Humanos,CHRO
+75,Creuza Cabeça De Vaca Santana Silva,IBM,Tecnologia,CCO
+76,Idelson Coronel Olivares Caparica,Airbus,Aeroespacial,CEO
+77,Talitta Monjardim Simões Quintal,NASA,Exploração Espacial,CHRO
+78,Jovilson Mansilha Roriz,NASA,Exploração Espacial,CMO
+79,Demis Uchoa Prada Sobral,Google,Tecnologia,CEO
+80,Cildo Gois,WWF,Conservação Ambiental,CEO
+81,Orcinio Vergueiro Neres,Bloomberg,Serviços Financeiros e Mídia,CMO
+82,Eliane Azambuja,Unilever,Bens de Consumo,CMO
+83,Genisvaldo Castro Vides,WWF,Conservação Ambiental,CTO
+84,Jamie Silvestre Rangel,Tesla,Energia Renovável,CCO
+85,Amildo Palma,Chamber of Commerce,Comércio e Indústria,COO
+86,Wallison Quinterno Medina,BioNTech,Biotecnologia,CFO
+87,Gimara Domingos,Weight Watchers,Bem-estar e Saúde,CEO
+88,Gleiva Macieira Assis Regueira,Google,Tecnologia,CFO
+89,Rainier Espírito Santo Beltrão Bingre,Conservation International,Conservação Ambiental,CFO
+90,Valterci Barcelos Canedo,L'Oréal,Cosméticos,CMO
+91,Lautair Barroca,United Nations,Organização Intergovernamental,CHRO
+92,Erondes Capucho Benevides Canela,Google,Tecnologia,CIO
+93,Aldiva Hipólito Paranhos,Nonprofit Organization,Cultura e Artes,CHRO
+94,Sonaide Reis Lamenha Sacadura,UN Refugee Agency (UNHCR),Direitos Humanos,CFO
+95,Deusomar Queirós,UN Refugee Agency (UNHCR),Direitos Humanos,CEO
+96,Elver Duarte Medina Freiria,UN Refugee Agency (UNHCR),Direitos Humanos,CMO
+97,Girleudo Mena Valcácer,UN Refugee Agency (UNHCR),Direitos Humanos,Embaixador
+98,Deonisia Azeredo,UN Refugee Agency (UNHCR),Direitos Humanos,CHRO
+99,Erislania Palmeira Matias Quintas,UN Refugee Agency (UNHCR),Direitos Humanos,COO
+100,Weleton Malheiro,Airbnb,Hospitalidade,CEO
+101,Orizia Quintal,Google,Tecnologia,CHRO
+102,Norman Quesado,Biogen,Biotecnologia,CIO
+103,Elanio Malafaia Pardo Avelar,WWF,Conservação Ambiental,COO
+104,Silesia Estrada,Organovo,Biotecnologia,CMO
+105,Josiedna Olivares Negromonte,Illumina,Biotecnologia,CHRO
+106,Dellano Cabeça,Bayer,Biotecnologia,Embaixador
+107,Izanilde Ferraz Rangel,Synthetic Genomics,Biotecnologia,CFO
+108,Isolina Carvalhosa Proença Caniça,WWF,Conservação Ambiental,CHRO
+109,Cassila Vilela,Genentech,Biotecnologia,CEO
+110,Seiti Muxagata Taborda Espírito Santo,Apple,Tecnologia,CLO
+111,Rosenil Curado Pêcego Alves,Diageo,Bebidas Alcoólicas,CHRO
+112,Adelano Colaço Duarte,Autodesk,Software,CFO
+113,Rosevan Azenha Úria,Philips,Eletrônicos,CIO
+114,Juseline Esteves,British Council,Educação e Cultura,CEO
+115,Sonaira Antunes Feira Fernandes,Toyota,Automotivo,CMO
+116,Eliander Caparica Rebouças,Tesla,Automotivo,CCO
+117,Gelindo Bernardes Chagas Canedo,Tesla,Automotivo,CLO
+118,Diel César,McKinsey & Company,Consultoria de Gestão,Embaixador
+119,Adjalmo Valadão,H&M,Varejo de Moda,CEO
+120,Luardo Macena Lima,H&M,Varejo de Moda,CLO
+121,Juscelaine Abasto,H&M,Varejo de Moda,CHRO
+122,Ponina Regueira Jardim Caeira,Tesco,Varejo de Alimentos,Embaixador
+123,Eurenides Falcão,Samsung,Eletrônicos,CFO
+124,Ana Ginjeira,Volkswagen,Automotivo,Embaixador
+125,Ewertton Carvalhal Anes,Tesla,Automotivo,CFO
+126,Jadson Xisto Sodré,Greenpeace,Ambientalismo,CFO
+127,Romo Fartaria Neves,Greenpeace,Ambientalismo,CEO
+128,Deusimaria Eanes,WWF,Conservação Ambiental,COO
+129,Fredd Medina Valentim Cotrim,Greenpeace,Ambientalismo,CLO
+130,Nerileide Lago Alcaide,Greenpeace,Ambientalismo,Embaixador
+131,Vandevaldo Furquim,WWF,Conservação Ambiental,CCO
+132,Isac Olivares Velasco Raposo,Greenpeace,Ambientalismo,CTO
+133,Eriosmar Condorcet Olivares,Greenpeace,Ambientalismo,CTO
+134,Jarmiro Marreiro Vieira,Greenpeace,Ambientalismo,CMO
+135,Kalline Avelar Severiano Santarém,Heineken,Bebidas Alcoólicas,CHRO
+136,Jeder Farinha Damásio,Bayer,Agricultura,CIO
+137,Carolain Carlos Braga Pontes,National Geographic Society,Educação e Ciência,COO
+138,Valderio Flávio Beiriz,Skillsoft,Educação Corporativa,CIO
+139,Stefani Cabeça De Vaca Ruela,Time Capsule Company,Entretenimento,CIO
+140,Lenicio Viveiros Rebotim Redondo,Local Nonprofit,Comunidade e Serviço Social,CCO
+141,Alicio Graça,Local Nonprofit,Comunidade e Serviço Social,CTO
+142,Cleitiane Chagas Barateiro Jesus,Khan Academy,Educação,CLO
+143,Francilene França,Local Cultural Organization,Cultura,Embaixador
+144,Loadir Fiães,Google,Tecnologia,CHRO
+145,Riclecia Aquino Ouro Eiró,Local Cultural Organization,Cultura,CTO
+146,Bernalda Durão,Catalyst Inc.,Tecnologia e Consultoria,CIO
+147,Vilza Lagoa Luz Castilhos,Mayo Clinic,Saúde,CIO
+148,Elianete Godoi Brito,Certification Body,Sustentabilidade,COO
+149,Glaci Paula Ximenes Paiva,NASA,Ciência e Tecnologia,CIO
+150,Suelen Vila-Chã,Khan Academy,Educação,CMO
+151,Jeter Monte,Facebook (Meta),Tecnologia,CTO
+152,Suiane Toste Marinho,WWF,Conservação Ambiental,CEO
+153,Artus Bragança Moita Carvalhal,Local Government,Urbanismo,CTO
+154,Ledes Diegues Hipólito,UNESCO,Educação e Cultura,CCO
+155,Elizabete Canhão Castelo,Greenpeace,Ambientalismo,CEO
+156,Gildair Assunção,Siemens,Tecnologia e Engenharia,CCO
+157,Aldeci Almada,Local Weather Organization,Meteorologia,CEO
+158,Jesiel Leão Calheiros,Environmental Nonprofit,Ciência Ambiental,COO
+159,Cerlina Galindo Cipriano,DuPont,Química e Materiais,CTO
+160,Elissana Murteira Coronel,Disney,Entretenimento,CHRO
+161,Aldeli Covilhã,Google,Tecnologia,CCO
+162,Nelvina Frazão Machado,Tesla,Energia Renovável,CEO
+163,Ieron Henriques Simão Milheirão,City Government,Gestão Urbana,CMO
+164,Ramis Jobim Sacramento Muxagata,Tesla,Transporte,CEO
+165,Kainan Bentes Beiriz Nascimento,Google,Transporte,CMO
+166,Ivoneti Abasto,GE Renewable Energy,Energia Renovável,Embaixador
+167,Geci Quintais,Siemens,Tecnologia Energética,Embaixador
+168,Nelsino França Cesário Botica,Tesla,Transporte,CFO
+169,Fabilio Palma Rebouças Botica,Bombardier,Transporte Público,CCO
+170,Madison Morais Uchoa Milheiriço,Toyota,Tecnologia Automotiva,CTO
+171,Gleicieli Severo Castelhano,Environmental Agency,Meteorologia,CCO
+172,Gerciane Dâmaso Baía Cunha,Environmental Nonprofit,Sustentabilidade Ambiental,CHRO
+173,Jullia Guilheiro Ferraço Pacheco,Adobe,Tecnologia e Criatividade,CEO
+174,Adenes Ferreira,Google,Tecnologia,CTO
+175,Isa Angelim Frota Torres,Discovery Channel,Mídia e Educação,CCO
+176,Renildo Aveiro,UNDP (United Nations Development Programme),Desenvolvimento Sustentável,CEO
+177,Waldir Paula Ilha,Charity Organization,Ajuda Humanitária,CIO
+178,Maine Noronha Falcão,Discovery Channel,Educação e Ciência,Embaixador
+179,Eder Breia Sousa Rebocho,Nonprofit Organization,Ajuda Humanitária,CLO
+180,Edcelma Barreiros,TED Talks,Educação e Inspiração,CEO
+181,Dalila Monforte,Nonprofit Organization,Sustentabilidade Ambiental,Embaixador
+182,Sivia Alcântara,WWF,Conservação Ambiental,CHRO
+183,Charliani Carvalheiro Silva,Greenpeace,Ambientalismo,CEO
+184,Edilandia Luz Ulhoa Letras,Local Government,Urbanismo,CTO
+185,Lecildo Simão,MIT,Tecnologia e Inovação,CMO
+186,Necivaldo Calado,Facebook (Meta),Tecnologia,CTO
+187,Waldair Bettencourt Póvoas,Cleveland Clinic,Saúde,CLO
+188,Gilmar Ninharelhos Aranha,Microsoft,Tecnologia,COO
+189,Hidalgo Coelho Godoi,Telefonica,Bem-estar Digital,CCO
+190,Cleiciane Malafaia Brites Toste,Telefonica,Empatia Digital,COO
+191,Adjanilson Brum Infante Cadaval,Nonprofit Organization,Solidariedade,CMO
+192,Lindeane Horta Charneca,LinkedIn,Talento e Carreiras,CIO
+193,Aldeise Quintais Cardoso Cruz,Microsoft,Tecnologia,COO
+194,Saiomara Barrico Bouça Canedo,Environmental Nonprofit,Consciência Climática,CHRO
+195,Alisson Carmo Paula Afonso,Startup Incubator,Negócios e Empreendedorismo,CEO
+196,Ione Damásio Simões Castanheda,Hospital,Saúde,CHRO
+197,Jorgiano Barreira,Green Building Council,Sustentabilidade na Construção,CCO
+198,Azelio Carmona Castro Zambujal,Local Team Building Company,Recursos Humanos,CTO
+199,Liciene Álvares,Local Team Building Company,Recursos Humanos,CIO
+200,Plabo Barra Faria Bicudo,Local Community Development Organization,Desenvolvimento Comunitário,Embaixador
+201,Belgica Gomes Furtado Ruas,Habitat for Humanity,Construção e Equidade Social,CIO
+202,Alissa Fidalgo Palos,Nonprofit Organization,Bem-estar e Saúde Mental,CLO
+203,Gidasio Quaresma Barroca,Nonprofit Organization,Inclusão Social,CFO
+204,Delinde Laranjeira Simas,Habitat for Humanity,Construção Comunitária,CMO
+205,Elsion Veloso,Environmental NGO,Sustentabilidade Ambiental,CFO
+206,Vaniza Vilarinho,Local Nonprofit,Serviço Comunitário,CMO
+207,Natalia Costa Brochado,Nonprofit Organization,Serviço Comunitário,COO
+208,Gilbertino Franca,Charity Organization,Ajuda Humanitária,CTO
+209,Jovimar Aguiar Craveiro,Google,Tecnologia e Criatividade,CEO
+210,Alciomar Mondragão Barreto Brito,Charity Organization,Ajuda Humanitária,COO
+211,Marianita Barateiro Faro,United Nations,Desenvolvimento Sustentável,CCO
+212,Geraldo Godoi Noleto Álvaro,World Bank,Desenvolvimento Econômico,COO
+213,Geisiani Macena Falcão Jordão,Nonprofit Organization,Inclusão Social,CTO
+214,Clenir Valadim Barreno,Healthcare Nonprofit,Saúde,CMO
+215,Janaira Faro,Apple,Tecnologia,CCO
+216,Charlote Paredes Sarmento Andrade,Environmental Agency,Sustentabilidade Ambiental,CTO
+217,Altivo Carqueijeiro Xisto,Monsanto (Bayer),Agricultura Biotech,CMO
+218,Engels Prestes,Moderna,Biotecnologia,CCO
+219,Pawel Infante Espírito Santo Milhães,Genentech,Biotecnologia,CMO
+220,Dilson Semedo Rocha Almeida,Genentech,Biotecnologia,CFO
+221,Saldanha Santana,Synthetic Genomics,Biotecnologia,CCO
+222,Enira Catela Foquiço,Syngenta,Agricultura Biotech,CFO
+223,Sidileia Penha,Bio-Rad Laboratories,Biotecnologia,Embaixador
+224,Elionara Esparteiro Peçanha,PathogenDx,Diagnósticos,CLO
+225,Leti Pimenta Protásio,Broad Institute,Pesquisa Genética,CMO
+226,Kemila Toscano Boto,Broad Institute,Pesquisa Médica,CLO
+227,Richeli Naves Assis Canadas,Monsanto (Bayer),Agricultura Biotech,CMO
+228,Natielen Lages,Spark Therapeutics,Terapia Gênica,Embaixador
+229,Jaison Pimenta,IBM,Tecnologia,CIO
+230,Marconi Cachão,Local Development Organization,Desenvolvimento Comunitário,COO
+231,Marisol Branco Bugalho Candeias,Local Nonprofit,Desenvolvimento Comunitário,CLO
+232,Kender Vilar,Local Government,Serviços Urbanos,Embaixador
+233,Ires Bicudo Talhão Cabeça De Vaca,Local Childcare Provider,Cuidados Infantis,CLO
+234,Leila Maia,Local Community Garden,Desenvolvimento Comunitário,CIO
+235,Mozair Cortês,Local Wellness Organization,Bem-estar e Saúde,CMO
+236,Adelvino Cangueiro Lindim Prado,British Council,Educação e Cultura,CEO
+237,Erizete Quintal Morão,Slack,Tecnologia e Colaboração,CIO
+238,Cleudirene Lages,Google,Cultura e Tecnologia,CEO
+239,Norair Pederneiras Ourique Velasques,Google,Cultura e Tecnologia,CCO
+240,Luciana Escobar Rocha Inácio,IBM,Análise de Dados,CEO
+241,Mirtis Cordeiro Cabeça Marçal,De Beers,Análise de Dados,CIO
+242,Zenildo Chainho,Google,Análise de Dados,CIO
+243,Clesia Zambujal Raposo,Google,Análise de Dados,CFO
+244,Reges Freiria Negrão Carmona,IBM,Análise de Dados,COO
+245,Roberio Fragoso Flávio Simão,Google,Análise de Dados,Embaixador
+246,Kevelen Sarmento,Google,Análise de Dados,CHRO
+247,Zeneide Galvão Figueiró Peixoto,Google,Análise de Dados,CEO
+248,Gregoli Leiria Ferro Caniça,Salesforce,Análise de Dados,CLO
+249,Alcida Monjardim Brandão,Leonardo da Vinci,Inovação e Tecnologia,CCO
+250,Juliette Redondo,Deloitte,Consultoria,CLO
+251,Nicolino Junqueira Freixo Sabrosa,Gerdau,Metalurgia,CLO
+252,Edelvino Cedraz Lameirinhas Bouça,Vitacon,Construção Civil,CTO
+253,Inae Figueiró Campos Zambujal,Local Government,Desenvolvimento Comunitário e Educação,CTO
+254,Tairo Perdigão Mourinho Caires,Environmental NGO,Sustentabilidade Ambiental,CTO
+255,Josiel Chainho Canela Quadros,United Nations Development Programme,Desenvolvimento Sustentável,Embaixador
+256,Airine Mena Dutra Landim,Nonprofit Organization,Inclusão Social,CHRO
+257,Ediran Carvalhoso Antas,Nonprofit Organization,Desenvolvimento Social,CLO
+258,Marquilane Jamandas Boga Magalhães,Nonprofit Organization,Transformação Social,CMO
+259,Sidnes Castilhos,Cultural Nonprofit,Cultura e Educação,CEO
+260,Fredimar Durão,Healthcare Nonprofit,Saúde,CHRO
+261,Railson Lemos,United Nations,Desenvolvimento Humano,COO
+262,Iris Malafaia Andrade,Environmental NGO,Desenvolvimento Sustentável,CFO
+263,Arleudo Manso,Talent Development Nonprofit,Desenvolvimento de Talentos,CEO
+264,Clodomir Serralheiro Vilalobos Bogado,Local Government,Cidadania e Serviços Públicos,CEO
+265,Tailane Malheiro,Local Government,Urbanismo,CMO
+266,Elizaura Tristão Seabra Travassos,Human Rights Watch,Direitos Humanos,CFO
+267,Arzelina Neres Quintana Sardo,Environmental Agency,Sustentabilidade,CCO
+268,Mel Lalanda,Futurice,Tecnologia e Inovação,CTO
+269,Merise Colaço Carmo,Startup Incubator,Empreendedorismo e Negócios,CCO
+270,Sued Xisto Maior Camacho,Skillsoft,Desenvolvimento Profissional,CLO
+271,Raquel Veríssimo Catela,Local Team Building Company,Desenvolvimento de Equipes,CCO
+272,Eranildes Quinteiro Olivares Fogaça,DeepMind,Tecnologia Farmacêutica,CFO
+273,Loiva Figueira,IBM,Inclusão de PCDs,CFO
+274,Adalto Tabanez Caetano,Nanobiotix,Nanotecnologia,CIO
+275,Anielen Cabeça Pederneiras,IBM,Nanotecnologia,CFO
+276,Deani Matosinhos,Talent Development Firm,Desenvolvimento de Potencial,Embaixador
+277,Cirlaine Meira,LinkedIn Learning,Desenvolvimento de Talentos,CFO
+278,Gleiciene Viegas Frota,John Deere,Agricultura Sustentável,COO
+279,Vilene Alves Gabeira,Siemens,Tecnologia Energética,CTO
+280,Luzivando Madruga Bernardes,Geotab,Monitoramento Geotécnico,COO
+281,Idari Mangueira,Planet Labs,Monitoramento Ambiental,CHRO
+282,Tairana Araújo,Amazon,Monitoramento Ambiental,CMO
+283,Luiza Pessoa Poças Mangueira,Wildlife Conservation Society,Conservação da Fauna,CMO
+284,Estefano Matos,NASA,Monitoramento de Incêndios,CTO
+285,Elian Barrela,CDC,Saúde Pública,Embaixador
+286,Marilede Holanda Conde Laureano,Environmental Protection Agency,Monitoramento Ambiental,COO
+287,Magnus Brites Amarante,Environmental Protection Agency,Monitoramento da Qualidade do Ar,CTO
+288,Cilmara Cancela Ornelas,Environmental Protection Agency,Monitoramento Hídrico,CHRO
+289,Loeci Bensaúde Veiga,City Government,Monitoramento Sonoro,COO
+290,Neo Gadelha,Veolia,Reciclagem de Plásticos,CFO
+291,Eneli Neves,Veolia,Reciclagem na Construção Civil,CIO
+292,Elielda Carvalhais Frois,Apple,Reciclagem de Eletrônicos,CHRO
+293,Devison Chousa,CompostNow,Reciclagem de Orgânicos,CCO
+294,Alzemira Soeiro,H&M,Reciclagem Têxtil,CLO
+295,Juli Saltão,Glass Recycling Company,Reciclagem de Vidro,COO
+296,Jesulino Bouças Sousa,Moderna,Desenvolvimento de Vacinas,CMO
+297,Casciano Nunes,Pfizer,Tecnologia de Vacinas,CMO
+298,Ticiara Olaio,Pfizer,Desenvolvimento Tecnológico,Embaixador
+299,Elder Canadas Cordeiro Vale,Accenture,Consultoria,CLO
+300,Renildo Lins,Suez,Gestão de recursos naturais,CEO
+301,Nadja Espargosa,L'Oréal,Cosméticos,CHRO
+302,Lenilda Banha Muxagata Belchior,Deloitte,Consultoria,CIO
+303,Melanias Lários Horta Muxagata,McKinsey & Company,Consultoria,CHRO
+304,Ermidio Barros Fidalgo Velasco,Philips,Tecnologia da Saúde,CHRO
+305,Eduwiges Guerreiro,Siemens Healthineers,Tecnologia da Saúde,CLO
+306,Agostinha Bicalho,Adobe,Software,Embaixador
+307,Neliane Vergueiro,EY,Consultoria,CCO
+308,Nazarene Portugal Saraiva,Google,Tecnologia,CTO
+309,Cassia Rebelo Matos Baião,Microsoft,Tecnologia,COO
+310,Emidio Imperial Monte,SAP,Software,CHRO
+311,Irlla Ximenes Sobreira Letras,Nestlé,Alimentação,CFO
+312,Nalu Doutis,Disney,Entretenimento,CLO
+313,Osvalter Pardo Cartaxo,Tesla,Automotivo,CIO
+314,Josemilia Arruda Pais,Bosch,Tecnologia Automotiva,Embaixador
+315,Marlise Lopes,NVIDIA,Tecnologia,CLO
+316,Mailson França Cardim,Pearson,Educação,CCO
+317,Vania Monte,Veolia,Gestão Ambiental,CIO
+318,Daiviane Poças,DuPont,Química,CEO
+319,Guilherme Loureiro,Boeing,Aeroespacial,CTO
+320,Joanes Cabeça De Vaca Custódio,Lime,Transporte,CEO
+321,Jacia Bento Mafra,Zipcar,Transporte,CTO
+322,Emenson Goulart Valadim,Uber,Transporte,CEO
+323,Raison Zagalo,FedEx,Logística,CIO
+324,Elizani Cobra Melo,Hyundai,Automotivo,COO
+325,Lucinesio Ramires Duarte,Ford,Automotivo,CIO
+326,Jacema Caniça,General Motors,Automotivo,CTO
+327,Veronico Valadim Durães,Toyota,Automotivo,Embaixador
+328,Jaiuson Carreira,Honda,Automotivo,CLO
+329,Zanildo Nogueira Aires,GE Renewable Energy,Energia,CTO
+330,Aldo Tigre Pequeno Albuquerque,DHL,Logística,CTO
+331,Gicleide Nunes,Stena Line,Transporte Marítimo,COO
+332,Edionei Bandeira Barateiro Cortês,Xylem,Tecnologia de Água,Embaixador
+333,Junielton Vidigal Quintela,Lyft,Transporte,CTO
+334,Estelia Ramalho Costa,Beyond Meat,Alimentação,CHRO
+335,Mitael Gravato Resende Xisto,Schindler,Engenharia,CFO
+336,Elon Alves,Airbus,Aeroespacial,CCO
+337,Placida Pegado Ferraz Semedo,Scholastic,Publicação Educacional,CHRO
+338,Laudirene Minho,IBM,Tecnologia,CLO
+339,Lea Mourão,Maersk,Logística,COO
+340,Josiel Sobral Cedro Pontes,BYD,Automotivo,Embaixador
+341,Devailton Meira Coimbra Cardoso,Volkswagen,Automotivo,CMO
+342,Genes Brito Filgueiras,Bosch,Tecnologia Automotiva,CIO
+343,Gercina Gouveia Cidreira Maranhão,Continental AG,Automotivo,CLO
+344,Jaquelma Linhares,Siemens,Engenharia,CCO
+345,Henriques Bivar Delgado,Airbus,Aeroespacial,CLO
+346,Lili Faleiro Toscano,Alstom,Transporte Ferroviário,CLO
+347,Djoni Vilante Sampaio Pastana,Harley-Davidson,Automotivo,Embaixador
+348,Catarina Loio Pardo Palos,Fitbit,Tecnologia de Saúde,COO
+349,Adrieni Mantas Lindim Ribas,TomTom,Tecnologia,CTO
+350,Thierry Queirós,Tesla,Automotiva,CMO
+351,Irisberto Casalinho Areosa Narvais,Tesla,Automotiva,CTO
+352,Dheimeson Calado Roçadas,Apple,Tecnologia,CTO
+353,Leticio Lameiras Caeira,Apple,Tecnologia,Embaixador
+354,Elieverson Coronel Quental,Siemens,Tecnologia e Engenharia,CLO
+355,Adms Valadão Brasil Ruela,Siemens,Tecnologia e Engenharia,CFO
+356,Greisson Proença Pinheiro,Siemens,Tecnologia e Engenharia,Embaixador
+357,Taislaine Lindim Abranches Jardim,Siemens,Tecnologia e Engenharia,CTO
+358,Gelsione Valcácer Neiva,Booking.com,Turismo,CIO
+359,Nilde Araújo Álvares,Volvo,Transporte e Logística,CFO
+360,Denieli Vilante Candal,WWF,Conservação Ambiental,CMO
+361,Dacielma Mendonça,WWF,Conservação Ambiental,CLO
+362,Stephny,CRISPR Therapeutics,Biotecnologia,CEO
+363,Nieves Curvelo Jobim Baião,UNESCO,Educação e Cultura,CIO
+364,Lisley Adarga Vale Porciúncula,UNESCO,Educação e Cultura,CTO
+365,Dalberson Foquiço Arantes Vilarinho,UNESCO,Educação e Cultura,CMO
+366,Elinora Cambezes,Coursera,Educação e Tecnologia,CHRO
+367,Gleuciane Porto,Coursera,Educação e Tecnologia,CCO
+368,Risa Imperial,UN Women,Desenvolvimento Social,CLO
+369,Stony Assunção,UNESCO,Educação e Cultura,CFO
+370,Albert Vaz,UNESCO,Educação e Cultura,CHRO
+371,Wancley Saraiva Vergueiro Ferro,Coursera,Educação e Tecnologia,CIO
+372,Omario Portela Carvalheira Fartaria,Coursera,Educação e Tecnologia,CMO
+373,Marister Tigre Bogado Gentil,Coursera,Educação e Tecnologia,Embaixador
+374,Macieli Barbalho Faro Muniz,UNESCO,Educação e Cultura,CIO
+375,Elismara Negrão,UNESCO,Educação e Cultura,CTO
+376,Walewska Aragão Lopes,UNESCO,Educação e Cultura,CHRO
+377,Elno Carvalhal,UNESCO,Educação e Cultura,CMO
+378,Dejarino Valério Valadão,UNESCO,Educação e Cultura,CEO
+379,Malrina Grande Carmona Lindim,UNESCO,Educação e Cultura,CTO
+380,Elzivani Veiga,UNESCO,Educação e Cultura,CIO
+381,Ciliro Abasto,Coursera,Educação e Tecnologia,CEO
+382,Cemira Cordeiro Feira,Tesla,Automotiva,CLO
+383,Sezira Cunha,Tesla,Automotiva,COO
+384,Nautilia Carneiro Nascimento Chousa,Uber,Transporte e Tecnologia,Embaixador
+385,Eluzabete Mainha Pimentel Picanço,Uber,Transporte e Tecnologia,CEO
+386,Noedi Fontoura Sardo,Alibaba Group,E-commerce e Tecnologia,CEO
+387,Daliria Valadares Luz Doutel,Alibaba Group,E-commerce e Tecnologia,CTO
+388,Rosimildo Barrocas Curado Outeiro,Microsoft,Tecnologia,CLO
+389,Franciele Olaio Caetano,Microsoft,Tecnologia,CIO
+390,Isonia Ulhoa Vilar Castelo Branco,Microsoft,Tecnologia,CIO
+391,Gecilma Fortunato Protásio Severiano,Microsoft,Tecnologia,Embaixador
+392,Lidia Alcântara Ferraz Pacheco,Google,Tecnologia,Embaixador
+393,Marides Cotrim Coelho Furquim,Google,Tecnologia,CCO
+394,Aristao Ilha Pardo Dias,Google,Tecnologia,CLO
+395,Jeimisson Dinis Rego,Google,Tecnologia,CTO
+396,Wiliane Rebocho Costa Nascimento,Google,Tecnologia,CLO
+397,Simara Lobato Faia Meira,Google,Tecnologia,CTO
+398,Solonia Franca Negromonte Cachoeira,Google,Tecnologia,CHRO
+399,Waldir Mateus,Google,Tecnologia,CEO
+400,Keslley Avelar Pais Carrilho,Greenpeace,Meio Ambiente e Conservação,CFO
+401,Dauber Rebotim,Greenpeace,Meio Ambiente e Conservação,CLO
+402,Rusivania Moreira Rebimbas Perdigão,Google,Tecnologia,CFO
+403,Dilse Cerveira Covinha,Ashoka,Desenvolvimento Social,COO
+404,Wilian Gonçalves,Google,Tecnologia,Embaixador
+405,Julian Gama Júdice Rego,Google,Tecnologia,CCO
+406,Smaily Rodrigues Marçal,Greenpeace,Meio Ambiente e Conservação,CIO
+407,Otassio Fitas Botica,Siemens,Tecnologia e Engenharia,CIO
+408,Veronica Couceiro Bulhosa,Siemens,Tecnologia e Engenharia,CIO
+409,Antulio Cadavez Patrício Silva,Siemens,Tecnologia e Engenharia,CCO
+410,Laudeci César Candeias Frajuca,Siemens,Tecnologia e Engenharia,CFO
+411,Deildo Cachoeira Dâmaso Rabelo,Siemens,Tecnologia e Engenharia,CFO
+412,Queila Cascais Guedelha,Siemens,Tecnologia e Engenharia,CIO
+413,Sangela Arantes,MIT,Educação e Pesquisa,COO
+414,Alexsander Vilaverde Inês Leiria,MIT,Educação e Pesquisa,COO
+415,Itaciane Castelo Frazão,Tesla,Automotiva,CEO
+416,Jocenando Milhães Vieira,Tesla,Automotiva,CLO
+417,Maricelso Pinho Torrado Caeira,Harvard University,Educação,CMO
+418,Jeancarla Mourato Câmara,LinkedIn,Tecnologia e Redes Sociais,CEO
+419,Jacinaldo Franco Teodoro,SpaceX,Aeroespacial,CEO
+420,Werison Soares Rebocho,UNESCO,Educação e Cultura,CIO
+421,Tifani Figueiró Teles Veloso,WWF,Conservação Ambiental,CTO
+422,Alcir Brião Fraga Cardim,WHO,Saúde Pública,CFO
+423,Ediclei Ilha Brião,WWF,Conservação Ambiental,CEO
+424,Nelcira Domingos,SpaceX,Aeroespacial,CTO
+425,Julimar Aragão Xavier,BBC,Mídia e Comunicação,CEO
+426,Andrelito Barreiros,BBC,Mídia e Comunicação,CMO
+427,Badia Quintas Magalhães,IBM,Tecnologia,Embaixador
+428,Luccas Paz Baptista,Patagonia,Varejo e Sustentabilidade,CCO
+429,Musa Telinhos,Harvard University,Educação,COO
+430,Lizanias Varela Cortesão Ruas,Deloitte,Consultoria,CMO
+431,Auziro Meireles,Deloitte,Consultoria,CEO
+432,Odacir Couto,Broad Institute,Biotecnologia e Pesquisa,CHRO
+433,Eronias Fortes Lameira,MIT,Educação e Pesquisa,Embaixador
+434,Alvanice Reis Albernaz Pêcego,Google,Tecnologia,CTO
+435,Delcidia Adarga Jesus,Google,Tecnologia,CCO
+436,Farley Quintanilha,Google,Tecnologia,CFO
+437,Giselda Cachão Porciúncula Macieira,WWF,Conservação Ambiental,CEO
+438,Maionara Corte-Real Fidalgo,Broad Institute,Biotecnologia e Pesquisa,CFO
+439,Valdeti Cantanhede Bulhões,MIT,Educação e Pesquisa,CHRO
+440,Hagop Matos Vilaça Lobato,Broad Institute,Biotecnologia e Pesquisa,CEO
+441,Lucemar Lalanda,Broad Institute,Biotecnologia e Pesquisa,CTO
+442,Maricelio Barros,Google,Tecnologia,CLO
+443,Geovino Cadaval Távora,Google,Tecnologia,CEO
+444,Ernaldo Bencatel Franca Foquiço,Stanford University,Educação e Pesquisa,Embaixador
+445,Eronido Carromeu,Harvard University,Educação,CHRO
+446,Itauani Nunes,MIT,Educação e Pesquisa,CIO
+447,Luiggi Franqueira Rosário Abrantes,MIT,Educação e Pesquisa,CTO
+448,Oraldino Lira Amarante,MIT,Educação e Pesquisa,CIO
+449,Iarlley Pais Camelo,WHO,Saúde Pública,CIO
+450,Estanley Souto Coutinho Chamusca,Google,Tecnologia,CEO
+451,Ledina Torrado,Google,Tecnologia,CFO
+452,Eudesmar Souto Maior Café,MIT,Educação e Pesquisa,CCO
+453,Eudine Meira Nolasco Caires,LinkedIn,Tecnologia e Redes Sociais,CCO
+454,Giberson Sarmento Olaio Soares,LinkedIn,Tecnologia e Redes Sociais,CIO
+455,Gersino Fialho Lamego Breia,Coursera,Educação e Tecnologia,Embaixador
+456,Ewellyn Meira Tabanez,SpaceX,Aeroespacial,CIO
+457,Euripia Guedes,UNESCO,Educação e Cultura,CHRO
+458,Nauraci Seabra Saraiva,UN Women,Desenvolvimento Social,CIO
+459,Nilziete Assis Fernandes Veleda,UNESCO,Educação e Cultura,CMO
+460,Jonelma Fidalgo Ribeiro Escobar,UNDP (United Nations Development Programme),Desenvolvimento Social,CEO
+461,Vadir Guimarães,UNDP (United Nations Development Programme),Desenvolvimento Social,CTO
+462,Crisante Paz,WWF,Conservação Ambiental,CEO
+463,Eniomar Freiria Horta Vilalobos,Goldman Sachs,Finanças,COO
+464,Elinaldo Barbosa Covinha Granja,Deloitte,Consultoria,CCO
+465,Valdineis Rebotim Sabrosa,Goldman Sachs,Finanças,CEO
+466,Eldison Frois Abelho Cunha,LinkedIn,Tecnologia e Redes Sociais,CLO
+467,Celismar Veiga,CERN,Pesquisa em Física,CMO
+468,Bernardete Milhães Piteira,CERN,Pesquisa em Física,CEO
+469,Jesulino Minho Torres Regueira,CERN,Pesquisa em Física,COO
+470,Luma Carvalhais Baião,Yamaha,Instrumentos Musicais,CEO
+471,Merceli Arantes,Google,Tecnologia,CEO
+472,Miliene Rego Bugalho Cadaval,Dior,Moda e Luxo,COO
+473,Jardiele Simão Lira Cobra,Google,Tecnologia,COO
+474,Anieli Belmonte,WWF,Conservação Ambiental,CHRO
+475,Juranildes Antas Vilaça Catela,SpaceX,Aeroespacial,COO
+476,Kuno Marcondes Cidreira Silva,WWF,Conservação Ambiental,COO
+477,Mickael Brião Homem Canto,WWF,Conservação Ambiental,CCO
+478,Severine Gois Milheirão Lamenha,Coursera,Educação e Tecnologia,CCO
+479,Macelino Alencar Olaio,WWF,Conservação Ambiental,CTO
+480,Altiere Chaves,UNESCO,Educação e Cultura,Embaixador
+481,Jadimilson Loio,Coursera,Educação e Tecnologia,Embaixador
+482,Canaa Keil Valentim Ruas,GSK,Farmacêutica,CEO
+483,Cisilia Brites Marreiro Peseiro,UN Women,Desenvolvimento Social,Embaixador
+484,Ezildinha Temes Fidalgo,Coursera,Educação e Tecnologia,CCO
+485,Izaida Brião Robalinho Lemos,LinkedIn,Tecnologia e Redes Sociais,CIO
+486,Eudirene Seixas,LinkedIn,Tecnologia e Redes Sociais,CLO
+487,Eudorio Belo Travassos Pessoa,LinkedIn,Tecnologia e Redes Sociais,CTO
+488,Altair Cachoeira,Google,Tecnologia,CMO
+489,Loireci Bessa Porciúncula Matias,Tesla,Automotiva,CMO
+490,Jean Duarte Paião,Tesla,Automotiva,CHRO
+491,Kenid Vilariça Mirandela,Tesla,Automotiva,Embaixador
+492,Raeli Filgueiras Palmeira Feitosa,Amazon,Tecnologia e Logística,CLO
+493,Aldemilton Seabra Moutinho,Boeing,Aeroespacial,CMO
+494,Volga Noronha Zagalo,Uber,Transporte e Tecnologia,CCO
+495,Auberio Mirandela,Uber,Transporte e Tecnologia,CFO
+496,Edivelton Keil Feijó Reino,Siemens,Tecnologia e Engenharia,COO
+497,Kaian Cerveira,Siemens,Tecnologia e Engenharia,Embaixador
+498,Railson Boaventura Norões,Apple,Tecnologia,CMO
+499,Cleomarcos Taveira Franco Bencatel,Apple,Tecnologia,CFO
+500,Iderlene Domingos,Siemens,Tecnologia e Engenharia,CHRO
+501,Amarilto Hilário,Siemens,Tecnologia e Engenharia,CIO
+502,Iracelis Sequeira Sabala,Siemens,Tecnologia e Engenharia,CHRO
+503,Joval Candeias Quinta,Siemens,Tecnologia e Engenharia,Embaixador
+504,Kyoshi Argolo,Maersk,Transporte e Logística,CFO
+505,Ervelino Flores Bezerril Veiga,Maersk,Transporte e Logística,CTO
+506,Cleidi Terra Pescada Farinha,Nestlé,Alimentos e Bebidas,Embaixador
+507,Luzinira Sobreira Curado,UNESCO,Educação e Cultura,COO
+508,Massatoshi Viveiros Carrilho,Coursera,Educação e Tecnologia,CFO
+509,Adeisa Esteves Aranha Vilas Boas,World Bank,Desenvolvimento Econômico,CHRO
+510,Gicele Távora,World Bank,Desenvolvimento Econômico,Embaixador
+511,Kaiany Martins Medeiros,WWF,Conservação Ambiental,CCO
+512,Aristino Quinterno Casado,Sotheby's,Arte e Leilões,CLO
+513,Cantalicio Figueiró Barrela,WWF,Conservação Ambiental,CTO
+514,Grabiel Leite Vidal,LinkedIn,Tecnologia e Redes Sociais,CCO
+515,Katcilene Condorcet Lários Lalanda,WWF,Conservação Ambiental,CCO
+516,Nadedja Valim Caminha Perdigão,CRISPR,Therapeutics Biotecnologia,COO
+517,Dhenifer Holanda,CRISPR,Therapeutics Biotecnologia,CIO
+518,Cleomari Pereira,CRISPR,Therapeutics Biotecnologia,CHRO
+519,Wingrid Camarinho,Siemens,Tecnologia e Engenharia,COO
+520,Dilson Lousada Covinha,UNESCO,Educação e Cultura,CTO
+521,Sigliane Cavaco Souto Valgueiro,Google,Tecnologia,COO
+522,Valmira Flores Bicalho Ourique,Google,Tecnologia,CFO
+523,Divanil Manso,Sephora,Cosméticos e Beleza,COO
+524,Edra Frois Belo,Siemens,Tecnologia e Engenharia,CIO
+525,Renat Valim Goulart Ulhoa,Greenpeace,Meio Ambiente e Conservação,CIO
+526,Ziza Rangel,Samsung,Tecnologia,CFO
+527,Adrielisson Carreira Rolim Porciúncula,CRISPR,Therapeutics Biotecnologia,CTO
+528,Edenes Poças Barreto,WWF,Conservação Ambiental,CMO
+529,Endeson Lampreia Paulos Salomão,Coursera,Educação e Tecnologia,CMO
+530,Rosena Junqueira Malho,WWF,Conservação Ambiental,Embaixador
+531,Ranikelly Doutel Mortágua,UNESCO,Educação e Cultura,CMO
+532,Rulian Gama,Tesla,Tecnologia Automotiva,CCO
+533,Niviane Gravato Vieira,Deloitte,Consultoria,CTO
+534,Ferrucio Abrantes Carromeu Vilar,UNESCO,Educação e Cultura,CMO
+535,Lionesia Faustino Proença,Coursera,Educação e Tecnologia,CCO
+536,Lailce Bernardes Caminha Carvalheiro,Tesla,Tecnologia Automotiva,CMO
+537,Madir Gomes,Siemens,Tecnologia e Engenharia,CHRO
+538,Fabiel Pederneiras Lameirinhas Junqueira,Tesla,Tecnologia Automotiva,CTO
+539,Ordalina Mieiro Canário,Boeing,Aeroespacial,CCO
+540,Adelaine Braga Boeira,Tesla,Tecnologia Automotiva,COO
+541,Dalvino Garrido Guterres,FedEx,Logística,CMO
+542,Vali Cabreira Vital,Tesla,Tecnologia Automotiva,CIO
+543,Raimindo Keil Velasques Vilaverde,Siemens,Tecnologia e Engenharia,CHRO
+544,Nicelio Valido Roçadas,Apple,Tecnologia,CIO
+545,Iaci Ximenes,Apple,Tecnologia,CFO
+546,Bartira Boeira Barroso,John Deere,Maquinário Agrícola,CEO
+547,Claudisson Ximenes Barra,Apple,Tecnologia,CTO
+548,Elisangela Imperial Nóbrega Liberato,Apple,Tecnologia,Embaixador
+549,Zenia Patrício Maia,Apple,Tecnologia,Embaixador
+550,Leles Amoedo Sampaio,Apple,Tecnologia,CFO
+551,Erisan Trindade,Apple,Tecnologia,Embaixador
+552,Kirsten Casqueira Freire Pires,Siemens,Tecnologia e Engenharia,CIO
+553,Rosinalda Júdice Póvoas Machado,Siemens,Tecnologia e Engenharia,CCO
+554,Dartagnan Calado Freire,Tesla,Automotiva,CMO
+555,Eucleia Filipe Lessa Damásio,Deloitte,Consultoria,CCO
+556,Joceline Antunes Moreira Osório,Coursera,Educação e Tecnologia,CLO
+557,Albania Peixoto,Rio Tinto,Mineração,Embaixador
+558,Sheiliane Ramires Frota Protásio,UN-Habitat,Desenvolvimento Urbano,CFO
+559,Ronieles Perdigão,UN-Habitat,Desenvolvimento Urbano,CLO
+560,Martos Sobreira,UNESCO,Educação e Cultura,COO
+561,Valsir Cavalheiro Vasconcelos,UNESCO,Educação e Cultura,COO
+562,Maisy Cantanhede Leite,Tesla,Tecnologia Automotiva,CFO
+563,Jaires Jamandas Vasques Quinterno,Philips,Saúde e Tecnologia,CLO
+564,Germiro Estrela Azeredo Jesus,Philips,Saúde e Tecnologia,CTO
+565,Vanielle Vasconcelos Sacadura,Philips,Saúde e Tecnologia,COO
+566,Jasse Telinhos Nazário Talhão,Philips,Saúde e Tecnologia,CMO
+567,Eliuda Rios,General Hydroponics,Agricultura,Embaixador
+568,Diane Bacelar,Cigna,Saúde,Embaixador
+569,Anatalia Dias,Siemens,Tecnologia e Engenharia,CIO
+570,Uoston Aleixo Jordão,Siemens,Tecnologia e Engenharia,CHRO
+571,Desiree Matos Carvalhoso Mendes,Microsoft,Tecnologia,CMO
+572,Aldeci Rijo Furtado,UNESCO,Desenvolvimento Social,CHRO
+573,Evila Vilaça Mariz,UNESCO,Educação e Cultura,CHRO
+574,Eleoteria Veleda,UNESCO,Desenvolvimento Social,CMO
+575,Josenara Carrasqueira,Siemens,Tecnologia e Engenharia,CIO
+576,Itamira Reino Angelim Mamouros,IBM,Tecnologia,CMO
+577,Joaria Quinta Veleda,IBM,Tecnologia,CIO
+578,Licinha Vieira Rodovalho Laranjeira,IBM,Tecnologia,CEO
+579,Singlair Noronha Regodeiro Campos,IBM,Tecnologia,CCO
+580,Juciliano Parracho Quinteiro,IBM,Tecnologia,CFO
+581,Noemi Saldanha Tigre,IBM,Tecnologia,CMO
+582,Gerlian Antunes Goulart Pinho,IBM,Tecnologia,CHRO
+583,Rominia Palhares Taveiros Barreiros,IBM,Tecnologia,CHRO
+584,Werlaine Neves,IBM,Tecnologia,COO
+585,Jadilza Valido Ávila Toste,IBM,Tecnologia,CLO
+586,Marias Serro Festas,IBM,Tecnologia,CMO
+587,Chiyoko Couto Tavares,Google,Tecnologia,CMO
+588,Naraisa Jordão Sardinha Barrocas,SpaceX,Aeroespacial,COO
+589,Antone Barata,Google,Tecnologia,CIO
+590,Oracilda Camilo,Coursera,Educação e Tecnologia,Embaixador
+591,Jorgiane Mendonça Jamandas Redondo,Google,Tecnologia,CIO
+592,Aleandre Macedo Torres Raposo,LinkedIn,Tecnologia e Redes Sociais,Embaixador
+593,Dalinajara Rico Abelho,World Bank,Desenvolvimento Econômico,CIO
+594,Flavian Banha Pinho Vilarinho,World Bank,Desenvolvimento Econômico,CIO
+595,Sebatiana Mirandela Terra,World Bank,Desenvolvimento Econômico,CLO
+596,Elicelma Moreira Sabrosa,Endeavor,Empreendedorismo,CFO
+597,Genilson Dutra Mena Leiria,Endeavor,Empreendedorismo,CMO
+598,Mazio Caires Hernandes Franca,FAO,Agricultura,CHRO
+599,Tawa Saltão Homem Liberato,UITP,Transportes,CCO
+600,Valeri Jesus Bezerra,WHO,Saúde Pública,CTO
+601,Walison Caldas,Microsoft,Tecnologia,CEO
+602,Clauberto Barrela,Google,Tecnologia,CLO
+603,Edinisio Quinterno,Google,Tecnologia,Embaixador
+604,Zilton Ulhoa,Google,Tecnologia,CLO
+605,Arquelau Fragoso,Google,Tecnologia,CHRO
+606,Eliaci Carvalho Pastana Girão,Microsoft,Tecnologia,CCO
+607,Tairon Cidreira,UNESCO,Educação e Cultura,CFO
+608,Geancarlo Assis,NASA,Pesquisa e Desenvolvimento,COO
+609,Graciel Fortes,NIH,Saúde e Pesquisa,Embaixador
+610,Elsio Varanda,Facebook,Tecnologia,CEO
+611,Eniane Ximenes Carmona Sodré,Google,Tecnologia,COO
+612,Luciane Mieiro Estrela,Google,Tecnologia,CMO
+613,Longuinho Sampaio Gil,Wyss Institute,Biotecnologia,CLO
+614,Ica Amorim Aragão Canedo,EMBL-EBI,Bioinformática,CFO
+615,Keitlin Carvalheira Novais,EMBL,Biociências,CCO
+616,Wenede Chainho Campos,NIH,Pesquisa Médica,CFO
+617,Floripia Liberato Faro Sobral,UNICEF,Assistência Humanitária,CTO
+618,Raele Figueira Quinaz Valido,LinkedIn,Tecnologia e Networking,CHRO
+619,Bianco Cabeça Palmeira Muxagata,Google,Tecnologia,CMO
+620,Manrick Sabala,Google,Tecnologia,COO
+621,Dinari Cadaval Cavaco,Google,Tecnologia,CTO
+622,Deidiane Onofre,Google,Tecnologia,CFO
+623,Poleana Ninharelhos Santana Temes,Adobe,Tecnologia,CTO
+624,Klayvert Freitas Avelar Marcondes,Coca-Cola,Bebidas e Alimentação,CFO
+625,Ezenildes Outeiro Corte-Real Doutel,Netflix,Entretenimento,CMO
+626,Rosangela Velasco,Toyota,Automotivo,CHRO
+627,Anilva Mateus Galvão,Visa,Serviços Financeiros,COO
+628,Anecleto Veleda Cortês,Google,Tecnologia,CMO
+629,Neliete Zagalo Condorcet,FAO,Agricultura,COO
+630,Iguatemi Vital,UNESCO,Educação e Cultura,CHRO
+631,Orides Cedraz Caniça,UNESCO,Educação e Cultura,Embaixador
+632,Steicy Mondragão,Visa,Serviços Financeiros,CCO
+633,Eronilde Reino Palma Negromonte,ONU Mulheres,Direitos Humanos,CEO
+634,Olavio Castilhos Lancastre Vidigal,NOAA,Pesquisa Ambiental,COO
+635,Dijailson Adarga,Broad Institute,Genética e Biotecnologia,CMO
+636,Aristeu Peçanha Silvestre,Google,Tecnologia,CCO
+637,Lins Marcondes Moita,HP,Tecnologia,CFO
+638,Bemjamim Furquim Sardo Freixo,Nike,Vestuário e Acessórios,CEO
+639,Moura Alvelos Freiria,UNESCO,Educação e Cultura,CIO
+640,Ianira Cambezes Parracho,Microsoft,Tecnologia,COO
+641,Samira Barroso Salgueiro,IBM,Tecnologia,CIO
+642,Francimeira Lindim Cabeça,Intel,Tecnologia,CMO
+643,Ariel Conde,LinkedIn,Tecnologia e Networking,CEO
+644,Dijon Sarmento Valgueiro Ponte,LinkedIn,Tecnologia e Networking,CLO
+645,Leonildo Ferrão,MIT,Educação e Pesquisa,CLO
+646,Claudivana Charneca,MIT,Educação e Pesquisa,CLO
+647,Litercilio Vale Raposo Valcácer,WHO,Saúde Pública,CLO
+648,Tiessa Silva Ferrão Covinha,MIT,Educação e Pesquisa,CFO
+649,Elon Bonilha Amaro Saldanha,Habitat for Humanity,Desenvolvimento Comunitário,CCO
+650,Alexadre Gameiro,Habitat for Humanity,Desenvolvimento Comunitário,CTO
+651,Mabila Amaral,WRAP,Sustentabilidade,CCO
+652,Jailane Távora Faria,WWF,Conservação Ambiental,CTO
+653,Iudson Cavaco,The Nature Conservancy,Conservação Ambiental,CLO
+654,Renzo Trindade,WWF,Conservação Ambiental,CCO
+655,Kaise Malho,The Nature Conservancy,Conservação Ambiental,CEO
+656,Elinelson Filgueiras Fogaça,WWF,Conservação Ambiental,CFO
+657,Clicia Parente,WWF,Conservação Ambiental,CIO
+658,Claudici Roriz,OSHA,Segurança e Saúde Ocupacional,COO
+659,Kevellyn Franca Carlos,WHO,Saúde Pública,CEO
+660,Merin Soeiro,Fundação Palmares,Cultura e Educação,CMO
+661,Adevalter Amoedo Doutis,UNESCO,Educação e Cultura,COO
+662,Remo Morais Brião Seabra,UNESCO,Educação e Cultura,CCO
+663,Erlindo Caeiro Brasil Foquiço,Fundação Palmares,Cultura e Educação,COO
+664,Aldonei Aranha Carrilho Horta,Bradesco,Serviços Financeiros,CIO
+665,Shelia Teles,Braskem,Petroquímica,CMO
+666,Supercilio Hipólito Basílio,BRF,Alimentos,CFO
+667,Elenita Bessa,Cosan,Energia e Logística,CHRO
+668,Jeine Henriques Pacheco Sabala,Duratex,Manufatura,CHRO
+669,Lorelai Lameira,Kroton,Educação,CFO
+670,Clemiton Antunes,Localiza,Serviços de Aluguel de Veículos,Embaixador
+671,Ilzete Olaio Naves,Movida,Serviços de Aluguel de Veículos,CIO
+672,Sandilene Balsemão Porto Félix,MRV,Construção Civil,CEO
+673,Delazir Félix Pires Lamenha,Natura,Cosméticos,CEO
+674,Glaubert Sanches,Oi,Telecomunicações,CFO
+675,Djonatan Alcântara Domingues,Suzano,Papel e Celulose,CMO
+676,Elsio Anhaia Damásio Montenegro,Totvs,Tecnologia,CCO
+677,Rosemara Ventura Fazendeiro,Vivo,Telecomunicações,CCO
+678,Juli Franco Salgado,General Electric,Tecnologia e Engenharia,CTO
+679,Elisandreia Doutis Fitas,Junior Achievement,Empreendedorismo Juvenil,COO
+680,Neila Quental Quesado Falcão,Junior Achievement,Empreendedorismo Juvenil,CCO
+681,Brendo Salvado,Natura,Cosméticos,CFO
+682,Levertino Monforte Meireles,Vale,Mineração,COO
+683,Gracinei Morgado Carneiro,Microsoft,Tecnologia,CCO
+684,Damaro Alvelos,Junior Achievement,Empreendedorismo Juvenil,CHRO
+685,Vadecir Diegues Barcelos Seixas,Junior Achievement,Empreendedorismo Juvenil,CTO
+686,Gedinaldo Carqueijeiro Tigre,WHO,Saúde Pública,CMO
+687,Girlania Bentes Mansilha,Breast Cancer Research Foundation,Saúde e Pesquisa,CHRO
+688,Elfrides Garcia Pegado,Google,Tecnologia,CIO
+689,Shirle Milheirão  Mortágua,Google,Tecnologia,CHRO
+690,Joseclecio Camarinho Balsemão Tristão,Google,Tecnologia,CMO
+691,Odalea Rebotim Semedo,Google,Tecnologia,CMO
+692,Simon Lira,Google,Tecnologia,CMO
+693,Sane Abranches Hilário,Google,Tecnologia,Embaixador
+694,Irinice Goulart,Google,Tecnologia,CFO
+695,Denica Rangel,Microsoft,Tecnologia,Embaixador
+696,Ormiza Peralta Redondo Chamusca,Google,Tecnologia,CFO
+697,Dermi Cachão Nóbrega Godoi,Google,Tecnologia,CHRO
+698,Jandieli Pegado,Coursera,Educação Online,COO
+699,Zelino Ninharelhos Brum,LinkedIn Learning,Educação Profissional,CIO
+700,Jaclecio Belchior,Harvard Business School,Educação,CTO
+701,Cleide Mantas Lindim Teles,Boston Dynamics,Robótica,CLO
+702,Isa Cancela Silva,3M,Inovação e Tecnologia,CFO
+703,Mikena Araújo Atilano,Google,Tecnologia,CCO
+704,Sales Casado,Microsoft,Tecnologia,CTO
+705,Ornezina Negrão,Google,Tecnologia,CCO
+706,Erisnei Roriz Castanho,Google,Tecnologia,CCO
+707,Florani Neto Damásio Rosmaninho,Google,Tecnologia,CTO
+708,Rolnei Gorjão Leite,Philips,Tecnologia em Saúde,CFO
+709,Edirlane Severiano Oleiro,GE Healthcare,Tecnologia em Saúde,Embaixador
+710,Adnauer Peseiro,Adobe,Tecnologia,CIO
+711,Veronica Caiado Garcia,Microsoft,Tecnologia,CIO
+712,Marcin Mena Belo Liberato,Adobe,Tecnologia,Embaixador
+713,Gercivan Quadros,MRV,Construção Civil,COO
+714,Enedson Cachoeira,DeepMind,Inteligência Artificial,CFO
+715,Mirian Camelo Salgueiro Feijó,Deloitte,Consultoria,Embaixador
+716,Valteir Lários,Microsoft,Tecnologia,CEO
+717,Sanda Morais Veloso Pescada,UNEP,Ambiente e Educação,COO
+718,Olinto Anlicoara Jordão,Google,Tecnologia,CEO
+719,Elimas Paula Barrico Palos,Courts of Justice,Serviços Jurídicos,CLO
+720,Euton Areosa Canto Brites,Google,Tecnologia,CFO
+721,Rosilma Barreno,Disney,Entretenimento,CFO
+722,Juari Antas Lisboa Caiado,Google,Tecnologia,COO
+723,Robredo Vasconcelos Curado Prates,Adobe,Tecnologia,Embaixador
+724,Wilma Castanheda Oleiro Capucho,Courts of Justice,Serviços Jurídicos,CMO
+725,Marlici Chagas Faustino,Courts of Justice,Serviços Jurídicos,CMO
+726,Wine,Adobe,Tecnologia,CEO
+727,Joiciane Cadavez,Adobe,Tecnologia,COO
+728,Adrielen Coutinho Mendes,UNICEF,Assistência Humanitária,Embaixador
+729,Devisson Palhares Cortês,UNFCCC,Clima e Ambiente,CHRO
+730,Silirio Úria,Disney,Entretenimento,CFO
+731,Mislene Soverosa Eiró Mourinho,Disney,Entretenimento,CFO
+732,Alvanize Quinteiro Rijo Sá,Courts of Justice,Serviços Jurídicos,CFO
+733,Eigla Marroquim,UNICEF,Assistência Humanitária,CCO
+734,Elvio Jesus Adarga Adão,UNICEF,Assistência Humanitária,CMO
+735,Aldemilson Frota,UNICEF,Assistência Humanitária,CIO
+736,Camelia Cortês Jardim,Google,Tecnologia,CIO
+737,Iamili Hilário,Google,Tecnologia,CIO
+738,Wilin Aveiro Coelho Barateiro,Google,Tecnologia,CTO
+739,Zila Amado,Amazon,Tecnologia e Comércio,CIO
+740,Itibere Lamenha,Adobe,Tecnologia,COO
+741,Necila Dorneles Veloso,Adobe,Tecnologia,CLO
+742,Djaci Mortágua Quinzeiro,Adobe,Tecnologia,COO
+743,Adriano Tigre Fidalgo Rolim,Google,Tecnologia,CHRO
+744,Quesio Simas Canedo Durães,Google,Tecnologia,CEO
+745,Casio Outeiro,Google,Tecnologia,COO
+746,Serliane Galvão Prestes,Google,Tecnologia,COO
+747,Lude Moita Borba Vides,Adobe,Tecnologia,CFO
+748,Elifas Lima Frota,Adobe,Tecnologia,CCO
+749,Analia Almada Barroqueiro,LinkedIn Learning,Educação Profissional,CTO
+750,Artigas Parafita Maior,LinkedIn Learning,Educação Profissional,CIO
+751,Jesica Bernardes Jesus Lemes,LinkedIn Learning,Educação Profissional,CLO
+752,Elinel Castanheda Castelo,LinkedIn Learning,Educação Profissional,CCO
+753,Ledmar Baía,Google,Tecnologia,CLO
+754,Jully Rosa,Google,Tecnologia,CTO
+755,Leoneti Valadim Canto Teodoro,Google,Tecnologia,CEO
+756,Shirlaine Hernandes Anjos Boaventura,Google,Tecnologia,COO
+757,Bryan Raposo Horta Mata,Amazon,Comércio e Logística,CFO
+758,Wilks Palma Dourado,Google,Tecnologia,CLO
+759,Gessivaldo Machado,Google,Tecnologia,COO
+760,Gisalva Souto Malafaia Souto Maior,Google,Tecnologia,CHRO
+761,Eliemar Sousa,Google,Tecnologia,COO
+762,Railaine Sandinha,LinkedIn,Tecnologia e Networking,CTO
+763,Querubina Melgaço Carvalhal,Google,Tecnologia,COO
+764,Girleno Doutis,Google,Tecnologia,CCO
+765,Wambaster Roçadas Noleto Coronel,Google,Tecnologia,CMO
+766,Estelite Peseiro,Google,Tecnologia,CTO
+767,Normino Bivar,NASA,Pesquisa Espacial,Embaixador
+768,Darlon Palma,WWF,Conservação Ambiental,CIO
+769,Geani Valente Damasceno Freitas,Google,Tecnologia,Embaixador
+770,Porfiro Marreiro,Google,Tecnologia,CCO
+771,Cimplicio Afonso Barata,Google,Tecnologia,Embaixador
+772,Osvan Doutel,Google,Tecnologia,COO
+773,Michela Fernandes Zagalo Anlicoara,Google,Tecnologia,CEO
+774,Urlan Vilanova,Google,Tecnologia,CFO
+775,Adimiro Paranhos Rosmaninho,Google,Tecnologia,CTO
+776,Derike Minho Batata,Google,Tecnologia,CEO
+777,Igor Madruga,Google,Tecnologia,CHRO
+778,Gladstone Raposo,Google,Tecnologia,CTO
+779,Jovanira Balsemão Taveiros,Google,Tecnologia,CTO
+780,Jocelito Ramires,WWF,Conservação Ambiental,CHRO
+781,Jepson Azambuja,Google,Tecnologia,CIO
+782,Cleivison Gois Vilaverde,GE Healthcare,Tecnologia Médica,COO
+783,Mairim Sousa,Google,Tecnologia,CEO
+784,Teones Aranha Simas,Google,Tecnologia,CLO
+785,Lauziane Nunes Colares Toledo,LinkedIn Learning,Educação Profissional,CMO
+786,Suzileia Jobim Durães Antas,Google,Tecnologia,CIO
+787,Clauderson Vilarinho,Google,Tecnologia,COO
+788,Valcirlei Vilaça Campos Alvelos,Google,Tecnologia,CMO
+789,Tassia Rosado,Google,Tecnologia,CTO
+790,Sofi Murtinho Furquim Noite,Microsoft,Tecnologia,COO
+791,Andrenilson Adarga,Google,Tecnologia,CFO
+792,Dalgir Noleto Paz,Google,Tecnologia,CHRO
+793,Kerita Chaves,NASA,Pesquisa Climática,Embaixador
+794,Bernadette Brás Mirandela,Disney,Entretenimento,CHRO
+795,Otoni Pederneiras,Google,Tecnologia,CEO
+796,Cecil Severo,LinkedIn,Tecnologia e Networking,CFO
+797,Risomario Talhão,Disney,Entretenimento,CHRO
+798,Ketelly Bulhosa,Google,Tecnologia,CEO
+799,Thiesa Carvalhal Chousa Picanço,Google,Tecnologia,COO
+800,Enedil Quinteiro Carreiro,Google,Tecnologia,CMO
+801,Joatan Rico Cachoeira Ferraz,Google,Tecnologia,CMO
+802,Terlania Castanheda,Transparency International,Governança e Transparência,CHRO
+803,Adailton Telinhos Dourado,WWF,Conservação Ambiental,CHRO
+804,Belchor Bezerra Fortes Valentim,Google,Tecnologia,COO
+805,Arlana Inês,Google,Tecnologia,CEO
+806,Luiggi Rebelo Rodrigues,WWF,Conservação Ambiental,CHRO
+807,Anax Félix Moutinho Lousado,Google,Tecnologia,COO
+808,Tatiane Castanheda Aragão Vilaça,Google,Tecnologia,CEO
+809,Lavosier Vilarinho Olivares,UN Women,Direitos Humanos,CEO
+810,Jonata Porto Pestana,Google,Tecnologia,CMO
+811,Maceline Camacho Azevedo Feitosa,MIT,Educação e Pesquisa,CTO
+812,Naasson Rodrigues,MIT,Educação e Pesquisa,CFO
+813,Silza Cartaxo Mascarenhas Barrico,MIT,Educação e Pesquisa,CCO
+814,Dulcival Tavares Vilarinho Ximenes,MIT,Educação e Pesquisa,Embaixador
+815,Flor Bairros Cunha,Google,Tecnologia,CLO
+816,Gilmar Torres Bensaúde,Google,Tecnologia,COO
+817,Stephny Toscano,Google,Tecnologia,CTO
+818,Anoar Mata Mexia,Google,Tecnologia,CHRO
+819,Julian Abreu Figueira Granja,Google,Tecnologia,CMO
+820,Milere Bulhosa,Google,Tecnologia,CHRO
+821,Givan Amaro,Google,Tecnologia,CEO
+822,Sherlene Fartaria Ruas Natal,Google,Tecnologia,CLO
+823,Yorran Garrau Cavaco,UNICEF,Nutrição e Saúde Infantil,CEO
+824,Mailon Amado Queirós,Google,Tecnologia,CIO
+825,Jorimar Couto Pessoa,Google,Tecnologia,CHRO
+826,Silvarina Raminhos,Google,Tecnologia,CTO
+827,Germa Vidigal,Google,Tecnologia,Embaixador
+828,Erudes Temes Bento,Google,Tecnologia,Embaixador
+829,Dorielson Peixoto Milheirão,Google,Tecnologia,CHRO
+830,Doris Porto,Google,Tecnologia,CHRO
+831,Ini Moreira Guedelha Proença,Google,Tecnologia,Embaixador
+832,Eiichi Sardinha Paula Alcaide,Google,Tecnologia,CMO
+833,Tadson Mortágua Flávio Cortesão,Google,Tecnologia,CIO
+834,Juvecina Parente,Google,Tecnologia,CLO
+835,Alana Valadim Aragão,Google,Tecnologia,CMO
+836,Tiarles Carvalheira Madeira,Google,Tecnologia,CIO
+837,Monieli Gago Porciúncula,Google,Tecnologia,CEO
+838,Celoi Durães,Google,Tecnologia,CHRO
+839,Gilmara Bernardes Silvestre,Google,Tecnologia,CLO
+840,Eton Fitas,Google,Tecnologia,CFO
+841,Tanuri Camarinho Portugal Malafaia,Google,Tecnologia,CFO
+842,Lairis Goulão,Google,Tecnologia,CIO
+843,Cristoval Covinha Coimbra,Google,Tecnologia,CLO
+844,Nilda Valcanaia Bouças,Google,Tecnologia,CHRO
+845,Poliani Vilas Boas Parente Tomé,Google,Tecnologia,CTO
+846,Suele Franco,Google,Tecnologia,CFO
+847,Kilder Laureano Marroquim,Google,Tecnologia,CFO
+848,Kevin Portela Carvalheiro,Google,Tecnologia,CHRO
+849,Lideci Lousã Telinhos Rolim,Google,Tecnologia,CIO
+850,Wesley Milheirão,Google,Tecnologia,CLO
+851,Marineza Severo Cavalheiro Duarte,Google,Tecnologia,CMO
+852,Clodio Fernandes,Google,Tecnologia,CEO
+853,Janicio Ataíde Cirne,Google,Tecnologia,CIO
+854,Glaisa Noleto,Google,Tecnologia,CTO
+855,Jandaraci Severo Barreiros,Google,Tecnologia,CLO
+856,Priscieli Rabelo Gil,Google,Tecnologia,CIO
+857,Aldiana Macena Bonilha Araújo,Google,Tecnologia,CHRO
+858,Zozimo Ramos Inácio,Google,Tecnologia,CIO
+859,Odairo Rua Sandinha,Google,Tecnologia,CCO
+860,Roana Lameira Peseiro Lagoa,UN,Paz e Desenvolvimento,CHRO
+861,Sunny Espírito Santo Couceiro,FAO,Agricultura,COO
+862,Juberli Valério Caires Távora,FAO,Agricultura,COO
+863,Doulas Melancia Sabala Quina,FAO,Agricultura,CCO
+864,Edilma Padilha,FAO,Agricultura,CLO
+865,Albanio Braga Frias Hernandes,FAO,Agricultura,CMO
+866,Oderson Taborda,DOE,Energia Renovável,CEO
+867,Janekeli Carmo Saltão Fidalgo,WWF,Conservação Ambiental,COO
+868,Izaneide Gameiro Peseiro Salgueiro,WWF,Conservação Ambiental,CMO
+869,Macieli Bivar Vilarinho Ferro,UNDP,Desenvolvimento Econômico,CMO
+870,Idarlan Lima Sítima,WWF,Conservação Ambiental,Embaixador
+871,Edjailton Covilhã Flores,WWF,Conservação Ambiental,CEO
+872,Mauna Garcez,UNEP,Meio Ambiente,CTO
+873,Raliston Monteiro Pegado Vilhena,UNEP,Meio Ambiente,COO
+874,Delzelina Faro,UNESCO,Educação e Sustentabilidade,Embaixador
+875,Larisa Coimbra Taveiros Café,WWF,Conservação Ambiental,CIO
+876,Edilso Capistrano,UNDP,Desenvolvimento Econômico,COO
+877,Gismar Morgado Lins Temes,UNDP,Desenvolvimento Econômico,CTO
+878,Vitelio Ouro,WWF,Conservação Ambiental,CMO
+879,Micaelen Lagoa,UN,Paz e Desenvolvimento,CEO
+880,Rudival Bessa Barroqueiro,Google,Tecnologia,CHRO
+881,Equiton Leme Carrasqueira Toscano,Google,Tecnologia,CIO
+882,Neltair Matoso Grangeia Bulhosa,Google,Tecnologia,CTO
+883,Miracelma Chainho,Google,Tecnologia,CIO
+884,Josa Amarante Branco Torrado,UNESCO,Educação,CIO
+885,Valdinesia Fortes Soares Ávila,UNESCO,Educação,CCO
+886,Renadson Marcondes Frois,Google,Tecnologia,CFO
+887,Alcirlei Custódio Monteiro Ginjeira,Google,Tecnologia,CMO
+888,Aprisio Seixas,UN,Desenvolvimento Sustentável,CMO
+889,Rosenildo Castelo,UN,Desenvolvimento Sustentável,CEO
+890,Ataides Assunção Pontes,Google,Tecnologia,CEO
+891,Eudson Nogueira,Google,Tecnologia,CLO
+892,Alderleia Pinheiro,Google,Tecnologia,CCO
+893,Yoon Couceiro,Google,Tecnologia,CHRO
+894,Julio Colaço Mendonça,UNEP,Meio Ambiente,CEO
+895,Sebasatiao Bicalho Quinterno Charneca,Google,Tecnologia,CLO
+896,Francieli Ruas Vergueiro,Google,Tecnologia,CIO
+897,Talessa Gabeira Fiúza Neiva,Google,Tecnologia,CHRO
+898,Estefan Alcaide Duarte Carvalheiro,Google,Tecnologia,CFO
+899,Naiani Ferraz,Google,Tecnologia,CCO
+900,Wervesson Mexia,Google,Tecnologia,CFO
+901,Natasha Saltão Ramires Lagos,Microsoft,Tecnologia,CTO
+902,Delci Espargosa Caetano Maior,Netflix,Entretenimento,CLO
+903,Rosinelde Barroqueiro Delgado Rua,Harvard University,Educação e Pesquisa,CIO
+904,Alipe Soeiro,FAO,Agricultura,COO
+905,Magid Guedelha Bezerril Vale,FAO,Agricultura,CCO
+906,Katila Valcácer Teves,UN Women,Desenvolvimento Social,COO
+907,Anderson Castilho,Junior Achievement,Educação e Empreendedorismo,CFO
+908,Waldines Brasil Monjardim Carvalhosa,Junior Achievement,Educação e Empreendedorismo,CLO
+909,Cleviston Roriz,Junior Achievement,Educação e Empreendedorismo,Embaixador
+910,Ceia Gadelha Avelar Teixeira,Junior Achievement,Educação e Empreendedorismo,CHRO
+911,Eneias Amado Bensaúde Bicalho,UN Women,Desenvolvimento Social,CIO
+912,Janice Estrada,UNHCR,Assistência Humanitária,CEO
+913,Idavan Terra,Red Cross,Saúde e Segurança,Embaixador
+914,Dackson Madruga Fontoura,Microsoft,Tecnologia,CMO
+915,Ivanor Fonseca Gois,Microsoft,Tecnologia,CMO
+916,Akeline Frajuca Canhão,Microsoft,Tecnologia,CTO
+917,Claudenita Miguel Godinho Júdice,Microsoft,Tecnologia,CMO
+918,Natielen Maranhão Uchoa,Microsoft,Tecnologia,CCO
+919,Melki Cabral Quintanilha Paiva,Microsoft,Tecnologia,CMO
+920,Petre Seabra Fazendeiro Durão,Deloitte,Consultoria de Gestão,CHRO
+921,Seluta Flores,Deloitte,Consultoria de Gestão,CLO
+922,Xande Pádua,LinkedIn,Tecnologia e Networking,CFO
+923,Dalete Vasconcelos Calado,Google,Tecnologia,COO
+924,Jane Figueiroa,Deloitte,Consultoria de Gestão,CFO
+925,Elivania Lago Maciel Garrido,Google,Tecnologia,CCO
+926,Cleise Nunes Espinosa Rolim,Google,Tecnologia,CFO
+927,Lohana Valcácer Araújo Hernandes,Amazon,Comércio Eletrônico,CIO
+928,Harold Mascarenhas,UNESCO,Educação e Cultura,COO
+929,Irine Gomes,Coursera,Educação Online,Embaixador
+930,Fabilia Zambujal Fogaça Nazário,Visa,Serviços Financeiros,CEO
+931,Elna Loio Abasto,Visa,Serviços Financeiros,CEO
+932,Rene Baião Bogado,Google,Tecnologia,CHRO
+933,Eneraldo Batata,Google,Tecnologia,CIO
+934,Germilson Resende,MIT,Educação e Pesquisa,Embaixador
+935,Agemira Torquato Pescada,MIT,Educação e Pesquisa,CIO
+936,Mikiko Laureano Freiria,MIT,Educação e Pesquisa,CHRO
+937,Neuse Correia,MIT,Educação e Pesquisa,COO
+938,Jordeu Espargosa Morão,MIT,Educação e Pesquisa,CTO
+939,Avaristo Caçoilo,Google,Tecnologia,CEO
+940,Nandia Carlos,MIT,Educação e Pesquisa,CIO
+941,Idna Carmo,Walmart,Comércio Eletrônico,COO
+942,Pablini Carvalheiro,The Nature Conservancy,Conservação Ambiental,CLO
+943,Leidemar Varela Álvares,Tesla,Automotivo,COO
+944,Jaidelson Lins Casalinho Pescada,Transparency International,Governança e Transparência,CLO
+945,Artur Madureira Uchoa Pegado,Ashoka,Empreendedorismo Social,CIO
+946,Katilsa Ferraço Piteira Caetano,UN Women,Desenvolvimento Social,COO
+947,Eterna Festas,NASA,Pesquisa Climática,CHRO
+948,Eufrida Taborda Barreira,NOAA,Oceanografia,CEO
+949,Stanrley Abrantes,LinkedIn,Tecnologia e Networking,CIO
+950,Ariani Feira,Harvard University,Educação e Pesquisa,CCO
+951,Jailde Alvarenga Fragoso,WHO,Saúde Pública,CTO
+952,Rickelme Alves Quintais Mena,OSHA,Segurança e Saúde Ocupacional,CCO
+953,Cristilene Beltrão Guilheiro,Facebook,Tecnologia,Embaixador
+954,Adolf Pereira Bensaúde Cangueiro,LinkedIn,Tecnologia,CHRO
+955,Warley Faro,Oracle,Tecnologia,CEO
+956,Enoques Severo,Unilever,Bens de Consumo,Embaixador
+957,Lourena Vigário Pessoa,Google,Tecnologia,CCO
+958,Keslley Santiago Pimentel,Google,Tecnologia,CHRO
+959,Kaligia Melancia Simão Madeira,B2W Digital,Comércio Eletrônico,CHRO
+960,Naisa Marmou Pádua,Eletrobras,Energia,CTO
+961,Denusa Quinterno Barreira,Gerdau,Metalurgia,CFO
+962,Veluzia Feijó,JSL,Logística,CCO
+963,Benicio Sampaio Brião Camarinho,Marfrig,Alimentação,CIO
+964,Ingra Colaço Salomão,Natura,Cosméticos,CLO
+965,Kengo Lacerda Medina,Raízen,Energia,CHRO
+966,Celiria Bilhalva,Junior Achievement,Educação e Empreendedorismo,CHRO
+967,Aila Marmou Pedro,Petrobras,Petróleo e Gás,Embaixador
+968,Virte Varanda Aveiro Chamusca,Sebrae,Desenvolvimento de Negócios,CHRO
+969,Taila Rios Oliveira Lousada,Y Combinator,Investimento em Startups,CMO
+970,Darlison Bernardes,Google,Tecnologia,Embaixador
+971,Ariane Junqueira Barroso,C&A,Varejo,CTO
+972,Marcionei Monsanto Parreir,Iguatemi,Varejo,CFO
+973,Mareval Sanches,Lojas Americanas,Varejo,CHRO
+974,Jessia Figueiró,Odebrecht,Construção,COO
+975,Dionei Cavadas Tinoco Boaventura,Santander,Serviços Financeiros,Embaixador
+976,Inae Aldeia,Suzano,Papel e Celulose,CEO
+977,Odila Gaspar Taborda,Ultrapar,Energia e Petroquímica,COO
+978,Yurian Varão Leal,Google,Tecnologia,CLO
+979,Woshigton Branco Caçoilo,Sebrae,Desenvolvimento de Negócios,CFO
+980,Esmeraldo Brum Baptista Viegas,Google,Tecnologia,CIO
+981,Ismar Maior Corte-Real Muniz,Google,Tecnologia,CMO
+982,Olides Vargas Pegado Chousa,WHO,Saúde Pública,CCO
+983,Marizalva Couto Mieiro,Y Combinator,Investimento em Startups,CCO
+984,Sueli Maior,Google,Tecnologia,CLO
+985,Egenildo Diegues,Google,Tecnologia,CFO
+986,Adenildo Rios Cruz,Google,Tecnologia,CHRO
+987,Antonisia Regodeiro Picão,UNICEF,Desenvolvimento Infantil,CHRO
+988,Nauri Alcântara Durães,UNDP,Desenvolvimento Social,COO
+989,Edmagna Padilha Veiga,UNICEF,Desenvolvimento Infantil,CEO
+990,Claudie Lobato Póvoas Milheiriço,Interfaith Youth Core,Diálogo Inter-religioso,CFO
+991,Erisson Macena Madureira Bensaúde,Interfaith Youth Core,Diálogo Inter-religioso,CMO
+992,Ofelia Póvoas Balsemão,Project HOPE,Saúde e Assistência Humanitária,CEO
+993,Ailto Ferraço,Project HOPE,Saúde e Assistência Humanitária,CTO
+994,Nobuko Lalanda Café,WWF,Conservação Ambiental,CFO
+995,Juvenio Cortês,Google,Tecnologia,Embaixador
+996,Odilei Manso Madeira,WHO,Saúde Pública,CFO
+997,Ducilia Seabra Lagos Resende,Google,Tecnologia,COO
+998,Alan Jobim Albernaz Sousa,The Nature Conservancy,Conservação Ambiental,CIO
+999,Elizanea Marçal Onofre Zagalo,Google,Tecnologia,CLO
+1000,Aldeci Aldeia,Google,Tecnologia,CIO
+1001,Makswel Bentes,UNESCO,Educação e Cultura,CMO
+1002,Kenea Sandinha,LinkedIn,Tecnologia e Networking,COO
+1003,Lindeilson Jordão,IBM,Tecnologia,CIO
+1004,Evida Cedraz Souto Maior Trindade,Deloitte,Consultoria de Gestão,CCO
+1005,Daguimar Vilhena Naves Murtinho,LinkedIn Learning,Educação Profissional,CFO
+1006,Louse Calheiros Sabala,Green Building Council,Construção Sustentável,CIO
+1007,Zenildes Machado Quintão,FAO,Agricultura,CMO
+1008,Saul Miguel Quaresma Madureira,LinkedIn Learning,Educação Profissional,COO
+1009,Joemilson Portugal,Disney,Entretenimento,CHRO
+1010,Marcenildo Modesto Barroca,IBM,Tecnologia,CMO
+1011,Sidenei Lameirinhas Bandeira,Mastercard,Serviços Financeiros,CTO
+1012,Wives Carvalhosa Onofre Angelim,Netflix,Entretenimento,CIO
+1013,Gero Casqueira Parracho,MIT,Engenharia Biomédica,CHRO
+1014,Giordani Oleiro Vigário Talhão,MIT,Engenharia de Materiais,COO
+1015,Anaclecio Carmona Tomé,Google,Tecnologia,CLO
+1016,Ivone Durão,Google,Tecnologia,CIO
+1017,Kenji Mainha Torrado Mont'Alverne,NASA,Pesquisa Espacial,Embaixador
+1018,Uberlandia Rosário Camilo Bessa,Harvard Business School,Educação e Pesquisa,Embaixador
+1019,Givanete Aldeia Fernandes Reis,Deloitte,Consultoria de Gestão,CHRO
+1020,Tailson Sodré Alvarenga Soverosa,Deloitte,Consultoria de Gestão,COO
+1021,Irandilma Craveiro,LinkedIn,Tecnologia e Networking,Embaixador
+1022,Suelaine Castilho Moita Homem,LinkedIn,Tecnologia e Networking,CMO
+1023,Alici Castilhos Igrejas Castanheda,UNICEF,Educação,CTO
+1024,Elivelton Morão Nolasco Jobim,UNICEF,Educação,Embaixador
+1025,Valdirlei Azambuja,Green Building Council,Construção Sustentável,CFO
+1026,Izete Leão Jobim,Siemens,Energia Renovável,CEO
+1027,Alan Freiria Dantas,Siemens,Energia Renovável,CTO
+1028,Duplanil Quintana,Siemens,Energia Renovável,Embaixador
+1029,Nelcivaldo Mexia Melgaço Rocha,Siemens,Energia Renovável,CFO
+1030,Aradia Robalinho,WWF,Conservação Ambiental,CIO
+1031,Tatielly Ataíde,UNICEF,Educação,CTO
+1032,Kaline Toscano Resende Silveira,ONU,Desenvolvimento Social,CIO
+1033,Damaro Estrada,Microsoft,Tecnologia,CTO
+1034,Marzo Covinha Pires,Microsoft,Tecnologia,CTO
+1035,Eloa Areosa Raminhos Noleto,Adobe,Tecnologia,CFO
+1036,Anadeje Toste Rolim,Nike,Vestuário e Acessórios,CTO
+1037,Eli Jorge,Oracle,Tecnologia,CHRO
+1038,Ducidio Bulhões Adão Carmo,Tesla,Automotivo,CCO
+1039,Josecarla Durães,Visa,Serviços Financeiros,CHRO
+1040,Ludinaldo Canedo,Amazon,Tecnologia e Comércio Eletrônico,CTO
+1041,Hermeto Camarinho,Nestlé,Alimentos e Bebidas,Embaixador
+1042,Elque Ninharelhos,PepsiCo,Alimentos e Bebidas,CLO
+1043,Dailana Jordão,Sony,Tecnologia e Entretenimento,CMO
+1044,Raeli Morão Lima Mariz,DeepMind,Inteligência Artificial,CCO
+1045,Jens Câmara Duarte,DeepMind,Inteligência Artificial,CLO
+1046,Ross Vargas Veloso Frazão,IBM,Tecnologia,CIO
+1047,Danileia Palha Bouça,Google,Tecnologia,Embaixador
+1048,Jaline Alpuim,Google,Tecnologia,CHRO
+1049,Jardison Adão,MIT,Psicologia,CTO
+1050,Odenir Lages Horta Damasceno,WRAP,Sustentabilidade,CEO
+1051,Ivis Reis Covinha,Sony Corporation,Eletrônicos,CFO
+1052,Medelin Neiva,IBM,Tecnologia e consultoria,CMO
+1053,Luandesson Antas Abreu,GE Appliances,Eletrodomésticos,Embaixador
+1054,Atail Carlos Filgueiras,Siemens,Engenharia e tecnologia,CIO
+1055,Devando César Benevides,Weyerhaeuser,Florestal,CLO
+1056,Dhessica Abrantes,Veolia,Serviços ambientais,CEO
+1057,Guilhermina Piteira,LafargeHolcim,Construção,CEO
+1058,Gisele Carrasqueira Sousa Murtinho,Boston Dynamics,Robótica,CCO
+1059,Adezir Galvão,Boston Dynamics,Robótica,CMO
+1060,Rutielen Campos Andrade Zambujal,Siemens,Energia e tecnologia,COO
+1061,Carolane Cantanhede Barateiro,Samsung,Tecnologia e eletrônicos,CCO
+1062,Sillene Durão,Telefónica,Telecomunicações,CFO
+1063,Lorrainy Canejo,UNESCO,Cultural,CLO
+1064,Margareta Martinho Lameirinhas,UNESCO,Cultural,CCO
+1065,Verlaine Doutel Pinhal Mansilha,Gerdau,Siderurgia e metalurgia,Embaixador
+1066,Cerlene Calheiros,Alpargatas,Vestuário,Embaixador
+1067,Geusimar Semedo,Cielo,Serviços financeiros,CHRO
+1068,Renil Amaral Landim Esteves,CPFL Energia,Energia,CCO
+1069,Aires Sintra Bessa,EDP,Energia,CIO
+1070,Micherle Leite Malta,Embraer,Aeroespacial,Embaixador
+1071,Adenicio Leiria,SulAmérica,Seguros,CIO
+1072,Gicelia Barbosa Barros Lários,Vale,Mineração,CIO
+1073,Nersina Norões Telinhos,UNICEF,Assistência humanitária,CHRO
+1074,Prisley Vilhena Caiado,Fundação Bill e Melinda Gates,Filantropia,Embaixador
+1075,Edivando Caiado Paz,Fundação Bill e Melinda Gates,Filantropia,CIO
+1076,Elinis Liberato,UN-Habitat,Habitação e desenvolvimento urbano,CCO
+1077,Jocineia Brásio Malho Picanço,Azul Linhas Aéreas,Transporte aéreo,CLO
+1078,Arilson Barrico Medina,BR Distribuidora,Energia,CLO
+1079,Jordison Aranha,GPA,Varejo,CCO
+1080,Edirlania Regueira,Itaú Unibanco,Serviços financeiros,CHRO
+1081,Rubenes Cobra Neves Sampaio,JBS,Alimentos,COO
+1082,Pamela Toledo Queirós Lobato,Magazine Luiza,Varejo,Embaixador
+1083,Salis Ferro Fortes Nobre,Votorantim,Conglomerado industrial,CFO
+1084,Genusa Amaro,Ambev,Bebidas,CIO
+1085,Hildegar Basílio Madeira,Google,Tecnologia,CHRO
+1086,Edebrando Bezerril Calheiros Coutinho,Google,Tecnologia,CTO
+1087,Darlei Neto,Johnson & Johnson,Farmacêutica,CCO
+1088,Obadia Galante,Eli Lilly and Company,Farmacêutica,CCO
+1089,Kassem Cavaco,UN-Habitat,Habitação e desenvolvimento urbano,CHRO
+1090,Atarcisio Mena Pedro,Fundação Bill e Melinda Gates,Filantropia,CHRO
+1091,Peraci Marinho,Fundação Bill e Melinda Gates,Filantropia,Embaixador
+1092,Raife Carvalhal Roçadas,McKinsey & Company,Consultoria,CIO
+1093,Gildevan Leal,Coca-Cola,Bebidas,CTO
+1094,Jamiria Curvelo Guerra,McKinsey & Company,Consultoria,Embaixador
+1095,Erisson Monforte Sandinha,Microsoft,Tecnologia,COO
+1096,Eliel Veiga Palmeira,UNESCO,Cultural,CIO
+1097,Verli Mafra,UN-Habitat,Habitação e desenvolvimento urbano,CLO
+1098,Eliani Cascais Osório,Microsoft,Tecnologia,CTO
+1099,Floriana Da Costa Melancia,UNESCO,Cultural,Embaixador
+1100,Adrei Cangueiro Madruga,UN-Habitat,Habitação e desenvolvimento urbano,CMO
+1101,Gerlan Gadelha,Cruz Vermelha,Assistência humanitária,CFO
+1102,Taitiana Bessa Quadros,World Health Organization,Saúde,CEO
+1103,Juceria Vigário Serralheiro,Johnson & Johnson,Farmacêutica,CCO
+1104,Lambert Alves Marinho,Greenpeace,Ambiental,CIO
+1105,Iohan Mafra Mourão,Tesla,Tecnologia automotiva,Embaixador
+1106,Irlei Robalo Póvoas,Happiness Research Institute,Pesquisa e desenvolvimento,CLO
+1107,Risele Tristão Baião Sacramento,World Health Organization,Saúde,CEO
+1108,Demistocles Frias Cardoso Diegues,Siemens,Energia e tecnologia,CEO
+1109,Dorval Tomé Lages,Nestlé,Alimentação,CCO
+1110,Ecilio Cascais Carmona Cancela,UNESCO,Cultural,CEO
+1111,Aucioneide Frade Quesado Camargo,UNESCO,Educação,COO
+1112,Wallison Aleixo Carvalhal Raminhos,Google,Tecnologia,Embaixador
+1113,Iranilton Lemos Caldas Bivar,Greenpeace,Ambiental,CFO
+1114,Lucielma Casado Caires,IBM,Tecnologia,CEO
+1115,Lucidelia Brito,SpaceX,Aeroespacial,CLO
+1116,Lorida Maranhão,Bill & Melinda Gates Foundation,Filantropia,Embaixador
+1117,Gildenise Clementino Cadaval Naves,ONU,Paz e segurança,CCO
+1118,Valderice Cortês Brito,Accenture,Consultoria em gestão,CIO
+1119,Donizeth Lobato Portela Godoi,Google,Tecnologia,CHRO
+1120,Luziane Barros Aranha Bessa,McKinsey & Company,Consultoria,CCO
+1121,Waina Camacho Marçal,McKinsey & Company,Consultoria,CHRO
+1122,Odicelia Faleiro Chaves,Johnson & Johnson,Farmacêutica,CFO
+1123,Ermenson Miranda Granja,UNICEF,Assistência humanitária,CFO
+1124,Anieli Vergueiro Queiroga Lameiras,UNICEF,Assistência humanitária,CCO
+1125,Elimara Teves,Santander,Serviços financeiros,CLO
+1126,Estfani Bulhões Belém Ximenes,American Psychological Association,Psicologia,CFO
+1127,Kirsten Keil Sacramento,Bill & Melinda Gates Foundation,Filantropia,CFO
+1128,Joran Araújo,Tiffany & Co.,Joalheria,CLO
+1129,Elissonia Neves,BBC,Mídia,CIO
+1130,Ualas Pegado,World Wildlife Fund,Conservação ambiental,CIO
+1131,Rairison Carvalheira Chousa,Tesla,Tecnologia automotiva,COO
+1132,Ledio Bivar Mirandela Nunes,IBM,Tecnologia,CMO
+1133,Hoffman Boaventura Ferraço,Google,Tecnologia,CFO
+1134,Greicimara Nogueira,Google,Tecnologia,CTO
+1135,Kecio Caiado Araújo Amaral,Google,Tecnologia,CEO
+1136,Walison Quintão Carreiro Estrada,Greenpeace,Ambiental,CMO
+1137,Jossilane Barateiro,UN Women,Direitos humanos,COO
+1138,Betina Noleto Sabala Paulos,NASA,Aeroespacial,CIO
+1139,Vicelio Batata Varela Tavares,IBM,Tecnologia,CFO
+1140,Tatia Nolasco Paula,IBM,Tecnologia,COO
+1141,Fabrico Palos Taveira Valentim,NASA,Aeroespacial,CCO
+1142,Ewerton Borba Valcanaia Pádua,United Nations,Gestão urbana,CHRO
+1143,Neuzanete Naves Lira Quintão,Cruz Vermelha,Assistência humanitária,COO
+1144,Thompson Couto Moita Eiró,Greenpeace,Ambiental,CHRO
+1145,Evilan Urias Távora Outeiro,UN-Habitat,Desenvolvimento comunitário,CCO
+1146,Deuselinda Brásio,Google,Tecnologia,CHRO
+1147,Noedi Condorcet,Google,Tecnologia,CMO
+1148,Iane Furquim Viana Neiva,Google,Tecnologia,CIO
+1149,Wilin Leitão Fagundes Paulos,Apple,Tecnologia,Embaixador
+1150,Josinaldo Matoso Teves Monsanto,UNICEF,Assistência humanitária,CHRO
+1151,Polliany Moreno,World Wildlife Fund,Conservação ambiental,COO
+1152,Lina Gameiro,Amnesty International,Direitos humanos,CFO
+1153,Evencio Prestes Lobato Matias,Futurice,Consultoria em tecnologia,CCO
+1154,Zeziel Sandinha Mata,World Health Organization,Saúde,CIO
+1155,Chris Borba,Apple,Tecnologia,CIO
+1156,Eliani Grilo Silva Lucena,IBM,Tecnologia,CMO
+1157,Lairso Prada,General Electric,Engenharia,CMO
+1158,Euller Amarante Piteira Condorcet,Harvard University,Educação,CFO
+1159,Otilio Novais Passos Bilhalva,L'Oréal,Cosméticos,CMO
+1160,Ledjane Mexia Portugal Palmeira,BASF,Química,Embaixador
+1161,Aproniano Figueira,MIT,Educação,CHRO
+1162,Eures Borja Anhaia Vergueiro,Harvard University,Educação,CFO
+1163,Randeson Fazendeiro Medeiros Barbosa,Google,Tecnologia,CLO
+1164,Jessica Paulos Ponte Chaves,Tesla,Energia renovável,CMO
+1165,Nancilda Barbalho Lisboa Muxagata,Philips,Tecnologia,COO
+1166,Tales Milheirão,Tesla,Energia renovável,COO
+1167,Osorio Guimarães Conceição Viana,FAO,Agricultura,CHRO
+1168,Leonilce Lessa Charneca,Google,Tecnologia,CHRO
+1169,Cleven Quinta Fartaria,UNESCO,Educação,CMO
+1170,Arsildo Colaço Peixoto,IBM,Tecnologia,CIO
+1171,Norlandia Castelhano,UNESCO,Educação,CEO
+1172,Thiesa Café,Tesla,Energia renovável,CCO
+1173,Prsicila Malafaia Fortes,Veolia,Gestão de resíduos,CFO
+1174,Maureli Peralta  Castanheda,Veolia,Gestão de resíduos,Embaixador
+1175,Rerman Escobar,Moët Hennessy,Bebidas,CIO
+1176,Inalda Boeira,Siemens,Energia renovável,CEO
+1177,Nardelio Quinta,World Bank,Desenvolvimento econômico,CCO
+1178,Lacio Quina Café,LinkedIn,Tecnologia e redes profissionais,CIO
+1179,Kioko Alves Gil Marcondes,UNICEF,Desenvolvimento infantil,COO
+1180,Mistes Campos,LinkedIn,Tecnologia e redes profissionais,Embaixador
+1181,Geni Dâmaso Madureira,OSHA,Saúde e segurança no trabalho,Embaixador
+1182,Aldemir Minho,The Nature Conservancy,Conservação ambiental,CIO
+1183,Ide Granja Sandinha,UN-Habitat,Desenvolvimento urbano,Embaixador
+1184,Americe Marmou Cabeça De Vaca Matosinhos,Rolex,Relojoaria,CFO
+1185,Euardo Malho,Siemens,Energia renovável,CHRO
+1186,Zizele Dorneles,Siemens,Energia renovável,CTO
+1187,Jefta Palha Abreu Mourão,Vestas,Energia eólica,CMO
+1188,Talita Ornelas Picanço Trigueiro,Tesla,Energia renovável,CHRO
+1189,Deusiele Minho,Google,Tecnologia,CFO
+1190,Onelia Fortes,UNICEF,Assistência humanitária,CCO
+1191,Jandir Valgueiro,Greenpeace,Ambiental,CEO
+1192,Igor Madeira Lemos Azambuja,UNDRR,Gestão de riscos de desastres,CFO
+1193,Tomais Pacheco,L'Oréal,Cosméticos,CCO
+1194,Marionilde Bezerra Sardo Caparica,Philips,Tecnologia,CLO
+1195,Mireli Xisto,Siemens,Energia renovável,CLO
+1196,Zila Úria Canejo Rufino,Siemens,Energia renovável,Embaixador
+1197,Seloni Murtinho,Veolia,Serviços ambientais,CHRO
+1198,Erizoneide Assis Custódio Feitosa,Apple,Tecnologia,CIO
+1199,Leocrecio Gouveia Ávila,Johnson & Johnson,Saúde,CEO
+1200,Satiro Prates Ramos Freire,Google,Tecnologia,CFO
+1201,Anieli Quinaz,Boston Dynamics,Robótica,CMO
+1202,Revair Carvalhais Baía,Boston Dynamics,Robótica,CFO
+1203,Caroline Peseiro,Veolia,Gestão de resíduos,COO
+1204,Yoshiko Monsanto,FAO,Agricultura,CHRO
+1205,Torquata Jardim Pescada Amaral,UNESCO,Educação ambiental,CCO
+1206,Percides Xisto Ulhoa,Google,Tecnologia,CHRO
+1207,Caxias Maranhão,Google,Tecnologia,CIO
+1208,Tiarlei Queirós Aguiar Peixoto,World Health Organization,Saúde,CLO
+1209,Itacir Quinta Cartaxo Boga,Doctors Without Borders,Saúde,CEO
+1210,Ozelina Simões Brites,OSHA,Saúde e segurança no trabalho,CLO
+1211,Gladir Chaves Anjos Corte-Real,World Health Organization,Saúde,CTO
+1212,Neuria Brochado Mainha,World Health Organization,Saúde,CFO
+1213,Oralice Miranda Picanço Moita,World Health Organization,Saúde,CTO
+1214,Naman Jorge Lemos,World Health Organization,Saúde,CEO
+1215,Nivalda Belchiorinho Regalado,UNFCCC,Clima,CCO
+1216,Deneide Rua Goulart Rijo,Monsanto,Agricultura,CMO
+1217,Lezina Saloio Ferraço,UNESCO,Educação ambiental,CEO
+1218,Josemir Baião Cotrim,Monsanto,Agricultura,CHRO
+1219,Aristeu Diegues Guerra,Monsanto,Agricultura,Embaixador
+1220,Winkler Salgado Azevedo,Google,Tecnologia,CCO
+1221,Almerito Corte-Real Jesus,Google,Tecnologia,CEO
+1222,Leonis Marçal,Google,Tecnologia,Embaixador
+1223,Dalveci Barroca Teixeira Amado,SpaceX,Aeroespacial,CHRO
+1224,Celimaria Paranhos Miguel,SpaceX,Aeroespacial,Embaixador
+1225,Neuzelita Quinaz Pardo,SpaceX,Aeroespacial,CCO
+1226,Dieison Ouro Vila-Chã Quinzeiro,SpaceX,Aeroespacial,CFO
+1227,Rosalind Canhão Câmara,Siemens,Transporte urbano,CTO
+1228,Leonildo Piteira,Siemens,Tecnologia urbana,CFO
+1229,Narliane Freixo Quadros,Siemens,Transporte urbano,CHRO
+1230,Eliata Carneiro Berenguer,Siemens,Transporte urbano,CFO
+1231,Aldelise Ximenes Aires,Siemens,Eco-tecnologia,CMO
+1232,Eronilta Gouveia,Siemens,Gestão de frota,COO
+1233,Leocina Torrado Negrão Batata,Siemens,Logística,CCO
+1234,Udi Álvaro,Siemens,Casa inteligente,CLO
+1235,Leonilto Machado,Siemens,Tecnologia urbana,COO
+1236,Eromir Tomé Robalo Caneira,Siemens,Marítimo,COO
+1237,Verani Angelim,Siemens,Transporte,CFO
+1238,Natane Peseiro,Siemens,Portos,CHRO
+1239,Adnei Cunha,Siemens,Rodovias,CHRO
+1240,Alcidenia Prada,Siemens,Transporte,CTO
+1241,Vivaldi Moutinho Melo,Siemens,Logística,CCO
+1242,Irando Carvalhosa Holanda,Siemens,Transporte público,Embaixador
+1243,Musa Nóbrega Sítima Rosado,Siemens,Inovação em transporte público,CFO
+1244,Denilson Barreira Domingues,Siemens,Sistemas de transporte,CHRO
+1245,Iran Cabral,Siemens,Sistemas de transporte,CFO
+1246,Vonei Vital Milheirão,Siemens,Logística,CHRO
+1247,Joeci Severiano Uchoa Paulos,Tesla,Infraestrutura de veículos elétricos,COO
+1248,Estelane Torquato,Siemens,Transporte marítimo,COO
+1249,Dolarina Ferro Azambuja Boeira,Google,Educação e filosofia,CEO
+1250,Erbson Pessoa Rufino Junqueira,Google,Tecnologia social,CTO
+1251,Georgi Caires Fontoura Gadelha,Monsanto,Agricultura,CTO
+1252,Leire Neto Botelho Tristão,Tesla,Energia solar,CHRO
+1253,Rudinei Faleiro Álvaro,L'Oréal,Bem-estar e saúde mental,CFO
+1254,Gease Cascais,Siemens,Soluções sustentáveis,CCO
+1255,Eleuse Rebouças Marroquim,Google,Tecnologia rural,CMO
+1256,Deluzia Matos,Google,Tecnologia e sustentabilidade,CTO
+1257,Shiley Rico Bulhões Barreno,Google,Educação e desenvolvimento comunitário,CMO
+1258,Crenilson Cesário Naves Sardo,Google,Tecnologia para ONGs,CLO
+1259,Cleber Bicalho,Tesla,Energia e inovação,CIO
+1260,Elsiomar Paredes Castanheda Lacerda,SpaceX,Aeroespacial,CMO
+1261,Robiane Sesimbra Souto Pêcego,SpaceX,Tecnologia de transporte,CHRO
+1262,Maribaldo Lages Faleiro Maia,Tesla,Inovação tecnológica,CLO
+1263,Nalmir Tuna,FAO,Agricultura sustentável,CCO
+1264,Dadiva Igrejas,UN-Habitat,Desenvolvimento urbano,Embaixador
+1265,Herberte Castilhos Miguel Malho,World Bank,Finanças sustentáveis,CLO
+1266,Evamaria Passarinho,Maersk,Logística sustentável,CFO
+1267,Francilda Rosa Camacho Janes,Siemens,Urbanismo sustentável,CTO
+1268,Jaquielson Lamego Estrada Rego,FAO,Agricultura sustentável,CIO
+1269,Rakeu Amorim Da Costa,UNESCO,Educação sustentável,CEO
+1270,Maina Câmara,UNDP,Desenvolvimento sustentável,Embaixador
+1271,Yohane Cangueiro Sandinha,Google,Tecnologia social,CTO
+1272,Cledison Nobre Fernandes,Google,Tecnologia e inovação,Embaixador
+1273,Sueudes Neiva,Google,Tecnologia comunitária,CEO
+1274,Ariell Outeiro Moura,Google,Educação tecnológica,CMO
+1275,Acenil Malheiro,Google,Acesso digital,CTO
+1276,Marton Veleda Torquato,Google,Tecnologia inclusiva,CMO
+1277,Sizue Goulart Patrício Macieira,Google,Tecnologia para desenvolvimento,COO
+1278,Cledison Brites,Tesla,Inovação tecnológica,COO
+1279,Luizinho Candal Porciúncula,Google,Capacitação tecnológica,CTO
+1280,Euzilene Anhaia Pacheco Marins,Google,Alfabetização digital,CMO
+1281,Carolani Quinta Tuna Bezerril,Google,Alfabetização digital,Embaixador
+1282,Rochelane Mourato Queirós,Google,Educação e treinamento,CHRO
+1283,Ledivaldo Cabral Lourenço Gadelha,Google,Inclusão digital,CFO
+1284,Joison Lários,Google,Tecnologia e bem-estar,CEO
+1285,Taini Foquiço,TechSoup,Tecnologia para ONGs,CLO
+1286,Dieisson Bessa Vidal,TechSoup,Tecnologia para ONGs,CFO
+1287,Neide Barbosa,Google,Educação e emprego,Embaixador
+1288,Mardson Gomes Rua,Siemens,Transporte e logística,CFO
+1289,Ardson Sequeira Borges Gomes,Siemens,Inovação em transporte,Embaixador
+1290,Cleiver Azenha,Siemens,Soluções em transporte,CCO
+1291,Janielly Xavier,Siemens,Turismo e tecnologia,CEO
+1292,Denilso Faria Angelim,Google,Tecnologia e têxteis,CFO
+1293,Marani Tomé Vilhena,Siemens,Turismo e tecnologia,COO
+1294,Daniela Cisneiros Braga Rosário,Google,Tecnologia e têxteis,CIO
+1295,Irni Simas Freixo Ribeiro,Google,Segurança tecnológica,CCO
+1296,Ricardo Souto Maior Marques,Google,Tecnologia e bem-estar,COO
+1297,Ribeiro Fidalgo,Siemens,Tecnologia verde,CIO
+1298,Natilde Cesário Canto Faria,Siemens,Tecnologia e inovação,CHRO
+1299,Reisane Sardinha,Siemens,Geotecnologia,COO
+1300,Eranice Brásio,LinkedIn,Redes profissionais,CCO
+1301,Arislandia Barroqueiro Fortes,LinkedIn,Recrutamento e talentos,CHRO
+1302,Joacir Palhares Atilano Mainha,Google,Gestão do tempo,CMO
+1303,Esla Barbosa Boeira Ramires,Google,Bem-estar e gestão do tempo,CIO
+1304,Tieli Alvelos,Google,Educação ambiental,COO
+1305,Marques Infante Maior Durão,Google,Sustentabilidade e tecnologia,CLO
+1306,Cleudinice Casqueira,Google,Tecnologia agrícola,CHRO
+1307,Walesson Junqueira,Google,Telecomunicações,CEO
+1308,Suzelia Condorcet Lalanda Úria,Google,Saúde e bem-estar,CHRO
+1309,Rodenei Castelo Domingues,Google,Desenvolvimento comunitário,CCO
+1310,Braian Torres Abasto,Google,Tecnologia e comunicação,CCO
+1311,Josecilda Nóbrega,Siemens,Segurança e vigilância,CEO
+1312,Varla Picão Lara,Google,Tecnologia e bem-estar,CIO
+1313,Glaucine Brás,Google,Tecnologia avançada,CFO
+1314,Zenete Covilhã Anlicoara,Siemens,Transporte sustentável,CCO
+1315,Limiro Curvelo Ferrão Viana,Siemens,Transporte avançado,Embaixador
+1316,Keisy Dias,Google,Logística e transporte,CTO
+1317,Aquilles Severiano,Google,Logística e transporte,COO
+1318,Jesiel Santarém Brásio,Google,Recursos humanos,CHRO
+1319,Claudie Igrejas,Nestlé,Alimentação sustentável,CLO
+1320,Hatsuyo Reis Amorim,Google,Transformação organizacional,CCO
+1321,Genilda Flávio Capucho Valcanaia,Google,Cultura e artes,CHRO
+1322,Alriane Brasil Mourato Bulhões,UNESCO,Educação,CCO
+1323,Diorlene Gois Bandeira,Siemens,Indústria marítima,CHRO
+1324,Maicou Aquino Hilário,Google,Consultoria empresarial,CFO
+1325,Edivilson Varão Fiães Espírito Santo,Google,Desenvolvimento sustentável,Embaixador
+1326,Delizete Pimentel,Google,Agricultura sustentável,CIO
+1327,Delaides Carreiro Gabeira,Siemens,Visão de transporte futuro,CEO
+1328,Diemile Sacramento Junqueira,Google,Tecnologia e inovação,COO
+1329,Keveny Garcez Ouro Bicalho,Siemens,Logística e transporte,CMO
+1330,Jarlisson Botica Ilha Brião,Google,Inovação tecnológica,CEO
+1331,Gilbetania Vergueiro,Google,Investimentos tecnológicos,CHRO
+1332,Dioniton Freire,Google,Desenvolvimento pessoal,CHRO
+1333,Claudici Vigário Maior Baião,Siemens,Transporte futuro,CLO
+1334,Marquezan Conde,Google,Negócios e inovação,Embaixador
+1335,Edinisio Vilas Boas Rodovalho Figueiredo,Siemens,Planejamento urbano,CCO
+1336,Brunilda Penha,Google,Integração cultural,CCO
+1337,Israel Neres,Google,Desenvolvimento comunitário,CFO
+1338,Valdenita Berenguer Rebelo,Siemens,Desenvolvimento urbano,COO
+1339,Mavinier Amado,Google,Educação urbana,COO
+1340,Kisila Andrade Sarmento,Google,Educação empresarial,CEO
+1341,Arlineide Lemes Damasceno,Google,Empoderamento e inovação,CTO
+1342,Adso Negrão Palmeira Galindo,Google,Desenvolvimento pessoal,CCO
+1343,Suziani Salgueiro Madureira Quinzeiro,Siemens,Desenvolvimento urbano,COO
+1344,Algimiro Cedraz Alvelos,Uber,Transporte urbano,COO
+1345,Paulo Frade Girão,Siemens,Transporte ecológico urbano,CMO
+1346,Odilon Paião,Siemens,Gestão de tráfego urbano,CHRO
+1347,Jonadas Frajuca Miguéis Colares,Siemens,Urbanismo,CEO
+1348,Wellington Pequeno Gadelha Goulão,Siemens,Soluções de mobilidade urbana,CIO
+1349,Verislene Caiado Santarém Fernandes,Uber,Transporte urbano,CIO
+1350,Leoneide Milheiriço Pinheiro,Siemens,Planejamento urbano,CCO
+1351,Jhonattas Vargas,Siemens,Transporte urbano,CLO
+1352,Eliezita Cabral Lobo Casado,UN-Habitat,Urbanismo,COO
+1353,Wellida Belém Varela Café,Google,Tecnologia social,CFO
+1354,Joadison Alvim Vale,UNICEF,Saúde e bem-estar,CEO
+1355,Agrecio Gago,Goldman Sachs,Finanças,COO
+1356,Dionisson Piteira,Google,Inovação em liderança,CFO
+1357,Barnabe Rocha Marcondes Espargosa,Google,Inovação em liderança,CMO
+1358,Gersone Pereira Café Tristão,SpaceX,Tecnologia de transporte,CFO
+1359,Deusenete Guimarães Cisneiros Lalanda,SpaceX,Viagens e turismo,CCO
+1360,Genivalda Quinteiro Rangel,SpaceX,Tecnologia de transporte,CIO
+1361,Idalvo Félix Vasques,UNICEF,Saúde e desenvolvimento,CCO
+1362,Clecia Vides Vargas Franca,Google,Tecnologia ambiental,CLO
+1363,Romario Colares,UNICEF,Saúde e bem-estar,CIO
+1364,Asaf Morais Barreiros,UNEP,Desenvolvimento ambiental,CLO
+1365,Dinalucia Paz,World Health Organization,Saúde ativa,Embaixador
+1366,Enes Cadavez Argolo,UNICEF,Desenvolvimento social,CMO
+1367,Kalil Toscano Seabra,UNEP,Sustentabilidade ambiental,CMO
+1368,Maity Picão,Google,Gestão ambiental,COO
+1369,Josafa Ferrão Quirino Olaio,UNICEF,Desenvolvimento social,CLO
+1370,Faisson Bessa,Google,Realidade virtual,CLO
+1371,Nakita Aires Anjos Amorim,UNEP,Sustentabilidade ambiental,CIO
+1372,Crecencia Lessa Conceição,Google,Saúde e bem-estar,COO
+1373,Crislainy Abranches,UNESCO,Educação e cultura,CFO
+1374,Renaldi Urias Almada Sales,Google,Conservação de ecossistemas,CTO
+1375,Deildo Borba Lampreia,UNESCO,Bem-estar comunitário,CLO
+1376,Taisia Saltão,UNICEF,Saúde pública,COO
+1377,Delzirene Malta Boaventura Landim,UNDP,Desenvolvimento comunitário,CIO
+1378,Juvenilio Brião Cesário,UNESCO,Sustentabilidade e desenvolvimento,Embaixador
+1379,Mabilly Da Costa Remígio Castelo Branco,Google,Soluções empresariais,CMO
+1380,Alexandri Trindade Quintanilha,Google,Ética e moral,Embaixador
+1381,Taila Craveiro Lameira,Google,Alimentação e bem-estar,CMO
+1382,Arisio Damasceno,SpaceX,Viagens e exploração,Embaixador
+1383,Sionaria Pastana Modesto,UNEP,Ambientalismo,CFO
+1384,Francicleber Barroca Reino,Goldman Sachs,Saúde e bem-estar,Embaixador
+1385,Geovan Guerreiro Covinha Loio,UNEP,Gestão de resíduos,CIO
+1386,Claiverson Ventura Belém Madeira,Siemens,Inovação em energia,CEO
+1387,Islander Escobar,Goldman Sachs,Gestão de carbono,CCO
+1388,Stefania Mourão,Google,Tecnologia e inovação,COO
+1389,Scheila Anes Sacramento Lampreia,Tesla,Transporte futuro,CTO
+1390,Simiao Barreira,UNEP,Conservação ambiental,CCO
+1391,Guiomar Caniça Onofre,Google,Tecnologia e impacto social,CTO
+1392,Teago Neiva,Google,Tecnologia e inovação,CLO
+1393,Ronacio Rangel Colaço,Goldman Sachs,Finanças,Embaixador
+1394,Luzardo Pequeno Durães,Google,Bem-estar e saúde,Embaixador
+1395,Osmael Tavares,Google,Bem-estar e saúde,CLO
+1396,Nascimento Esteves Barra,Google,Tecnologia wireless,CTO
+1397,Sidi Martins Lima,Johnson & Johnson,Farmacêutica,CLO
+1398,Gleica Aveiro Duarte,Tesla,Inovação e tecnologia,CMO
+1399,Paulino Correia,Google,Cultura e biodiversidade,CHRO
+1400,Gilcarla Azeredo Barroca Porto,Google,Educação e recreação,CFO
+1401,Gerandir Casado Salomão Ribeiro,Google,Música e tecnologia,CIO
+1402,Audicleia Fidalgo Vilela Espírito Santo,Google,Música e cultura,CFO
+1403,Drisana Alvarenga Rios,Google,Literatura e exploração,CCO
+1404,Miche Alvarenga Colares,Google,Cultura e diversidade,CCO
+1405,Keliane Urias Botica,Google,Hospitalidade e estratégia,COO
+1406,Rudnei Figueiredo Laureano,L'Oréal,Luxo e estilo,CMO
+1407,Bernalda Rios Camargo,Siemens,Inovação e tecnologia,CEO
+1408,Ozino Abreu,Goldman Sachs,Agricultura e produtividade,CMO
+1409,Aurisio Loio Galante,Google,Bem-estar e saúde,Embaixador
+1410,Licinha Setúbal,Google,Bem-estar e saúde,CHRO
+1411,Walace Cascais Pederneiras,UNICEF,Desenvolvimento juvenil,CFO
+1412,Ormindo Vasques Flores Curado,UNICEF,Desenvolvimento juvenil,CEO
+1413,Dazinho Teves Rodovalho Regueira,UNICEF,Desenvolvimento juvenil,CTO
+1414,Elica Brites Portela,UNEP,Sustentabilidade ambiental,CEO
+1415,Mariangelica Amoedo,Google,Bem-estar e meditação,CEO
+1416,Alexander Cancela Doutel Melo,Google,Desenvolvimento comunitário,CLO
+1417,Adnamar Farinha Pimentel Benevides,Google,Cultura e liderança,CLO
+1418,Neudivan Resende,Google,Cultura e liderança,Embaixador
+1419,Eciane Bragança Mirandela Aires,Google,Inovação e tecnologia,CEO
+1420,Mere Correia,Google,Tecnologia e clima,CTO
+1421,Edvanderson Melancia Marques Moreira,Google,Bem-estar e inovação,CMO
+1422,Marlo Borba,Google,Bem-estar e relaxamento,Embaixador
+1423,Lidia Porto Silveira Keil,UNESCO,Cultura e arte,CFO
+1424,Damares Malho Faria,UNESCO,Cultura e arte,CEO

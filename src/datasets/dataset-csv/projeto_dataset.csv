@@ -1,0 +1,1425 @@
+id,proponente_id,projeto,setor,macrosetor,impacto-esperado,status,alcance geográfico,público-alvo
+1,1,Como Manter a Esperança?,Psicologia,Saúde e Bem-estar,Social,Em planejamento,Local,Consumidores e Empresas
+2,2,Labirinto do Aprendizado,Educação,Educação,Social,Em andamento,Nacional,Consumidores e Empresas
+3,3,Energia Solar,Energia Renovável,Energia e Recursos,"Ambiental, Econômico",Em andamento,Local,Funcionários
+4,4,CRISPR-Cas9 na Terapia Gênica,Genética,Ciência e Pesquisa,Científico,Em planejamento,Local,Funcionários
+5,5,Campanha de Conscientização sobre Economia de Água em Condomínios,Sustentabilidade,Sustentabilidade,"Ambiental, Social",Em andamento,Local,Funcionários
+6,6,SmartCommute,TI,Tecnologia e Informação,Econômico,Em planejamento,Nacional,Empresas
+7,7,TechBridge: Capacitação em Tecnologia para Jovens em Situação de Risco,"Educação, Tecnologia",Educação,Social,Em andamento,Nacional,Funcionários
+8,8,Programa de Comunicação Interna,Comunicação,Comunicação e Mídia,Social,Em andamento,Local,Funcionários
+9,9,Vita Verde (Vida Verde),Ambiental,Meio Ambiente,"Ambiental, Social",Em andamento,Local,"Consumidores, Empresas e Governo"
+10,10,Iniciativa de Educação Financeira,Educação,Educação,Econômico,Em planejamento,Local,"Consumidores, Empresas e Governo"
+11,11,HealthTech Innovate,"Tecnologia, Saúde",Tecnologia e Inovação,"Científico, Econômico",Em andamento,Local,Funcionários
+12,12,Yacht de Yeux (Iate dos Olhos),Social,Serviços Sociais,"Cultural, Social",Em planejamento,Local,População
+13,13,EcoDrive Solutions,Tecnologia,Tecnologia e Inovação,"Ambiental, Econômico",Em andamento,Local,Empresas
+14,14,Avanços em Nanotecnologia para Energia Renovável,Científico,Ciência e Pesquisa,Ambiental,Em andamento,Local,Consumidores
+15,15,ESPAÇO (Estratégias Sustentáveis para Preservação Ambiental e Comunidades Organizadas),Ambiental,Meio Ambiente,"Ambiental, Social",Em planejamento,Local,Empresas
+16,16,ZêniteZaffre,Astronomia,Ciência e Pesquisa,Científico,Em andamento,Local,"Consumidores, Empresas e Governo"
+17,17,Inovação Intensa,Tecnologia,Tecnologia e Inovação,"Econômico, Científico",Em andamento,Nacional,Funcionários
+18,18,Tech para o Amanhã: Bootcamp de Codificação para Jovens Desfavorecidos,"Educação, Tecnologia",Educação,Social,Em planejamento,Local,Consumidores e Empresas
+19,19,Corazon Community (Comunidade Coração),Social,Serviços Sociais,Social,Em andamento,Local,Empresas
+20,20,Zenith,Tecnologia,Tecnologia e Inovação,"Econômico, Científico",Em planejamento,Local,Funcionários
+21,21,O Que Nos Move?,Psicologia,Saúde e Bem-estar,Social,Em andamento,Local,Funcionários
+22,22,Energia Limpa para Todos: Instalação de Painéis Solares em Habitação de Baixa Renda,Energia,Energia e Recursos,"Ambiental, Social",Em andamento,Nacional,Funcionários e Empresas
+23,23,Crescimento e Cooperação,Econômico,Economia e Finanças,"Econômico, Social",Em planejamento,Local,População
+24,24,Iniciativa de Valorização da Cultura Quilombola em Escolas,Educação Cultural,Educação,Social,Em andamento,Nacional,Consumidores
+25,25,Iniciativa Renascer,Desenvolvimento Pessoal,Educação,Social,Em andamento,Local,Consumidores
+26,26,ArteAerolito,Arte,Arte e Cultura,Social,Em planejamento,Local,Consumidores
+27,27,AGIR (Ações Globais de Impacto e Resposta),Social,Serviços Sociais,"Social, Econômico",Em andamento,Local,Funcionários e Empresas
+28,28,ConexãoTech,TI,Tecnologia e Informação,Econômico,Em planejamento,Local,"Consumidores, Empresas e Governo"
+29,29,MosaicoMolecular,Bioquímica,Ciência e Pesquisa,Científico,Em andamento,Nacional,Funcionários e Empresas
+30,30,Desenvolvimento de Tecnologia para Monitoramento de Desmatamento na Amazônia,"Tecnologia, Meio Ambiente",Tecnologia e Inovação,Ambiental,Em andamento,Local,Funcionários e Empresas
+31,31,QuantumQuartzo,Física,Ciência e Pesquisa,Científico,Em andamento,Local,Funcionários
+32,32,FísicaFiligrana,Física,Ciência e Pesquisa,Científico,Em planejamento,Local,Funcionários
+33,33,Projeto Renovação Empresarial,Desenvolvimento Empresarial,Desenvolvimento Econômico e Empresarial,Econômico,Em andamento,Local,"Consumidores, Empresas e Governo"
+34,34,Estudos de Interação Genoma-Ambiente na Psicologia,Científico,Ciência e Pesquisa,"Social, Ambiental",Em andamento,Local,Funcionários
+35,35,SmartCity Systems,Tecnologia,Tecnologia e Inovação,"Ambiental, Econômico",Em andamento,Nacional,Funcionários e Empresas
+36,36,Iniciativa Diversidade na Totvs,Social,Serviços Sociais,Social,Em andamento,Local,População
+37,37,Empreenda Verde: Estímulo ao Empreendedorismo Sustentável,Empreendedorismo Sustentável,Sustentabilidade,"Ambiental, Econômico",Em planejamento,Nacional,Funcionários e Empresas
+38,38,Legado Luminoso,Cultural,Arte e Cultura,"Cultural, Social",Em andamento,Local,Empresas
+39,39,EcoFerry,Transporte Marítimo,Transporte e Logística,"Ambiental, Econômico",Em andamento,Local,Funcionários
+40,40,LíderesEmpatía+,Social,Serviços Sociais,Social,Em planejamento,Nacional,Consumidores
+41,41,Desenvolvimento de Tecnologia para Reciclagem de Resíduos Orgânicos,"Tecnologia, Sustentabilidade",Tecnologia e Inovação,Ambiental,Em andamento,Local,Funcionários
+42,42,EmpowerWomen: Capacitação Feminina,Desenvolvimento Profissional,Educação,Social,Em andamento,Local,Funcionários
+43,43,TechBoost: Impulso Tecnológico para Inovação,Tecnologia,Tecnologia e Inovação,"Econômico, Científico",Em andamento,Local,Consumidores e Empresas
+44,44,Escada do Sucesso,Desenvolvimento Pessoal,Educação,"Social, Econômico",Em andamento,Nacional,Empresas
+45,45,Tranquillité Technologique (Tranquilidade Tecnológica),Tecnologia,Tecnologia e Inovação,"Econômico, Social",Em andamento,Local,Funcionários
+46,46,Manto da Mudança,Social,Serviços Sociais,"Social, Ambiental",Em andamento,Local,Empresas
+47,47,GreenLogistics,Sustentabilidade,Sustentabilidade,"Ambiental, Econômico",Em andamento,Nacional,"Consumidores, Empresas e Governo"
+48,48,Nêmesis Néctar,Agricultura,Agricultura e Alimentação,"Econômico, Ambiental",Em andamento,Nacional,Empresas
+49,49,Davinci Data,Tecnologia,Tecnologia e Inovação,"Econômico, Científico",Em andamento,Local,Funcionários
+50,50,Ações de Felicidade na Pharmalife,Saúde,Saúde e Bem-estar,Social,Em andamento,Nacional,Funcionários
+51,51,O Que Faz Você Feliz?,Psicologia,Saúde e Bem-estar,Social,Em andamento,Local,Funcionários
+52,52,Proyecto de Evaluación de Desempeño,Educação,Educação,Econômico,Em planejamento,Local,Consumidores
+53,53,Rede de Empoderamento Juvenil: Programa de Desenvolvimento de Liderança,Desenvolvimento Juvenil,Educação,Social,Em andamento,Nacional,Funcionários
+54,54,Caminho Limpo: Redução da Poluição Veicular,"Tecnologia, Meio Ambiente",Tecnologia e Inovação,Ambiental,Em planejamento,Nacional,Funcionários
+55,55,Chave do Conhecimento,Educação,Educação,"Social, Científico",Em planejamento,Local,Funcionários
+56,56,CleanVehicle Technologies,Tecnologia,Tecnologia e Inovação,"Ambiental, Econômico",Em andamento,Nacional,Funcionários
+57,57,Ações de Promoção da Saúde Mental em Hospitais Públicos,Saúde,Saúde e Bem-estar,Social,Em andamento,Local,Funcionários
+58,58,Desenvolvimento de Vacinas de RNA Mensageiro,Biotecnologia,Engenharia,Científico,Em andamento,Local,Funcionários
+59,59,Reflorestamento e Biodiversidade,Conservação Ambiental,Meio Ambiente,Ambiental,Em andamento,Local,Funcionários
+60,60,DesafioCultural,Cultura,Arte e Cultura,Social,Em andamento,Local,População
+61,61,Inclusão Digital,"Tecnologia, Educação",Tecnologia e Inovação,Social,Em andamento,Nacional,"Consumidores, Empresas e Governo"
+62,62,Ações de Promoção da Diversidade e Inclusão em Instituições de Ensino Médio,Educação,Educação,Social,Em andamento,Local,Empresas
+63,63,Tecnologia Verde,Tecnologia,Tecnologia e Inovação,Ambiental,Em planejamento,Local,Funcionários e Empresas
+64,64,Qualidade Quântica,Científico,Ciência e Pesquisa,Científico,Em andamento,Local,Funcionários
+65,65,Programa de Crescimento Profissional,Educação,Educação,Econômico,Em andamento,Local,Funcionários e Empresas
+66,66,AprendizadoAtivo,Educação,Educação,Social,Em andamento,Nacional,Funcionários e Empresas
+67,67,Iniciativa de Inclusão Digital em Comunidades Marginalizadas,Tecnologia,Tecnologia e Inovação,Social,Em planejamento,Local,População
+68,68,Projeto Impacto Positivo,Sustentabilidade,Sustentabilidade,"Ambiental, Social",Em andamento,Local,Funcionários
+69,69,Cápsula do Tempo,Cultura,Arte e Cultura,Social,Em andamento,Local,Funcionários e Empresas
+70,70,Iniciativa Diversidade na Vivo,Social,Serviços Sociais,Social,Em andamento,Local,"Consumidores, Empresas e Governo"
+71,71,Projeto Equidade na Vale,Social,Serviços Sociais,Social,Em andamento,Local,Empresas
+72,72,Ponte para o Amanhã,Sustentabilidade,Sustentabilidade,"Social, Econômico",Em planejamento,Nacional,"Consumidores, Empresas e Governo"
+73,73,Rede de Conexões,Tecnologia,Tecnologia e Inovação,"Econômico, Social",Em andamento,Local,"Consumidores, Empresas e Governo"
+74,74,Habilidades Holísticas,Educação,Educação,"Social, Científico",Em andamento,Local,População
+75,75,GreenTech: Desenvolvimento de Tecnologias Limpas,"Tecnologia, Sustentabilidade",Tecnologia e Inovação,Ambiental,Em andamento,Local,Consumidores e Empresas
+76,76,Bastião da Biodiversidade,Conservação Ambiental,Meio Ambiente,Ambiental,Em andamento,Local,Empresas
+77,77,Cidades Verdes,"Urbanismo, Sustentabilidade",Desenvolvimento Urbano e Infraestrutura,"Ambiental, Social",Em andamento,Nacional,Funcionários
+78,78,EducaCambio,Educação,Educação,Social,Em planejamento,Nacional,População
+79,79,FuturoCultural,Cultura,Arte e Cultura,Social,Em andamento,Local,"Consumidores, Empresas e Governo"
+80,80,Programa de Planejamento de Carreira,Educação,Educação,"Social, Econômico",Em planejamento,Local,Empresas
+81,81,Elevate,Educação,Educação,"Social, Científico",Em andamento,Nacional,"Consumidores, Empresas e Governo"
+82,82,Projeto de Inclusão Digital para Idosos em Instituições de Longa Permanência,"Educação, Tecnologia",Educação,Social,Em andamento,Nacional,"Consumidores, Empresas e Governo"
+83,83,Asas da Liberdade,Direitos Humanos,Direito e Governança,Social,Em andamento,Local,Consumidores
+84,84,Programa de Capacitação em Agricultura Sustentável para Pequenos Produtores,"Educação, Agricultura",Educação,"Ambiental, Social",Em planejamento,Local,Consumidores
+85,85,Projeto de Aprendizagem Organizacional,Educação,Educação,"Social, Econômico",Em planejamento,Local,"Consumidores, Empresas e Governo"
+86,86,Floresta Viva,Conservação Ambiental,Meio Ambiente,Ambiental,Em andamento,Local,Funcionários
+87,87,PACTO (Programa de Ação Comunitária e Transformação Organizacional),Social,Serviços Sociais,"Social, Econômico",Em andamento,Local,Funcionários
+88,88,Inspiración Ilimitada (Inspiração Ilimitada),Educação,Educação,"Social, Científico",Em andamento,Local,"Consumidores, Empresas e Governo"
+89,89,VOA (Visão Organizada de Ação),Geral,Geral e Diversificado,"Social, Econômico",Em andamento,Local,Consumidores e Empresas
+90,90,Medusa de Media,Mídia,Comunicação e Mídia,"Cultural, Social",Em andamento,Local,População
+91,91,SOLAR (Soluções Orgânicas e Liderança para Agricultura Responsável),Agricultura,Agricultura e Alimentação,"Ambiental, Econômico",Em planejamento,Nacional,Funcionários
+92,92,AcciónTransformadora,Social,Serviços Sociais,Social,Em andamento,Local,Consumidores e Empresas
+93,93,Inovação com Intenção,Tecnologia,Tecnologia e Inovação,"Econômico, Científico",Em planejamento,Local,Funcionários e Empresas
+94,94,SaúdeSodalita,Saúde,Saúde e Bem-estar,Social,Em andamento,Nacional,"Consumidores, Empresas e Governo"
+95,95,Ações de Promoção da Diversidade e Inclusão em Instituições de Ensino Fundamental,Educação,Educação,Social,Em andamento,Local,"Consumidores, Empresas e Governo"
+96,96,Campanha de Sensibilização para a Conservação de Espécies Ameaçadas,Sustentabilidade,Sustentabilidade,"Ambiental, Social",Em planejamento,Nacional,Consumidores
+97,97,Educação para a Diversidade,Educação,Educação,Social,Em andamento,Local,Consumidores e Empresas
+98,98,Engenharia Genética Experimental,Biotecnologia,Engenharia,Científico,Em andamento,Nacional,Consumidores
+99,99,Corrente do Bem,Filantropia,Serviços Sociais,Social,Em andamento,Nacional,Funcionários e Empresas
+100,100,Tech para Todos: Acesso Digital para Organizações Sem Fins Lucrativos,Tecnologia,Tecnologia e Inovação,Social,Em andamento,Local,Consumidores
+101,101,Quando Começar a Agir?,Desenvolvimento Pessoal,Educação,Social,Em andamento,Local,Funcionários e Empresas
+102,102,Projeto de Tecnologia na Samsung,Tecnologia,Tecnologia e Inovação,"Científico, Econômico",Em andamento,Nacional,Empresas
+103,103,Iniciativa de Inovação na Intel,Tecnologia,Tecnologia e Inovação,"Científico, Econômico",Em planejamento,Nacional,Funcionários
+104,104,Programa Empoderamento na Marfrig,Social,Serviços Sociais,Econômico,Em planejamento,Nacional,Funcionários e Empresas
+105,105,Jogo de vida,Educação,Educação,"Social, Econômico",Em planejamento,Local,Funcionários e Empresas
+106,106,Projeto Transformação,Desenvolvimento Pessoal,Educação,Social,Em planejamento,Local,Funcionários
+107,107,O Que Nos Inspira?,Arte e Cultura,Arte e Cultura,Social,Em andamento,Local,Empresas
+108,108,TransitVision,TI,Tecnologia e Informação,Econômico,Em planejamento,Local,Empresas
+109,109,Quem Seremos Amanhã?,Educação,Educação,Social,Em andamento,Local,Funcionários
+110,110,Por Que Reciclar?,Sustentabilidade,Sustentabilidade,Ambiental,Em andamento,Local,"Consumidores, Empresas e Governo"
+111,111,Project HOPE: Programa de Assistência Médica para Comunidades Carentes,Saúde,Saúde e Bem-estar,Social,Em planejamento,Nacional,"Consumidores, Empresas e Governo"
+112,112,SustentaFuturo,Sustentabilidade,Sustentabilidade,"Ambiental, Social",Em planejamento,Local,Funcionários
+113,113,Muralha da Motivação,Social,Serviços Sociais,Social,Em planejamento,Nacional,Funcionários
+114,114,DigitalHealth Hub,"Tecnologia, Saúde",Tecnologia e Inovação,"Científico, Econômico",Em andamento,Nacional,Funcionários e Empresas
+115,115,SmartEco,Tecnologia,Tecnologia e Inovação,"Ambiental, Econômico",Em andamento,Local,População
+116,116,Navegar o Conhecimento,Educação,Educação,"Social, Científico",Em andamento,Nacional,População
+117,117,Lápis de Luxor,Educação,Educação,"Cultural, Social",Em planejamento,Nacional,População
+118,118,EnviroDrive,Transporte,Transporte e Logística,"Ambiental, Econômico",Em planejamento,Nacional,Consumidores
+119,119,Projeto Alegria e Bem-Estar,Saúde Mental,Saúde e Bem-estar,Social,Em andamento,Local,Empresas
+120,120,Technologie Tranquille (Tecnologia Tranquila),Tecnologia,Tecnologia e Inovação,"Econômico, Social",Em andamento,Local,Consumidores
+121,121,Ferramentas para o Sucesso,Educação,Educação,Econômico,Em planejamento,Local,Consumidores
+122,122,EcoGlide,Sustentabilidade,Sustentabilidade,Ambiental,Em andamento,Nacional,Empresas
+123,123,CriaçãoSaúde,Inovação em Saúde,Saúde e Inovação,"Social, Científico",Em andamento,Nacional,Consumidores e Empresas
+124,124,LIMPA (Liderança e Inovação em Manejo e Proteção Ambiental),Ambiental,Meio Ambiente,Ambiental,Em andamento,Local,Empresas
+125,125,Green Horizons: Educação Ambiental para a Juventude,Educação,Educação,"Ambiental, Social",Em andamento,Nacional,"Consumidores, Empresas e Governo"
+126,126,Desafio do Desenvolvimento,Educação,Educação,Econômico,Em andamento,Nacional,População
+127,127,SustainableShipping,Transporte Marítimo,Transporte e Logística,"Ambiental, Econômico",Em andamento,Local,"Consumidores, Empresas e Governo"
+128,128,Lumière Learning (Aprendizado Iluminado),Educação,Educação,"Social, Científico",Em planejamento,Local,Consumidores e Empresas
+129,129,Master,Educação,Educação,"Social, Científico",Em planejamento,Nacional,"Consumidores, Empresas e Governo"
+130,130,Iniciativa de Desenvolvimento de Resiliência,Educação,Educação,Social,Em andamento,Nacional,Consumidores e Empresas
+131,131,Projeto Renascimento,Saúde,Saúde e Bem-estar,Social,Em planejamento,Nacional,"Consumidores, Empresas e Governo"
+132,132,Inclusão no Trabalho,Social,Serviços Sociais,Social,Em andamento,Nacional,Consumidores
+133,133,ECOAR (Educação Comunitária e Oportunidades de Aprendizado Rural),Educação,Educação,"Social, Ambiental",Em andamento,Nacional,Consumidores e Empresas
+134,134,ConstruyeEquidad,Social,Serviços Sociais,Social,Em planejamento,Local,Consumidores e Empresas
+135,135,Jardin de Joy (Jardim de Alegria),Ambiental,Meio Ambiente,"Ambiental, Social",Em andamento,Local,Funcionários e Empresas
+136,136,Mosaico Multicultural,Multiculturalismo,Direito e Governança,Social,Em planejamento,Local,Consumidores e Empresas
+137,137,ImpulsaInnovación,Educação,Educação,Econômico,Em planejamento,Local,Funcionários e Empresas
+138,138,HabitatHematita,Ecologia,Meio Ambiente,Ambiental,Em andamento,Local,Consumidores e Empresas
+139,139,Programa de Bem-Estar na Intel,Saúde,Saúde e Bem-estar,Social,Em planejamento,Nacional,Funcionários
+140,140,EcoBike Sharing,Sustentabilidade,Sustentabilidade,Ambiental,Em planejamento,Local,Funcionários e Empresas
+141,141,Programa de Flexibilidade no Trabalho,Recursos Humanos,Gestão e Recursos Humanos,Social,Em planejamento,Local,Empresas
+142,142,RISO (Resposta Inovadora para Saúde e Oportunidade),Saúde,Saúde e Bem-estar,"Social, Econômico",Em planejamento,Nacional,"Consumidores, Empresas e Governo"
+143,143,REAL (Reforma Educativa para Aprendizagem Livre),Educação,Educação,"Social, Científico",Em planejamento,Nacional,Funcionários e Empresas
+144,144,Espelho da Sociedade,Social,Serviços Sociais,Social,Em andamento,Nacional,Funcionários
+145,145,Vórtice de Virtudes,Social,Serviços Sociais,"Social, Ético",Em andamento,Local,Funcionários e Empresas
+146,146,NúcleoNefrite,Física,Ciência e Pesquisa,Científico,Em andamento,Nacional,Funcionários
+147,147,Proyecto Valor+,Social,Serviços Sociais,Social,Em andamento,Local,Empresas
+148,148,Beyond Barriers: Inclusão de Refugiados no Mercado de Trabalho,Social,Serviços Sociais,Social,Em andamento,Nacional,Consumidores e Empresas
+149,149,Ações de bem-estar e saúde mental na Wacker,Saúde,Saúde e Bem-estar,Social,Em andamento,Local,Consumidores
+150,150,EcoMover,Sustentabilidade,Sustentabilidade,Ambiental,Em andamento,Local,Consumidores e Empresas
+151,151,Kleos de Conhecimento,Educação,Educação,"Social, Científico",Em andamento,Local,"Consumidores, Empresas e Governo"
+152,152,Vela da Visão,Científico,Ciência e Pesquisa,Científico,Em andamento,Nacional,Consumidores
+153,153,Empreenda Verde: Incentivo ao Empreendedorismo Sustentável,Empreendedorismo Sustentável,Sustentabilidade,"Ambiental, Econômico",Em planejamento,Local,Empresas
+154,154,Desenvolvimento de Tecnologia para Monitoramento de Fauna Silvestre,"Tecnologia, Meio Ambiente",Tecnologia e Inovação,"Ambiental, Científico",Em andamento,Local,Consumidores e Empresas
+155,155,Projeto Igualdade na Magazine Luiza,Social,Serviços Sociais,Social,Em planejamento,Local,Empresas
+156,156,Programa de Química Orgânica Sintética,Científico,Ciência e Pesquisa,Científico,Em andamento,Local,Funcionários e Empresas
+157,157,VórticeVanilla,Meteorologia,Meio Ambiente,Científico,Em andamento,Local,Funcionários
+158,158,SmartWaterways,Sustentabilidade,Sustentabilidade,Ambiental,Em planejamento,Nacional,Funcionários e Empresas
+159,159,Quem Vai Curar o Mundo?,Saúde,Saúde e Bem-estar,"Social, Científico",Em planejamento,Nacional,População
+160,160,Programa de Capacitação em Empreendedorismo para Mulheres em Situação de Vulnerabilidade,Educação,Educação,"Social, Econômico",Em planejamento,Local,Funcionários e Empresas
+161,161,Como Conectamos o Mundo?,Telecomunicações,Tecnologia e Comunicação,Econômico,Em andamento,Local,Empresas
+162,162,Jovens Líderes para Ação Climática,Climatologia,Meio Ambiente,"Ambiental, Social",Em planejamento,Local,Funcionários e Empresas
+163,163,Cielo Claro (Céu Claro),Ambiental,Meio Ambiente,Ambiental,Em andamento,Local,População
+164,164,SmartTransit,Tecnologia,Tecnologia e Inovação,"Ambiental, Econômico",Em andamento,Local,População
+165,165,Energia Eficiente,Energia,Energia e Recursos,"Econômico, Ambiental",Em planejamento,Local,Consumidores
+166,166,DigitalHealth Innovations,Inovações em Saúde Digital,Saúde e Tecnologia,"Social, Científico",Em planejamento,Nacional,Funcionários e Empresas
+167,167,BioInova,Biotecnologia,Engenharia,"Científico, Econômico",Em andamento,Nacional,Empresas
+168,168,GreenInfrastructure,Infraestrutura Sustentável,Sustentabilidade,"Ambiental, Econômico",Em andamento,Local,Funcionários
+169,169,"Clean Streets, Futuro Verde: Projeto de Embellecimento Urbano",Sustentabilidade,Sustentabilidade,"Social, Ambiental",Em planejamento,Nacional,Funcionários
+170,170,Youth Empowerment Program: Leadership Development for At-Risk Youth,Desenvolvimento Juvenil,Educação,Social,Em andamento,Local,Consumidores e Empresas
+171,171,Construindo o Futuro,Educação,Educação,Econômico,Em planejamento,Local,População
+172,172,Quando Nos Tornamos Sustentáveis?,Sustentabilidade,Sustentabilidade,Ambiental,Em andamento,Nacional,Consumidores e Empresas
+173,173,EcoTransit,Transporte,Transporte e Logística,"Ambiental, Econômico",Em planejamento,Local,Consumidores
+174,174,Campanha de Sensibilização para a Redução do Uso de Plásticos em Praças Públicas,Meio Ambiente,Meio Ambiente,Ambiental,Em andamento,Local,Funcionários
+175,175,Estudos de Materiais Fotovoltaicos para Energia Solar,Engenharia de Energia,Engenharia,"Científico, Econômico",Em andamento,Local,Funcionários e Empresas
+176,176,DE&I na Gerdau,Social,Serviços Sociais,Social,Em planejamento,Local,Consumidores
+177,177,EducaEclipse,Educação,Educação,Social,Em andamento,Nacional,"Consumidores, Empresas e Governo"
+178,178,Ações de DE&I na Thyssenkrupp,Social,Serviços Sociais,Social,Em andamento,Local,Consumidores
+179,179,Programa de Capacitação em Tecnologia para Pessoas com Deficiência Auditiva,"Educação, Tecnologia",Educação,Social,Em planejamento,Local,Funcionários
+180,180,Onda de Mudança,Desenvolvimento Social,Desenvolvimento Comunitário,"Social, Ambiental",Em andamento,Local,Funcionários
+181,181,Engenharia de Materiais Inteligentes,Engenharia de Materiais,Engenharia,"Científico, Econômico",Em andamento,Local,Funcionários
+182,182,Por Que Escolher Este Caminho?,Desenvolvimento de Carreira,Educação,"Social, Econômico",Em andamento,Local,Funcionários
+183,183,Hércules de Hidroponia,Agricultura,Agricultura e Alimentação,"Ambiental, Econômico",Em andamento,Nacional,Empresas
+184,184,Campanha de Conscientização sobre Consumo Responsável de Moda Infantil,Sustentabilidade,Sustentabilidade,"Social, Ambiental",Em planejamento,Local,Consumidores
+185,185,TransTech Innovations,Inovações em Tecnologia de Transporte,Transporte e Tecnologia,"Econômico, Ambiental",Em planejamento,Nacional,Consumidores e Empresas
+186,186,Novos Nascimentos,Saúde,Saúde e Bem-estar,"Social, Científico",Em andamento,Local,Consumidores
+187,187,Ícaro Inovador,Tecnologia,Tecnologia e Inovação,"Econômico, Científico",Em andamento,Local,Empresas
+188,188,Programa de Resiliência,Educação,Educação,Social,Em planejamento,Local,Funcionários
+189,189,Quem Protege o Planeta?,Ambientalismo,Meio Ambiente,Ambiental,Em andamento,Local,"Consumidores, Empresas e Governo"
+190,190,Programa de Capacitação em Empreendedorismo para Mulheres Chefes de Família,Educação,Educação,"Social, Econômico",Em andamento,Nacional,Empresas
+191,191,GreenJet,Aviação Sustentável,Sustentabilidade,"Ambiental, Econômico",Em andamento,Nacional,Consumidores e Empresas
+192,192,Talentos em Transformação,Educação,Educação,"Social, Econômico",Em andamento,Local,Funcionários
+193,193,DesenvolveFuturo,Educação,Educação,Econômico,Em andamento,Local,Funcionários
+194,194,Projeto Igualdade na BR Distribuidora,Social,Serviços Sociais,Social,Em planejamento,Local,"Consumidores, Empresas e Governo"
+195,195,Inovação em Robótica Biomimética,Tecnologia,Tecnologia e Inovação,"Científico, Econômico",Em andamento,Local,"Consumidores, Empresas e Governo"
+196,196,VidaVerde,Ambiental,Meio Ambiente,"Ambiental, Social",Em andamento,Local,Funcionários
+197,197,EducaLiderazgo,Educação,Educação,Econômico,Em andamento,Local,População
+198,198,Apoio na agenda de descarbonização na cadeia de suprimentos,Sustentabilidade,Sustentabilidade,Ambiental,Em andamento,Local,Consumidores e Empresas
+199,199,Programa de Estudos de Ecossistemas Marinhos,Ecologia Marinha,Meio Ambiente,"Científico, Ambiental",Em planejamento,Nacional,Consumidores
+200,200,Quero Querer,Psicologia,Saúde e Bem-estar,Social,Em planejamento,Local,Funcionários
+201,201,Hermes Health,Saúde,Saúde e Bem-estar,"Social, Científico",Em andamento,Local,Funcionários
+202,202,Beyond Borders: Integração de Refugiados no Mercado de Trabalho,Social,Serviços Sociais,Social,Em planejamento,Local,Empresas
+203,203,Éden Ecológico,Ambiental,Meio Ambiente,Ambiental,Em andamento,Local,Consumidores
+204,204,CresceCriativo,Educação,Educação,"Social, Econômico",Em andamento,Local,Consumidores e Empresas
+205,205,Arco do Desenvolvimento,Economia,Economia e Finanças,Econômico,Em andamento,Nacional,Consumidores e Empresas
+206,206,Projeto de Inteligência Emocional,Educação,Educação,Social,Em andamento,Local,Funcionários e Empresas
+207,207,MarítimoModerno,Marítimo,Transporte e Logística,"Econômico, Ambiental",Em andamento,Nacional,Funcionários e Empresas
+208,208,EcoSpeed,Transporte,Transporte e Logística,"Ambiental, Econômico",Em planejamento,Nacional,Empresas
+209,209,WirelessWolframita,Telecomunicações,Tecnologia e Comunicação,Econômico,Em andamento,Nacional,População
+210,210,Estudos de Mecânica Quântica com Circuitos Supercondutores,Física Quântica,Ciência e Pesquisa,Científico,Em planejamento,Local,Empresas
+211,211,Iniciativa de Mentoría Profesional,Educação,Educação,Econômico,Em andamento,Nacional,Funcionários
+212,212,Desenvolvimento de Tecnologia para Monitoramento de Deslizamentos de Terra,Tecnologia,Tecnologia e Inovação,"Científico, Ambiental",Em andamento,Nacional,"Consumidores, Empresas e Governo"
+213,213,Resiliência Robusta,Sustentabilidade,Sustentabilidade,"Ambiental, Social",Em andamento,Local,Empresas
+214,214,Astronomia Observacional com Telescópios Espaciais,Astronomia,Ciência e Pesquisa,Científico,Em andamento,Nacional,"Consumidores, Empresas e Governo"
+215,215,Fortalecendo Relações,Educação,Educação,Social,Em planejamento,Nacional,Consumidores e Empresas
+216,216,Programa Respire,Saúde,Saúde e Bem-estar,Social,Em andamento,Nacional,Funcionários e Empresas
+217,217,Iniciativa Diversidade na Kroton,Social,Serviços Sociais,Social,Em planejamento,Local,Funcionários
+218,218,Projeto de Implantação de Sistemas de Energia Eólica em Comunidades Costeiras,Energia,Energia e Recursos,Ambiental,Em andamento,Local,Funcionários
+219,219,Projeto Conexão Pessoal,Social,Serviços Sociais,Social,Em andamento,Local,Empresas
+220,220,EducaSustentável,Educação Ambiental,Educação e Meio Ambiente,"Social, Ambiental",Em andamento,Local,População
+221,221,Projeto de Diversidade na Disney,Social,Serviços Sociais,Social,Em andamento,Nacional,Funcionários
+222,222,Lumière de Lune (Luz da Lua),Cultura,Arte e Cultura,Cultural,Em andamento,Nacional,Empresas
+223,223,Movimento Transparência 100%,Governança,Direito e Governança,"Econômico, Social",Em andamento,Local,Funcionários
+224,224,Construção de Equipes,Educação,Educação,Econômico,Em andamento,Local,Empresas
+225,225,FutureMobility,TI,Tecnologia e Informação,Econômico,Em andamento,Nacional,Funcionários
+226,226,IA generativa e ciência de dados,Tecnologia,Tecnologia e Inovação,"Científico, Econômico",Em andamento,Local,"Consumidores, Empresas e Governo"
+227,227,Biblioteca de Babel,Educação,Educação,"Social, Científico",Em planejamento,Local,Funcionários e Empresas
+228,228,IA em Reconhecimento de Padrões Neurais,Inteligência Artificial,Tecnologia e Dados,Científico,Em andamento,Nacional,Consumidores e Empresas
+229,229,IdeiaIridescente,Inovação,Empreendedorismo e Inovação,"Econômico, Científico",Em planejamento,Local,Consumidores
+230,230,WonderWealth,Finanças,Economia e Finanças,Econômico,Em andamento,Local,Consumidores e Empresas
+231,231,Lanterna da Liberdade,Social,Serviços Sociais,"Social, Cultural",Em planejamento,Local,"Consumidores, Empresas e Governo"
+232,232,Instituto MRV,Educação,Educação,"Social, Econômico",Em andamento,Local,População
+233,233,ElectricRide Sharing,Sustentabilidade,Sustentabilidade,"Ambiental, Econômico",Em andamento,Local,Funcionários
+234,234,Récolte Richesse (Colheita Riqueza),Agricultura,Agricultura e Alimentação,"Econômico, Ambiental",Em andamento,Local,Consumidores
+235,235,ConstruyeJuntos,Social,Serviços Sociais,Social,Em planejamento,Nacional,Consumidores
+236,236,Arte para Impacto: Oficinas de Expressão Criativa,Arte,Arte e Cultura,Social,Em planejamento,Local,Funcionários
+237,237,Projeto Equidade na CPFL Energia,Social,Serviços Sociais,Social,Em andamento,Nacional,População
+238,238,Zonas de Zen,Bem-estar,Saúde e Bem-estar,Social,Em andamento,Local,Funcionários
+239,239,Estudos de Cultura de Feedback,Educação,Educação,Econômico,Em andamento,Local,Funcionários
+240,240,Inclusão no Ambiente de Trabalho,Social,Serviços Sociais,Social,Em andamento,Local,Funcionários
+241,241,GreenRoute Solutions,Tecnologia,Tecnologia e Inovação,"Ambiental, Econômico",Em andamento,Local,Funcionários e Empresas
+242,242,EcoLearn: Aprendizado Ecológico,Educação Ambiental,Educação e Meio Ambiente,"Ambiental, Social",Em andamento,Local,Funcionários e Empresas
+243,243,Como Podemos Viver Melhor?,Saúde,Saúde e Bem-estar,Social,Em andamento,Nacional,Consumidores e Empresas
+244,244,EcoTrucking,Transporte,Transporte e Logística,"Ambiental, Econômico",Em andamento,Local,Consumidores
+245,245,Arco-íris da Inclusão,Social,Serviços Sociais,"Social, Cultural",Em andamento,Nacional,Consumidores
+246,246,Saúde e Segurança,Saúde,Saúde e Bem-estar,Social,Em planejamento,Local,Funcionários
+247,247,Programa Inclusão na C&A,Social,Serviços Sociais,Social,Em andamento,Nacional,Funcionários
+248,248,Estudos de Ecossistemas Aquáticos com DNA Metabarcoding,Ecologia,Meio Ambiente,"Científico, Ambiental",Em planejamento,Nacional,Funcionários
+249,249,Revive,Ambiental,Meio Ambiente,"Ambiental, Social",Em andamento,Local,Consumidores
+250,250,Foco no Bem-Estar,Saúde,Saúde e Bem-estar,Social,Em andamento,Local,Funcionários
+251,251,Programa de Diversidade na Amazon,Social,Serviços Sociais,Social,Em andamento,Nacional,"Consumidores, Empresas e Governo"
+252,252,Project HOPE: Healthcare Outreach Program for Underserved Communities,Saúde Pública,Saúde e Bem-estar,Social,Em planejamento,Local,Funcionários
+253,253,Bem-Estar Básico,Saúde,Saúde e Bem-estar,Social,Em planejamento,Nacional,Consumidores e Empresas
+254,254,Quem Ganha com a Inovação?,Economia,Economia e Finanças,Econômico,Em planejamento,Local,Funcionários
+255,255,Glow Up,Bem-estar,Saúde e Bem-estar,"Social, Econômico",Em andamento,Local,Consumidores
+256,256,Atlas do Avanço,Educação,Educação,"Social, Científico",Em andamento,Local,Funcionários e Empresas
+257,257,Farol do Desenvolvimento,Econômico,Economia e Finanças,"Econômico, Social",Em andamento,Nacional,Consumidores e Empresas
+258,258,Zênite do Zelo,Desenvolvimento Pessoal,Educação,Social,Em andamento,Local,Consumidores e Empresas
+259,259,União Urbana,Urbanismo,Desenvolvimento Urbano e Infraestrutura,"Social, Econômico",Em andamento,Nacional,Funcionários
+260,260,Parceria com Escolas para Implantação de Projetos de Compostagem,"Educação, Sustentabilidade",Educação,"Ambiental, Social",Em andamento,Nacional,Funcionários
+261,261,Por Que Nos Importamos?,Saúde Mental,Saúde e Bem-estar,Social,Em andamento,Local,Funcionários
+262,262,Promoção da Saúde Mental,Saúde,Saúde e Bem-estar,Social,Em andamento,Local,Consumidores
+263,263,AeroAgilidade,Tecnologia,Tecnologia e Inovação,"Econômico, Científico",Em andamento,Local,Empresas
+264,264,Valoriza Vida,Saúde,Saúde e Bem-estar,Social,Em andamento,Local,"Consumidores, Empresas e Governo"
+265,265,Certificação de empresas brasileiras como B-CORP.,Negócios,Desenvolvimento Econômico e Empresarial,"Econômico, Social",Em andamento,Local,Empresas
+266,266,Desenvolvimento de Fármacos com AI,Farmacêutica,Saúde e Indústria,"Científico, Econômico",Em andamento,Local,Consumidores
+267,267,CAMPO (Capacitação Agrícola e Manejo de Práticas Orgânicas),Agricultura,Agricultura e Alimentação,"Econômico, Ambiental",Em andamento,Nacional,Funcionários
+268,268,Recursos Renováveis,Energia,Energia e Recursos,"Econômico, Ambiental",Em planejamento,Nacional,Funcionários
+269,269,Iniciativa de Desenvolvimento na Visa,Educação,Educação,Econômico,Em andamento,Local,"Consumidores, Empresas e Governo"
+270,270,Nêutron de Newton,Científico,Ciência e Pesquisa,Científico,Em andamento,Nacional,Consumidores e Empresas
+271,271,Espaço Sideral,Astronomia,Ciência e Pesquisa,Científico,Em andamento,Nacional,Funcionários
+272,272,IA em Neurociência Computacional,Científico,Ciência e Pesquisa,Científico,Em planejamento,Local,Consumidores e Empresas
+273,273,AirFlow,TI,Tecnologia e Informação,Econômico,Em andamento,Local,Funcionários
+274,274,Iniciativa Diversidade na Localiza,Social,Serviços Sociais,Social,Em planejamento,Nacional,Consumidores e Empresas
+275,275,Pilar do Progresso,Desenvolvimento Urbano,Desenvolvimento Urbano e Infraestrutura,"Social, Econômico",Em andamento,Nacional,Consumidores
+276,276,AceleraTalentos,Educação,Educação,Econômico,Em andamento,Nacional,Empresas
+277,277,Projeto de Inclusão de Pessoas com Deficiência no Mercado de Trabalho,Recursos Humanos,Gestão e Recursos Humanos,"Social, Econômico",Em planejamento,Local,População
+278,278,Quando Seremos Iguais?,Direitos Humanos,Direito e Governança,Social,Em andamento,Local,Empresas
+279,279,Estudos de Fenômenos Quânticos em Nanoestruturas,Física Quântica,Ciência e Pesquisa,Científico,Em planejamento,Nacional,Consumidores e Empresas
+280,280,FutureTransit Tech,TI,Tecnologia e Informação,Econômico,Em andamento,Local,Consumidores
+281,281,RobóticaResiliente,Tecnologia,Tecnologia e Inovação,"Econômico, Científico",Em andamento,Nacional,Consumidores e Empresas
+282,282,RizomaRubi,Biologia,Ciência e Pesquisa,Científico,Em planejamento,Local,População
+283,283,FutureTech Labs,Pesquisa e Desenvolvimento Tecnológico,Tecnologia e Inovação,"Científico, Econômico",Em andamento,Local,Funcionários e Empresas
+284,284,Formação e capacitação de mulheres para ambientes e lideranças fabris,Educação,Educação,Econômico,Em andamento,Local,Funcionários
+285,285,Estudio de Satisfacción del Empleado,Educação,Educação,Econômico,Em andamento,Nacional,Funcionários
+286,286,Catalyst,Inovação,Empreendedorismo e Inovação,"Econômico, Científico",Em andamento,Local,Empresas
+287,287,Programa de Biologia Evolutiva Experimental,Biologia Evolutiva,Ciência e Pesquisa,Científico,Em andamento,Local,População
+288,288,Iniciativa de Pesquisa em Neurociência Computacional,Científico,Ciência e Pesquisa,Científico,Em andamento,Nacional,Funcionários
+289,289,GenomaGlobal,Genética,Ciência e Pesquisa,"Científico, Econômico",Em andamento,Nacional,Funcionários
+290,290,WheelsOfTomorrow,TI,Tecnologia e Informação,Econômico,Em andamento,Local,População
+291,291,Iniciativa de Inclusão de Pessoas com Deficiência,Social,Serviços Sociais,Social,Em planejamento,Local,Funcionários
+292,292,Projeto de Criação de Hortas Comunitárias em Bairros Urbanos,Agricultura,Agricultura e Alimentação,"Social, Ambiental",Em andamento,Local,"Consumidores, Empresas e Governo"
+293,293,PromoveCultura,Cultura,Arte e Cultura,Social,Em planejamento,Nacional,População
+294,294,BemEstarBio,Biotecnologia,Engenharia,"Social, Econômico",Em planejamento,Local,"Consumidores, Empresas e Governo"
+295,295,Programa Inclusão na Ultrapar,Social,Serviços Sociais,Social,Em andamento,Local,Funcionários
+296,296,Projeto Equidade na Alpargatas,Social,Serviços Sociais,Social,Em andamento,Local,Funcionários
+297,297,Greening the Grid: Transição para Fontes de Energia Renovável,Energia,Energia e Recursos,Ambiental,Em andamento,Nacional,Funcionários
+298,298,SemeiaSucesso,Desenvolvimento de Carreira,Educação,Econômico,Em andamento,Nacional,População
+299,299,TechTravels,TI,Tecnologia e Informação,Econômico,Em planejamento,Nacional,População
+300,300,SmartRoads,TI,Tecnologia e Informação,Econômico,Em planejamento,Nacional,Funcionários
+301,301,Conexão Humana,Social,Serviços Sociais,Social,Em planejamento,Local,Funcionários e Empresas
+302,302,InovaçãoSaúde,Saúde,Saúde e Bem-estar,"Científico, Social",Em andamento,Local,Consumidores e Empresas
+303,303,Arco da Inovação,Tecnologia,Tecnologia e Inovação,"Econômico, Científico",Em planejamento,Local,Empresas
+304,304,Programa de Transformação na LinkedIn,Tecnologia,Tecnologia e Inovação,"Científico, Social",Em andamento,Nacional,Consumidores
+305,305,Programa de Capacitação em Tecnologia para Pessoas com Deficiência Visual,"Educação, Tecnologia",Educação,Social,Em andamento,Local,Consumidores
+306,306,Promoção da Felicidade,Saúde,Saúde e Bem-estar,Social,Em andamento,Local,Funcionários
+307,307,Por Que Não Agora?,Motivação,Educação,Social,Em andamento,Local,Funcionários e Empresas
+308,308,Parceria com ONGs para Promoção da Economia Criativa em Favelas,"Negócios, Social",Desenvolvimento Econômico e Empresarial,"Social, Econômico",Em andamento,Local,Funcionários
+309,309,Raízes do Crescimento,Desenvolvimento Econômico,Desenvolvimento Econômico e Empresarial,Econômico,Em andamento,Local,Funcionários
+310,310,Empreendedorismo Social: Capacitação de Microempreendedores,Empreendedorismo Social,Empreendedorismo e Inovação,"Econômico, Social",Em andamento,Nacional,Funcionários
+311,311,FutureMobility Tech,TI,Tecnologia e Informação,Econômico,Em planejamento,Local,Funcionários
+312,312,Atlas Ambiental,Ambiental,Meio Ambiente,Ambiental,Em andamento,Local,Funcionários e Empresas
+313,313,Iniciativa de Bem-Estar na Facebook,Saúde,Saúde e Bem-estar,Social,Em andamento,Local,Empresas
+314,314,EnviroWheels,Sustentabilidade,Sustentabilidade,Ambiental,Em planejamento,Local,Consumidores
+315,315,Estudos de Liderança Eficaz,Educação,Educação,Econômico,Em planejamento,Local,Funcionários e Empresas
+316,316,EnergiaEmpodera,Energia,Energia e Recursos,"Econômico, Social",Em andamento,Local,Empresas
+317,317,Olímpia Organização,Desporto,Desporto e Lazer,"Social, Econômico",Em planejamento,Local,Consumidores e Empresas
+318,318,Vitalize,Saúde,Saúde e Bem-estar,"Social, Ambiental",Em andamento,Nacional,"Consumidores, Empresas e Governo"
+319,319,Iniciativa de Desenvolvimento de Liderança,Educação,Educação,Econômico,Em andamento,Local,População
+320,320,UrbanShift,TI,Tecnologia e Informação,Econômico,Em andamento,Local,População
+321,321,EmpowerTech: Capacitação Tecnológica,Tecnologia,Tecnologia e Inovação,"Social, Econômico",Em planejamento,Local,Empresas
+322,322,Pirâmide do Poder,Política,Direito e Governança,"Social, Econômico",Em andamento,Local,Funcionários
+323,323,Programa de Educação Financeira e Previdenciária,Educação,Educação,"Social, Econômico",Em andamento,Local,Funcionários e Empresas
+324,324,Projeto de Psicologia Cognitiva Aplicada,Saúde,Saúde e Bem-estar,Social,Em andamento,Nacional,Consumidores
+325,325,Rota de Reciclagem,Sustentabilidade,Sustentabilidade,Ambiental,Em andamento,Local,Consumidores
+326,326,Desenvolvimento de Tecnologia para Monitoramento de Incidência de Doenças Transmitidas por Vetores,"Tecnologia, Saúde",Tecnologia e Inovação,"Ambiental, Científico",Em andamento,Local,Funcionários
+327,327,GELO (Gestão Ecológica e Liderança Organizada),Ambiental,Meio Ambiente,Ambiental,Em andamento,Local,Funcionários
+328,328,Programa de Desenvolvimento Organizacional,Gestão,Estratégia e Gestão,"Social, Econômico",Em andamento,Local,Consumidores
+329,329,Terra Firma (Terra Firme),Ambiental,Meio Ambiente,Ambiental,Em andamento,Local,Funcionários
+330,330,Ações de Educação Ambiental em Unidades de Conservação,"Educação, Sustentabilidade",Educação,"Ambiental, Social",Em andamento,Local,Funcionários e Empresas
+331,331,Nutrição infantil via merenda escolar,"Saúde, Educação",Saúde e Bem-estar,"Social, Ambiental",Em andamento,Nacional,Empresas
+332,332,EcoMobilize,Sustentabilidade,Sustentabilidade,Ambiental,Em andamento,Nacional,Empresas
+333,333,SEMENTE (Sistemas Ecológicos e Métodos para Educação e Natureza Transformadora),Educação,Educação,"Ambiental, Social",Em planejamento,Local,População
+334,334,Caleidoscópio Cultural,Cultura,Arte e Cultura,"Social, Cultural",Em andamento,Local,Consumidores
+335,335,Programa de Estudos de Biologia Celular,Biologia Celular,Ciência e Pesquisa,Científico,Em andamento,Local,Consumidores
+336,336,Diversity in Tech: Promoting Diversity in the Tech Industry,Diversidade e Inclusão,Direito e Governança,Social,Em planejamento,Local,Empresas
+337,337,EducaçãoConsciente,Educação,Educação,Social,Em andamento,Local,Funcionários e Empresas
+338,338,DespertaDesejo,Marketing,Marketing e Comunicação,Econômico,Em andamento,Local,Consumidores e Empresas
+339,339,Vênus de Vida,Saúde,Saúde e Bem-estar,"Social, Ambiental",Em planejamento,Local,População
+340,340,Estudos de Cultura Organizacional,Educação,Educação,Econômico,Em planejamento,Local,Empresas
+341,341,CrescerCompaixão,Saúde Mental,Saúde e Bem-estar,Social,Em andamento,Local,Funcionários e Empresas
+342,342,GênioGeométrico,Matemática,Ciência e Pesquisa,Científico,Em andamento,Local,Funcionários
+343,343,Projeto de Inclusão na Tesla,Social,Serviços Sociais,Social,Em andamento,Nacional,Empresas
+344,344,GENTE (Geração de Energia Nova e Tecnologias Ecoeficientes),Energia,Energia e Recursos,"Econômico, Ambiental",Em andamento,Local,Empresas
+345,345,Parceria com Instituições de Ensino Superior para Pesquisa em Energias Renováveis,"Educação, Tecnologia",Educação,"Ambiental, Científico",Em andamento,Local,Funcionários
+346,346,Projeto Futuro Brilhante,Educação,Educação,Social,Em planejamento,Nacional,Funcionários
+347,347,Parceria com ONGs para Recuperação de Áreas Contaminadas,Sustentabilidade,Sustentabilidade,Ambiental,Em andamento,Nacional,Funcionários
+348,348,DesenvolveCidades,Urbanismo,Desenvolvimento Urbano e Infraestrutura,"Social, Ambiental",Em planejamento,Local,Funcionários
+349,349,EnergiaEsmeralda,Energia,Energia e Recursos,"Ambiental, Econômico",Em planejamento,Local,Empresas
+350,350,Projeto de Gestão de Talentos,Recursos Humanos,Gestão e Recursos Humanos,Social,Em andamento,Local,"Consumidores, Empresas e Governo"
+351,351,Universidade Corporativa,Educação,Educação,"Social, Econômico",Em andamento,Local,Funcionários
+352,352,PESCA (Programa de Educação Sustentável e Conservação Aquática),Educação,Educação,"Ambiental, Econômico",Em andamento,Local,Consumidores e Empresas
+353,353,UrbanDrive,Transporte Urbano,Desenvolvimento Urbano e Infraestrutura,"Ambiental, Econômico",Em andamento,Local,População
+354,354,Projeto Equidade na SulAmérica,Social,Serviços Sociais,Social,Em andamento,Local,Funcionários e Empresas
+355,355,Iniciativa de Biologia Estrutural,Biologia Estrutural,Ciência e Pesquisa,Científico,Em planejamento,Local,"Consumidores, Empresas e Governo"
+356,356,KinéticaCultural,Cultura,Arte e Cultura,"Cultural, Social",Em andamento,Local,Empresas
+357,357,Horizon Harmonieux (Horizonte Harmonioso),Social,Serviços Sociais,"Social, Ambiental",Em planejamento,Local,Funcionários
+358,358,Templo do Tempo,Cultural,Arte e Cultura,Cultural,Em planejamento,Local,Consumidores
+359,359,DataSavvy,Análise de Dados,Tecnologia e Dados,"Econômico, Científico",Em andamento,Local,Consumidores e Empresas
+360,360,Programa Inclusão na Suzano,Social,Serviços Sociais,Social,Em andamento,Local,Consumidores e Empresas
+361,361,Desenvolvimento de Tecnologia para Reciclagem de Resíduos de Eletrônicos,"Tecnologia, Sustentabilidade",Tecnologia e Inovação,Ambiental,Em andamento,Local,"Consumidores, Empresas e Governo"
+362,362,Cultura de Colaboração,Educação,Educação,Econômico,Em planejamento,Local,Consumidores
+363,363,GreenTech Drive,Tecnologia,Tecnologia e Inovação,"Ambiental, Econômico",Em planejamento,Local,Consumidores e Empresas
+364,364,CUIDA (Comunidade Unida pela Inclusão e Desenvolvimento de Atividades),Social,Serviços Sociais,Social,Em andamento,Local,Consumidores e Empresas
+365,365,Impacto Positivo,Social,Serviços Sociais,Social,Em andamento,Local,Consumidores
+366,366,Programa de Oceanografia Aplicada,Científico,Ciência e Pesquisa,"Ambiental, Científico",Em andamento,Nacional,Consumidores
+367,367,Alimentação Saudável,Saúde,Saúde e Bem-estar,Social,Em andamento,Local,Funcionários
+368,368,ElectricUrban,Transporte,Transporte e Logística,"Ambiental, Econômico",Em planejamento,Local,Funcionários
+369,369,Astronomia Observacional,Astronomia,Ciência e Pesquisa,Científico,Em andamento,Nacional,População
+370,370,Projeto Futuro,Tecnologia,Tecnologia e Inovação,"Científico, Econômico",Em andamento,Nacional,"Consumidores, Empresas e Governo"
+371,371,Iniciativa de Promoção da Saúde Mental,Saúde,Saúde e Bem-estar,Social,Em andamento,Local,Funcionários
+372,372,Campanha de Conscientização sobre Desperdício de Alimentos em Supermercados,Sustentabilidade,Sustentabilidade,"Social, Ambiental",Em planejamento,Nacional,Consumidores e Empresas
+373,373,Educação Continuada,Educação,Educação,Social,Em planejamento,Local,Funcionários
+374,374,Programa de Genética de Populações,Genética,Ciência e Pesquisa,Científico,Em planejamento,Local,Empresas
+375,375,CRISPR-Cas12 para Edição Precisa de Genes,Genética,Ciência e Pesquisa,Científico,Em andamento,Local,Funcionários
+376,376,Iniciativa Resiliência,Saúde Mental,Saúde e Bem-estar,Social,Em andamento,Local,Funcionários
+377,377,Projeto Igualdade na Votorantim,Social,Serviços Sociais,Social,Em planejamento,Nacional,"Consumidores, Empresas e Governo"
+378,378,CriaçãoVerde,Arte e Meio Ambiente,Arte e Cultura,"Ambiental, Social",Em andamento,Local,Consumidores
+379,379,ProsperaRH,Educação,Educação,Econômico,Em planejamento,Nacional,População
+380,380,Iniciativa Diversidade na BRF,Social,Serviços Sociais,Social,Em andamento,Nacional,Empresas
+381,381,Projeto de Reutilização de Materiais de Construção em Obras Públicas,Construção Sustentável,Sustentabilidade,"Ambiental, Social",Em andamento,Nacional,População
+382,382,Transfórmate+,Educação,Educação,Social,Em andamento,Local,Consumidores
+383,383,Transcendental Transport,Transporte,Transporte e Logística,"Ambiental, Econômico",Em planejamento,Local,Consumidores e Empresas
+384,384,Olho da Verdade,Jornalismo,Comunicação e Mídia,Social,Em andamento,Nacional,Funcionários
+385,385,MotionMasters,TI,Tecnologia e Informação,Econômico,Em andamento,Local,Funcionários
+386,386,Relógio do Mundo,TI,Tecnologia e Informação,"Econômico, Científico",Em planejamento,Local,População
+387,387,Programa de Transformação na Unilever,Tecnologia,Tecnologia e Inovação,"Científico, Econômico",Em planejamento,Nacional,Consumidores
+388,388,Projeto de Avaliação de Desempenho,Recursos Humanos,Gestão e Recursos Humanos,"Econômico, Social",Em andamento,Local,Empresas
+389,389,Programa Pequenos Negócios Fortalecidos,Desenvolvimento Empresarial,Desenvolvimento Econômico e Empresarial,Econômico,Em andamento,Local,"Consumidores, Empresas e Governo"
+390,390,Oasis da Inovação,TI,Tecnologia e Informação,"Econômico, Científico",Em planejamento,Nacional,Consumidores e Empresas
+391,391,EmpowerED: Tecnologia Educacional para Escolas Carentes,Educação Tecnológica,Tecnologia e Educação,Social,Em andamento,Nacional,Funcionários
+392,392,ConectaCidades,"Urbanismo, Tecnologia",Desenvolvimento Urbano e Infraestrutura,"Social, Econômico",Em andamento,Local,Consumidores e Empresas
+393,393,Fênix Financeira,Finanças,Economia e Finanças,Econômico,Em planejamento,Nacional,Funcionários
+394,394,Nutrição Nítida,Saúde,Saúde e Bem-estar,"Social, Ambiental",Em andamento,Local,Consumidores
+395,395,FutureTransshipment,TI,Tecnologia e Informação,Econômico,Em andamento,Nacional,Consumidores
+396,396,Jovens com Juízo,Educação,Educação,Social,Em andamento,Local,Empresas
+397,397,CleanEnergy Tech,"Tecnologia, Energia",Tecnologia e Inovação,"Ambiental, Econômico",Em planejamento,Local,Funcionários e Empresas
+398,398,Optimize,Tecnologia,Tecnologia e Inovação,"Econômico, Científico",Em andamento,Nacional,Funcionários
+399,399,Sócrates Sociais,Educação,Educação,"Social, Cultural",Em andamento,Local,Consumidores e Empresas
+400,400,Carpe Diem Comunidade,Social,Serviços Sociais,Social,Em planejamento,Local,Funcionários
+401,401,Quimera de Qualidade,Gestão da Qualidade,Estratégia e Gestão,Econômico,Em andamento,Local,Consumidores e Empresas
+402,402,Projeto Equidade na Embraer,Social,Serviços Sociais,Social,Em andamento,Local,Consumidores
+403,403,SustainCity: Cidade Sustentável,Urbanismo Sustentável,Sustentabilidade,"Ambiental, Social",Em andamento,Local,Consumidores e Empresas
+404,404,Diamante da Diversidade,Diversidade e Inclusão,Direito e Governança,Social,Em planejamento,Nacional,Funcionários
+405,405,FutureDrone Delivery,TI,Tecnologia e Informação,Econômico,Em andamento,Local,Funcionários
+406,406,Arte e Ação,Cultura,Arte e Cultura,"Cultural, Social",Em andamento,Local,Funcionários
+407,407,Ações de Promoção da Saúde Mental em Ambientes de Trabalho,Saúde,Saúde e Bem-estar,Social,Em andamento,Nacional,Funcionários
+408,408,Ecologia Computacional,Ecologia,Meio Ambiente,Científico,Em andamento,Local,Funcionários
+409,409,Pioneiros da Paz,Paz e Segurança,Direito e Governança,Social,Em planejamento,Local,Funcionários
+410,410,Transforma+RH,Educação,Educação,Econômico,Em andamento,Local,"Consumidores, Empresas e Governo"
+411,411,Estudos de Workforce Planning,Educação,Educação,Econômico,Em andamento,Local,Funcionários e Empresas
+412,412,Programa de Educação Continuada,Educação,Educação,"Social, Econômico",Em andamento,Local,"Consumidores, Empresas e Governo"
+413,413,Progresso Participativo,Social,Serviços Sociais,"Social, Econômico",Em planejamento,Nacional,"Consumidores, Empresas e Governo"
+414,414,Física de Partículas Avançada,Física,Ciência e Pesquisa,Científico,Em planejamento,Nacional,Consumidores
+415,415,Estudos de Materiais Supercondutores para Eletrônica Quântica,Física Quântica,Ciência e Pesquisa,Científico,Em planejamento,Local,Funcionários e Empresas
+416,416,EcoVida: Programa de Sensibilização Ambiental em Comunidades,Sustentabilidade,Sustentabilidade,"Ambiental, Social",Em andamento,Nacional,Funcionários
+417,417,CultivaComunidade,Social,Serviços Sociais,"Social, Econômico",Em planejamento,Local,Consumidores e Empresas
+418,418,Empower,Social,Serviços Sociais,"Social, Econômico",Em planejamento,Local,População
+419,419,MARÉ (Movimento Ambiental para a Revitalização Ecológica),Ambiental,Meio Ambiente,Ambiental,Em andamento,Nacional,Funcionários
+420,420,EcoDelivery,Sustentabilidade,Sustentabilidade,Ambiental,Em andamento,Nacional,Consumidores
+421,421,SustentaSocial,Social,Serviços Sociais,"Social, Ambiental",Em andamento,Local,Empresas
+422,422,Iniciativa de Bienestar Laboral,Saúde,Saúde e Bem-estar,Social,Em planejamento,Local,População
+423,423,Projeto Abrace-se,Social,Serviços Sociais,Social,Em planejamento,Local,Funcionários
+424,424,Alimentazione Alma (Alimentação Alma),Saúde,Saúde e Bem-estar,"Social, Ambiental",Em andamento,Nacional,Funcionários
+425,425,FuturoSostenible,Sustentabilidade,Sustentabilidade,Ambiental,Em andamento,Local,Consumidores
+426,426,Projeto de Diversidade na IBM,Social,Serviços Sociais,Social,Em andamento,Nacional,Consumidores
+427,427,Surge,Tecnologia,Tecnologia e Inovação,"Econômico, Científico",Em andamento,Local,População
+428,428,Projeto de Construção Sustentável em Áreas Urbanas,Construção Sustentável,Sustentabilidade,"Ambiental, Econômico",Em andamento,Local,Consumidores e Empresas
+429,429,YouLead: Liderança Juvenil,Desenvolvimento Juvenil,Educação,Social,Em andamento,Local,População
+430,430,Como Preservar a Natureza?,Conservação Ambiental,Meio Ambiente,Ambiental,Em andamento,Local,Consumidores e Empresas
+431,431,Parceria com Escolas para Implementação de Projetos de Compostagem,"Educação, Sustentabilidade",Educação,"Ambiental, Social",Em planejamento,Local,Empresas
+432,432,FutureTransit,Transporte,Transporte e Logística,"Ambiental, Econômico",Em andamento,Nacional,Consumidores
+433,433,CleanCommute,Sustentabilidade,Sustentabilidade,Ambiental,Em andamento,Local,Funcionários
+434,434,Diversity in Tech: Incentivo à Diversidade na Indústria de Tecnologia,Social,Serviços Sociais,Social,Em andamento,Nacional,Funcionários e Empresas
+435,435,Programa de Capacitação em Empreendedorismo para Jovens de Comunidades Carentes,Educação,Educação,"Social, Econômico",Em andamento,Local,População
+436,436,GreenAir,Tecnologia,Tecnologia e Inovação,"Ambiental, Econômico",Em andamento,Local,Consumidores e Empresas
+437,437,Ulisses Urbanismo,Urbanismo,Desenvolvimento Urbano e Infraestrutura,"Social, Econômico",Em andamento,Nacional,"Consumidores, Empresas e Governo"
+438,438,Biomas,Meio Ambiente,Meio Ambiente,Ambiental,Em planejamento,Nacional,Consumidores
+439,439,AçãoComunitária,Desenvolvimento Comunitário,Desenvolvimento Comunitário,Social,Em andamento,Local,Empresas
+440,440,Projeto Transformação na Microsoft,Tecnologia,Tecnologia e Inovação,"Científico, Econômico",Em planejamento,Nacional,Consumidores e Empresas
+441,441,Coração da Comunidade,Desenvolvimento Comunitário,Desenvolvimento Comunitário,Social,Em andamento,Local,Funcionários
+442,442,Caminhos para o Sucesso,Educação,Educação,Econômico,Em planejamento,Local,Funcionários
+443,443,SpeedScape,TI,Tecnologia e Informação,Econômico,Em andamento,Local,Funcionários e Empresas
+444,444,Projeto Mente Saudável,Saúde,Saúde e Bem-estar,Social,Em andamento,Nacional,População
+445,445,ArtesAnalíticas,Cultura,Arte e Cultura,"Cultural, Científico",Em planejamento,Nacional,Empresas
+446,446,Sustainable Finance,Finanças,Economia e Finanças,"Econômico, Ambiental",Em andamento,Nacional,Consumidores e Empresas
+447,447,VIVER (Vigilância Inovadora para a Valorização de Ecossistemas Rurais),Ambiental,Meio Ambiente,"Ambiental, Econômico",Em andamento,Local,"Consumidores, Empresas e Governo"
+448,448,Iniciativa de Desenvolvimento na Netflix,Educação,Educação,Econômico,Em planejamento,Nacional,Funcionários
+449,449,JuventudeJusta,Social,Serviços Sociais,Social,Em andamento,Local,Funcionários e Empresas
+450,450,Programa Empreendedorismo em Ação,Empreendedorismo,Empreendedorismo e Inovação,"Econômico, Social",Em planejamento,Local,"Consumidores, Empresas e Governo"
+451,451,Inovação e Aprendizado,Educação,Educação,Econômico,Em andamento,Nacional,Consumidores e Empresas
+452,452,Campo de Descobertas,Científico,Ciência e Pesquisa,Científico,Em planejamento,Nacional,Consumidores
+453,453,PromoveSustentabilidade,Sustentabilidade,Sustentabilidade,"Ambiental, Social",Em planejamento,Local,"Consumidores, Empresas e Governo"
+454,454,SmartTrucking,"Transporte, Tecnologia",Transporte e Logística,"Ambiental, Econômico",Em andamento,Local,População
+455,455,Programa Empoderamento na JSL,Social,Serviços Sociais,Econômico,Em andamento,Local,Consumidores
+456,456,Escudo da Saúde,Saúde Pública,Saúde e Bem-estar,Social,Em andamento,Nacional,Consumidores
+457,457,Kalypso Klima,Ambiental,Meio Ambiente,Ambiental,Em planejamento,Local,Funcionários e Empresas
+458,458,GreenLiving Tech,Tecnologia,Tecnologia e Inovação,"Ambiental, Econômico",Em andamento,Nacional,Funcionários
+459,459,EmpowerMulher: Programa de Empreendedorismo Feminino,Social,Serviços Sociais,Econômico,Em planejamento,Nacional,"Consumidores, Empresas e Governo"
+460,460,EcoTech Innovations,Inovações em Tecnologia Ecológica,Tecnologia e Meio Ambiente,"Ambiental, Econômico",Em planejamento,Nacional,Consumidores e Empresas
+461,461,GreenTech para Agricultura Sustentável,"Tecnologia, Agricultura",Tecnologia e Inovação,"Ambiental, Econômico",Em planejamento,Nacional,Funcionários
+462,462,Quête de Qualité (Busca por Qualidade),Negócios,Desenvolvimento Econômico e Empresarial,Econômico,Em planejamento,Local,Empresas
+463,463,FutureCycling,Sustentabilidade,Sustentabilidade,"Ambiental, Econômico",Em planejamento,Local,Funcionários e Empresas
+464,464,ConexiónEmpatía,Social,Serviços Sociais,Social,Em andamento,Nacional,Funcionários
+465,465,MUDA (Movimento Unificado para o Desenvolvimento Ambiental),Ambiental,Meio Ambiente,Ambiental,Em andamento,Local,Empresas
+466,466,Parceria com ONGs para Recuperação de Áreas Degradadas,Sustentabilidade,Sustentabilidade,Ambiental,Em andamento,Nacional,População
+467,467,Programa Desperte,Desenvolvimento Pessoal,Educação,Social,Em andamento,Local,"Consumidores, Empresas e Governo"
+468,468,Iniciativa Diversidade na Natura,Social,Serviços Sociais,Social,Em andamento,Local,Consumidores
+469,469,Projeto de Inovação na PepsiCo,Tecnologia,Tecnologia e Inovação,"Científico, Econômico",Em andamento,Nacional,Funcionários
+470,470,Ações de Felicidade na Farmapar,Saúde,Saúde e Bem-estar,Social,Em planejamento,Local,População
+471,471,SaúdeSegura,Saúde,Saúde e Bem-estar,"Social, Econômico",Em andamento,Nacional,Funcionários
+472,472,TechBridge: Treinamento de Habilidades Digitais para Jovens Desempregados,"Educação, Tecnologia",Educação,Social,Em planejamento,Nacional,População
+473,473,AURA (Ações Unificadas para Revitalização Ambiental),Ambiental,Meio Ambiente,Ambiental,Em andamento,Local,Funcionários
+474,474,Iniciativa de Ecologia Computacional,Ecologia,Meio Ambiente,Científico,Em planejamento,Local,Funcionários
+475,475,LógicaLuneta,Astronomia,Ciência e Pesquisa,Científico,Em planejamento,Nacional,Consumidores
+476,476,Capacitação e Desenvolvimento,Educação,Educação,Econômico,Em andamento,Nacional,Empresas
+477,477,Mar de Ideias,Inovação,Empreendedorismo e Inovação,"Econômico, Científico",Em planejamento,Nacional,Empresas
+478,478,Conquer,Desenvolvimento Pessoal,Educação,Social,Em andamento,Nacional,Empresas
+479,479,GrafenoGirassol,Nanotecnologia,Tecnologia e Inovação,"Econômico, Científico",Em andamento,Local,Funcionários e Empresas
+480,480,GreenTech: Tecnologia Sustentável,Tecnologia Ambiental,Tecnologia e Meio Ambiente,"Ambiental, Econômico",Em planejamento,Nacional,Consumidores
+481,481,Programa Empoderamento na Raízen,Social,Serviços Sociais,Econômico,Em andamento,Local,"Consumidores, Empresas e Governo"
+482,482,AeroNex,Tecnologia,Tecnologia e Inovação,"Ambiental, Econômico",Em andamento,Local,Funcionários e Empresas
+483,483,GreenTech Innovations,Inovações em Tecnologia Verde,Tecnologia e Meio Ambiente,"Ambiental, Econômico",Em andamento,Nacional,Funcionários
+484,484,Formação Fértil,Educação,Educação,"Social, Econômico",Em andamento,Local,Consumidores e Empresas
+485,485,Thrive,Desenvolvimento Comunitário,Desenvolvimento Comunitário,"Social, Econômico",Em andamento,Nacional,Empresas
+486,486,Castelo da Cultura,Cultura,Arte e Cultura,Social,Em planejamento,Local,Funcionários e Empresas
+487,487,Estudos de Retenção de Talentos,Educação,Educação,Econômico,Em planejamento,Local,Consumidores e Empresas
+488,488,Lanterna do Conhecimento,Educação,Educação,Social,Em andamento,Local,"Consumidores, Empresas e Governo"
+489,489,TranscendXpress,Transporte,Transporte e Logística,"Ambiental, Econômico",Em planejamento,Local,Consumidores e Empresas
+490,490,Programa Acelera Negócios,Empreendedorismo,Empreendedorismo e Inovação,Econômico,Em planejamento,Local,População
+491,491,CRISPR na Edição de Microrganismos,Biotecnologia,Engenharia,Científico,Em andamento,Local,Consumidores
+492,492,Workshops Wellness (Bem-Estar),Saúde,Saúde e Bem-estar,Social,Em andamento,Local,Empresas
+493,493,LAGO (Liderança e Ação para Gestão Organizada),Ambiental,Meio Ambiente,"Econômico, Ambiental",Em andamento,Local,Empresas
+494,494,Projeto de Robótica Autônoma,Tecnologia,Tecnologia e Inovação,"Científico, Econômico",Em andamento,Local,"Consumidores, Empresas e Governo"
+495,495,UneUniversos,Cultura,Arte e Cultura,Social,Em planejamento,Nacional,Funcionários
+496,496,HealthTech Innovations,"Tecnologia, Saúde",Tecnologia e Inovação,"Científico, Econômico",Em andamento,Local,Consumidores e Empresas
+497,497,Projeto de Gestão de Desempenho Individual,Recursos Humanos,Gestão e Recursos Humanos,"Social, Econômico",Em andamento,Local,Funcionários
+498,498,Estudos de Gestão da Mudança,Educação,Educação,Econômico,Em andamento,Nacional,Empresas
+499,499,Programa de Engenharia Genética,Biotecnologia,Engenharia,Científico,Em planejamento,Local,Funcionários
+500,500,Onde Estão as Soluções?,Tecnologia,Tecnologia e Inovação,"Econômico, Científico",Em andamento,Local,Funcionários
+501,501,Iniciativa Diversidade na Suzano,Social,Serviços Sociais,Social,Em andamento,Local,Funcionários
+502,502,Quando Mudar?,Desenvolvimento Pessoal,Educação,Social,Em andamento,Nacional,Empresas
+503,503,Raio de Luz,Educação,Educação,Social,Em planejamento,Nacional,Funcionários
+504,504,Estudos de Desenvolvimento Pessoal,Educação,Educação,Econômico,Em andamento,Local,"Consumidores, Empresas e Governo"
+505,505,MobilidadeMalva,Transporte,Transporte e Logística,"Econômico, Ambiental",Em andamento,Nacional,Funcionários e Empresas
+506,506,ForçaFutura,Educação,Educação,"Social, Científico",Em andamento,Local,População
+507,507,Kiwi do Conhecimento,Educação,Educação,Científico,Em andamento,Nacional,Consumidores e Empresas
+508,508,Sustainable Cities Initiative: Projeto de Renovação Urbana,Sustentabilidade,Sustentabilidade,"Ambiental, Econômico",Em andamento,Nacional,Funcionários
+509,509,ReciclaRhodonita,Reciclagem,Meio Ambiente,"Ambiental, Econômico",Em planejamento,Local,Funcionários
+510,510,Projeto de Capacitação Profissional,Educação,Educação,"Social, Econômico",Em planejamento,Local,Empresas
+511,511,Iniciativa de Redução do Uso de Plástico em Embalagens de Alimentos,Sustentabilidade,Sustentabilidade,Ambiental,Em andamento,Local,Funcionários
+512,512,Sustainable Agriculture Initiative: Práticas de Agricultura Sustentável,Agricultura,Agricultura e Alimentação,"Ambiental, Econômico",Em andamento,Nacional,Consumidores
+513,513,Questões Qualitativas,Educação,Educação,"Social, Científico",Em andamento,Local,Funcionários
+514,514,Desenvolvimento de Equipe,Educação,Educação,Econômico,Em andamento,Local,"Consumidores, Empresas e Governo"
+515,515,Desenvolvimento Dedicado,Econômico,Economia e Finanças,"Econômico, Social",Em planejamento,Nacional,Funcionários
+516,516,ConstruyeInclusión,Social,Serviços Sociais,Social,Em andamento,Local,Empresas
+517,517,Ascend,Educação,Educação,"Social, Econômico",Em planejamento,Local,Consumidores e Empresas
+518,518,Balança do Bem,Social,Serviços Sociais,"Social, Ético",Em andamento,Local,Empresas
+519,519,Neurociência Computacional e IA,Científico,Ciência e Pesquisa,Científico,Em andamento,Local,Empresas
+520,520,Viva Voce (Com a Voz),Social,Serviços Sociais,"Social, Cultural",Em andamento,Nacional,Consumidores e Empresas
+521,521,ImpulsaBienestar,Saúde,Saúde e Bem-estar,Social,Em andamento,Nacional,"Consumidores, Empresas e Governo"
+522,522,PlanetaPeridoto,Sustentabilidade,Sustentabilidade,"Ambiental, Social",Em andamento,Local,Consumidores e Empresas
+523,523,PINHO (Preservação Integrada de Habitats e Oportunidades Naturais),Ambiental,Meio Ambiente,"Ambiental, Econômico",Em andamento,Local,População
+524,524,KinéticaKiwi,Física,Ciência e Pesquisa,Científico,Em planejamento,Nacional,Consumidores e Empresas
+525,525,ImpulsaEmpreendedorismo,Empreendedorismo,Empreendedorismo e Inovação,"Econômico, Social",Em andamento,Local,Funcionários
+526,526,Programa Impulso Empreendedor,Empreendedorismo,Empreendedorismo e Inovação,"Econômico, Social",Em andamento,Local,Consumidores e Empresas
+527,527,GeneGênio,Genética,Ciência e Pesquisa,Científico,Em planejamento,Nacional,População
+528,528,ConstróiNegócios,Empreendedorismo,Empreendedorismo e Inovação,"Econômico, Social",Em andamento,Local,Funcionários
+529,529,Excelência Pessoal,Educação,Educação,Econômico,Em planejamento,Local,Funcionários
+530,530,Céu de Possibilidades,TI,Tecnologia e Informação,"Econômico, Científico",Em planejamento,Local,"Consumidores, Empresas e Governo"
+531,531,SmartHome Solutions,Tecnologia,Tecnologia e Inovação,"Econômico, Ambiental",Em andamento,Local,População
+532,532,Santé Solidaire (Saúde Solidária),Saúde,Saúde e Bem-estar,Social,Em andamento,Local,"Consumidores, Empresas e Governo"
+533,533,Projeto de Inclusão na Oracle,Social,Serviços Sociais,Social,Em andamento,Local,Empresas
+534,534,Projeto de Inclusão na Visa,Social,Serviços Sociais,Social,Em andamento,Local,Funcionários
+535,535,TransformaTerra,Sustentabilidade,Sustentabilidade,"Ambiental, Social",Em andamento,Nacional,População
+536,536,Workshops de Wellbeing,Saúde Mental,Saúde e Bem-estar,Social,Em andamento,Local,Funcionários
+537,537,KármicoKale,Nutrição,Saúde e Bem-estar,"Social, Saúde",Em planejamento,Local,Funcionários
+538,538,AgroInteligente,Agricultura,Agricultura e Alimentação,"Econômico, Ambiental",Em andamento,Local,Funcionários
+539,539,SmartCity Transport,"Transporte, Tecnologia",Transporte e Logística,"Ambiental, Econômico",Em andamento,Nacional,Funcionários
+540,540,Projeto de Inovação na Amazon,Tecnologia,Tecnologia e Inovação,"Científico, Econômico",Em andamento,Local,"Consumidores, Empresas e Governo"
+541,541,Programa Empoderamento na B2W Digital,Social,Serviços Sociais,Econômico,Em planejamento,Local,Empresas
+542,542,CONTA (Consciência e Oportunidade Numa Transformação Ambiental),Ambiental,Meio Ambiente,Ambiental,Em andamento,Nacional,Consumidores e Empresas
+543,543,GreenTech Travel,"Transporte, Tecnologia",Transporte e Logística,"Ambiental, Econômico",Em andamento,Local,Funcionários
+544,544,AquaRide,Transporte Aquático,Transporte e Logística,"Econômico, Ambiental",Em planejamento,Nacional,Consumidores e Empresas
+545,545,Quest,Educação,Educação,"Social, Científico",Em andamento,Local,Empresas
+546,546,Grifo de Gestão,Negócios,Desenvolvimento Econômico e Empresarial,"Econômico, Organizacional",Em andamento,Nacional,Funcionários e Empresas
+547,547,Escola Nota 10,Educação,Educação,Social,Em andamento,Local,Empresas
+548,548,Labirinto de Ideias,TI,Tecnologia e Informação,"Econômico, Científico",Em andamento,Nacional,Funcionários e Empresas
+549,549,CulturaInclusiva,Cultura,Arte e Cultura,Social,Em andamento,Local,Consumidores e Empresas
+550,550,ÓrbitaOrgânica,Agricultura,Agricultura e Alimentação,"Ambiental, Econômico",Em andamento,Nacional,Funcionários e Empresas
+551,551,Iniciativa Harmonia,Saúde Mental,Saúde e Bem-estar,Social,Em andamento,Nacional,População
+552,552,Cronos de Crescimento,Econômico,Economia e Finanças,Econômico,Em andamento,Nacional,Empresas
+553,553,Soluções Sustentáveis,Ambiental,Meio Ambiente,"Ambiental, Econômico",Em planejamento,Nacional,Consumidores e Empresas
+554,554,Iniciativa Diversidade na Braskem,Social,Serviços Sociais,Social,Em andamento,Local,População
+555,555,Programa de Transformação na Facebook,Tecnologia,Tecnologia e Inovação,"Científico, Social",Em andamento,Nacional,Funcionários
+556,556,Projeto de Engenharia de Materiais Avançados,Engenharia de Materiais,Engenharia,"Científico, Econômico",Em andamento,Local,Funcionários e Empresas
+557,557,Sísifo Sistêmico,Tecnologia,Tecnologia e Inovação,"Econômico, Organizacional",Em andamento,Local,Funcionários
+558,558,Projeto de Implantação de Sistemas de Energia Solar em Comunidades Isoladas,Energia,Energia e Recursos,"Ambiental, Social",Em andamento,Nacional,Consumidores e Empresas
+559,559,Desafío+Progreso,Educação,Educação,Econômico,Em andamento,Local,"Consumidores, Empresas e Governo"
+560,560,UrbanEcoTransit,Transporte Urbano,Desenvolvimento Urbano e Infraestrutura,"Ambiental, Econômico",Em planejamento,Local,Funcionários e Empresas
+561,561,NexoNatural,Ambiental,Meio Ambiente,"Ambiental, Científico",Em andamento,Nacional,Funcionários e Empresas
+562,562,EducaDigital,Educação Tecnológica,Tecnologia e Educação,Social,Em andamento,Local,Funcionários e Empresas
+563,563,Programa Empoderamento na Natura,Social,Serviços Sociais,Econômico,Em planejamento,Nacional,Funcionários e Empresas
+564,564,Desenvolvimento de Líderes para inclusão de PCDs,Educação,Educação,Social,Em andamento,Local,Funcionários
+565,565,Vínculos Vitais,Social,Serviços Sociais,Social,Em planejamento,Local,Empresas
+566,566,Cérebro Saudável,Saúde,Saúde e Bem-estar,Social,Em planejamento,Local,Empresas
+567,567,Karma Kinetic (Cinética do Karma),Tecnologia,Tecnologia e Inovação,"Econômico, Científico",Em planejamento,Local,"Consumidores, Empresas e Governo"
+568,568,YogaYasmim,Bem-estar,Saúde e Bem-estar,Social,Em planejamento,Local,Empresas
+569,569,Arte Abstracta,Arte,Arte e Cultura,Cultural,Em planejamento,Local,"Consumidores, Empresas e Governo"
+570,570,Inclusão e Pertencimento,Social,Serviços Sociais,Social,Em andamento,Nacional,"Consumidores, Empresas e Governo"
+571,571,Tempo Tranquilo,Bem-estar,Saúde e Bem-estar,Social,Em andamento,Nacional,Funcionários e Empresas
+572,572,Fausto em Finanças,Finanças,Economia e Finanças,Econômico,Em planejamento,Local,Funcionários
+573,573,Ações de Preservação de Ecossistemas Aquáticos,Sustentabilidade,Sustentabilidade,Ambiental,Em andamento,Nacional,Consumidores e Empresas
+574,574,XenonXilofone,Física,Ciência e Pesquisa,Científico,Em andamento,Local,Funcionários
+575,575,EcoAviation,Aviação Sustentável,Sustentabilidade,"Ambiental, Econômico",Em andamento,Nacional,"Consumidores, Empresas e Governo"
+576,576,Programa de Capacitação em Tecnologia para Idosos,"Educação, Tecnologia",Educação,Social,Em andamento,Nacional,"Consumidores, Empresas e Governo"
+577,577,Zelo Zen,Desenvolvimento Pessoal,Educação,Social,Em andamento,Nacional,Funcionários
+578,578,TodosTriunfo,Educação,Educação,Social,Em andamento,Local,Funcionários
+579,579,Desafío+Transformación,Educação,Educação,Social,Em planejamento,Local,Empresas
+580,580,Projeto de Reciclagem de Eletroeletrônicos,"Tecnologia, Sustentabilidade",Tecnologia e Inovação,Ambiental,Em andamento,Local,Empresas
+581,581,UrbanMobility Solutions,Tecnologia,Tecnologia e Inovação,"Ambiental, Econômico",Em andamento,Local,População
+582,582,Desenvolvimento de Nanorrobôs para Medicina,Científico,Ciência e Pesquisa,"Social, Científico",Em andamento,Local,Empresas
+583,583,Kiosque de Conhecimento,Educação,Educação,"Social, Científico",Em planejamento,Local,Funcionários
+584,584,CleanEnergy Transport,"Transporte, Tecnologia",Transporte e Logística,"Ambiental, Econômico",Em andamento,Nacional,Funcionários
+585,585,Programa Empoderamento na Gerdau,Social,Serviços Sociais,Econômico,Em andamento,Local,Consumidores
+586,586,Quíron Quântico,Científico,Ciência e Pesquisa,Científico,Em andamento,Nacional,Funcionários
+587,587,EcoMove,Sustentabilidade,Sustentabilidade,Ambiental,Em andamento,Local,Funcionários e Empresas
+588,588,Quando É Tarde Demais?,Conscientização Ambiental,Meio Ambiente,Ambiental,Em andamento,Local,Funcionários e Empresas
+589,589,Parceria com Escolas para Criação de Horta Escolar Vertical em Ambientes Urbanos,"Educação, Agricultura",Educação,"Ambiental, Social",Em planejamento,Local,Empresas
+590,590,Projeto Igualdade na Azul,Social,Serviços Sociais,Social,Em andamento,Nacional,População
+591,591,Projeto de Implantação de Sistemas de Energia Eólica em Zonas Industriais,Energia,Energia e Recursos,"Ambiental, Econômico",Em andamento,Local,Funcionários
+592,592,Ações de Bem-Estar na SaúdeTotal,Saúde,Saúde e Bem-estar,Social,Em planejamento,Nacional,Funcionários
+593,593,Projeto Vida Saudável,Saúde,Saúde e Bem-estar,Social,Em andamento,Local,Empresas
+594,594,Caminho Verde: Projeto de Mobilidade Sustentável,Transporte,Transporte e Logística,Ambiental,Em andamento,Local,Funcionários e Empresas
+595,595,IA em Diagnóstico Médico por Imagem,Inteligência Artificial na Medicina,Tecnologia e Saúde,Científico,Em planejamento,Nacional,"Consumidores, Empresas e Governo"
+596,596,Programa de Capacitação em Agricultura Orgânica para Pequenos Produtores,"Educação, Agricultura",Educação,"Ambiental, Social",Em andamento,Nacional,Empresas
+597,597,"Ações de bem estar, saúde e felicidade na Thyssenkrupp",Saúde,Saúde e Bem-estar,Social,Em planejamento,Nacional,"Consumidores, Empresas e Governo"
+598,598,Campanha de Sensibilização para a Adoção de Transporte Público em Áreas Urbanas,"Transporte, Social",Transporte e Logística,"Social, Ambiental",Em andamento,Local,Consumidores
+599,599,Desenvolvimento de Tecnologia para Reciclagem de Plásticos,"Tecnologia, Sustentabilidade",Tecnologia e Inovação,Ambiental,Em andamento,Local,Funcionários
+600,600,Proyecto de Desarrollo de Talento,Educação,Educação,Econômico,Em planejamento,Local,Consumidores
+601,601,Escudo Ambiental,Sustentabilidade,Sustentabilidade,Ambiental,Em planejamento,Local,Empresas
+602,602,OrganizaçãoÓpalo,Gestão,Estratégia e Gestão,Econômico,Em andamento,Local,Empresas
+603,603,Projeto Harmony: Iniciativa de Construção Comunitária Inter-religiosa,Desenvolvimento Comunitário,Desenvolvimento Comunitário,Social,Em planejamento,Local,"Consumidores, Empresas e Governo"
+604,604,Iniciativa de Bem-Estar no Trabalho,Saúde,Saúde e Bem-estar,Social,Em andamento,Nacional,Empresas
+605,605,Iniciativa Diversidade na Bradesco,Social,Serviços Sociais,Social,Em andamento,Local,Funcionários e Empresas
+606,606,ResíduoResponsável,Ambiental,Meio Ambiente,"Ambiental, Social",Em planejamento,Local,Funcionários e Empresas
+607,607,Iniciativa de Educação Ambiental para Crianças em Situação de Vulnerabilidade,Educação,Educação,"Ambiental, Social",Em andamento,Local,Consumidores
+608,608,Projeto de Valorização da Cultura Local em Bairros Multiculturais,"Social, Cultural",Serviços Sociais,Social,Em andamento,Nacional,Funcionários
+609,609,Desenvolvimento de Tecnologia para Monitoramento de Poluição Sonora,"Tecnologia, Meio Ambiente",Tecnologia e Inovação,Ambiental,Em andamento,Local,Consumidores e Empresas
+610,610,ProjectEco: Projeto Ecológico,Sustentabilidade,Sustentabilidade,Ambiental,Em planejamento,Local,Consumidores e Empresas
+611,611,CRISPR-Cas12 para Detecção de Marcadores Genéticos,Biotecnologia,Engenharia,Científico,Em andamento,Nacional,Funcionários
+612,612,ExoXisto,Astronomia,Ciência e Pesquisa,Científico,Em andamento,Nacional,Funcionários e Empresas
+613,613,Projeto Nova Era,Desenvolvimento Pessoal,Educação,Social,Em andamento,Nacional,População
+614,614,Programa Startup Booster,Aceleração de Startups,Empreendedorismo e Inovação,Econômico,Em andamento,Nacional,Funcionários
+615,615,Projeto Equidade na Cielo,Social,Serviços Sociais,Social,Em planejamento,Local,Consumidores e Empresas
+616,616,OCEANO (Oportunidades Comunitárias e Educação Ambiental no Nosso entorno),Educação,Educação,"Ambiental, Social",Em andamento,Local,Funcionários e Empresas
+617,617,Iniciativa de Redução do Consumo de Água em Condomínios Residenciais,Sustentabilidade,Sustentabilidade,"Ambiental, Social",Em planejamento,Nacional,Funcionários
+618,618,Campanha de Reciclagem de Resíduos Eletrônicos em Escolas,Educação,Educação,"Ambiental, Social",Em andamento,Nacional,Funcionários
+619,619,Projeto Igualdade na JBS,Social,Serviços Sociais,Social,Em andamento,Nacional,Consumidores e Empresas
+620,620,UrbanMove,TI,Tecnologia e Informação,Econômico,Em planejamento,Local,Funcionários
+621,621,IA em Descoberta de Biomarcadores Genéticos,Genética,Ciência e Pesquisa,Científico,Em andamento,Nacional,Consumidores e Empresas
+622,622,Programa de Bem-Estar na Netflix,Saúde,Saúde e Bem-estar,Social,Em andamento,Local,Funcionários
+623,623,Iniciativa de Mentoria Profissional,Educação,Educação,"Econômico, Social",Em andamento,Local,População
+624,624,PromoveEducação,Educação,Educação,Social,Em andamento,Nacional,População
+625,625,Projeto de Gestão de Conflitos,Recursos Humanos,Gestão e Recursos Humanos,Social,Em planejamento,Nacional,Consumidores e Empresas
+626,626,Nurture,Educação,Educação,"Social, Científico",Em andamento,Nacional,"Consumidores, Empresas e Governo"
+627,627,Crescimento e Desenvolvimento,Educação,Educação,Econômico,Em andamento,Local,"Consumidores, Empresas e Governo"
+628,628,GRÃO (Gestão de Recursos Ambientais e Oportunidades Naturais),Ambiental,Meio Ambiente,"Ambiental, Econômico",Em andamento,Local,Consumidores
+629,629,Innovation for Inclusion: Technology Training for Persons with Disabilities,Tecnologia Assistiva,Tecnologia e Inovação,Social,Em planejamento,Local,Funcionários
+630,630,Iniciativa Diversidade na Duratex,Social,Serviços Sociais,Social,Em andamento,Nacional,Consumidores
+631,631,FloraFeldspato,Botânica,Ciência e Pesquisa,Ambiental,Em andamento,Nacional,Empresas
+632,632,Talos Tecnológico,Tecnologia,Tecnologia e Inovação,"Econômico, Científico",Em andamento,Nacional,População
+633,633,Jornada Jurídica,Social,Serviços Sociais,"Social, Legal",Em andamento,Local,Funcionários e Empresas
+634,634,Projeto Valores Compartilhados,Social,Serviços Sociais,Social,Em andamento,Local,Consumidores
+635,635,InnovaEquidad,Social,Serviços Sociais,Social,Em planejamento,Nacional,Consumidores e Empresas
+636,636,Transformação Organizacional,Educação,Educação,Econômico,Em planejamento,Nacional,Funcionários
+637,637,ExpandeEmpatia,Saúde Mental,Saúde e Bem-estar,Social,Em andamento,Local,Consumidores e Empresas
+638,638,Geração Global,Social,Serviços Sociais,"Social, Econômico",Em andamento,Nacional,Empresas
+639,639,Iniciativa de Desenvolvimento de Talentos,Educação,Educação,Econômico,Em andamento,Local,Funcionários
+640,640,Iniciativa de Análise de Dados Ambientais,Ciência Ambiental,Meio Ambiente,Científico,Em andamento,Local,"Consumidores, Empresas e Governo"
+641,641,Estudos de Supercondutividade em Materiais Quânticos,Física Quântica,Ciência e Pesquisa,Científico,Em andamento,Local,População
+642,642,Mobilidade Máxima,Transporte,Transporte e Logística,"Econômico, Social",Em planejamento,Nacional,"Consumidores, Empresas e Governo"
+643,643,FOCO (Formação e Oportunidade para Criação de Oportunidades),Educação,Educação,"Econômico, Social",Em planejamento,Nacional,Funcionários
+644,644,Kreativ Kraft (Força Criativa),Cultura,Arte e Cultura,"Cultural, Econômico",Em planejamento,Local,Empresas
+645,645,Kinética Cultural,Cultura,Arte e Cultura,"Cultural, Social",Em andamento,Local,Empresas
+646,646,FOCA (Formação e Oportunidades para Comunidades Ativas),Educação,Educação,"Social, Econômico",Em andamento,Local,Consumidores
+647,647,Programa Saúde Mental,Saúde,Saúde e Bem-estar,Social,Em andamento,Local,Funcionários e Empresas
+648,648,Educação Verde: Sustentabilidade nas Escolas,Educação Ambiental,Educação e Meio Ambiente,"Ambiental, Social",Em andamento,Local,Empresas
+649,649,Mercado Multicultural,Cultura,Arte e Cultura,"Cultural, Econômico",Em andamento,Nacional,Funcionários
+650,650,ImpulsaDesarrollo,Educação,Educação,Econômico,Em planejamento,Nacional,Funcionários
+651,651,Projeto de Gestão de Crises,Gestão,Estratégia e Gestão,"Econômico, Social",Em andamento,Nacional,"Consumidores, Empresas e Governo"
+652,652,Pursue,Educação,Educação,"Social, Científico",Em planejamento,Nacional,Consumidores e Empresas
+653,653,IA em Modelagem Climática Global,Climatologia,Meio Ambiente,"Ambiental, Científico",Em andamento,Nacional,"Consumidores, Empresas e Governo"
+654,654,TransTech Ventures,Tecnologia em Transportes,Transporte e Tecnologia,"Econômico, Científico",Em andamento,Local,"Consumidores, Empresas e Governo"
+655,655,Gracia Verde (Graça Verde),Ambiental,Meio Ambiente,"Ambiental, Social",Em planejamento,Local,Funcionários
+656,656,Interseccionalidade nas lideranças,Recursos Humanos,Gestão e Recursos Humanos,Social,Em andamento,Nacional,"Consumidores, Empresas e Governo"
+657,657,Programa Inclusão na Odebrecht,Social,Serviços Sociais,Social,Em planejamento,Local,"Consumidores, Empresas e Governo"
+658,658,DriveSphere,TI,Tecnologia e Informação,Econômico,Em andamento,Local,"Consumidores, Empresas e Governo"
+659,659,Proj. Youth: Projeto Juventude,Desenvolvimento Juvenil,Educação,Social,Em planejamento,Nacional,Consumidores
+660,660,TechTalentos,TI,Tecnologia e Informação,"Econômico, Científico",Em planejamento,Local,População
+661,661,Desenvolvimento de Tecnologia para Agricultura Sustentável,"Tecnologia, Agricultura",Tecnologia e Inovação,"Ambiental, Econômico",Em andamento,Nacional,População
+662,662,Caminho Verde: Promoção da Mobilidade Sustentável,Transporte,Transporte e Logística,Ambiental,Em andamento,Local,Funcionários
+663,663,Projeto de Engenharia de Biomateriais,Engenharia Biomédica,Engenharia,"Científico, Econômico",Em planejamento,Local,"Consumidores, Empresas e Governo"
+664,664,GreenTech Solutions: Soluções Tecnológicas Sustentáveis,"Tecnologia, Sustentabilidade",Tecnologia e Inovação,Ambiental,Em planejamento,Local,Consumidores e Empresas
+665,665,Programa Transforme-se,Saúde,Saúde e Bem-estar,Social,Em andamento,Local,Consumidores e Empresas
+666,666,EcoLogistics,Sustentabilidade,Sustentabilidade,"Ambiental, Econômico",Em planejamento,Local,Funcionários
+667,667,Beyond Borders: Promoção da Diversidade e Inclusão,Social,Serviços Sociais,Social,Em andamento,Local,Consumidores e Empresas
+668,668,Desenvolvimento de Talentos,Educação,Educação,Econômico,Em andamento,Local,Empresas
+669,669,LER (Liberdade de Expressão e Reflexão),Educação,Educação,"Social, Cultural",Em andamento,Local,Empresas
+670,670,Whispering Wind (Sussurro do Vento),Ambiental,Meio Ambiente,Ambiental,Em andamento,Local,Funcionários e Empresas
+671,671,Ações de Saúde Mental na Pharmex,Saúde,Saúde e Bem-estar,Social,Em andamento,Local,Consumidores e Empresas
+672,672,EducaAmbiental,Educação Ambiental,Educação e Meio Ambiente,"Ambiental, Social",Em andamento,Nacional,Funcionários e Empresas
+673,673,Programa Inclusão na Santander,Social,Serviços Sociais,Social,Em planejamento,Local,Funcionários
+674,674,SkyShift,TI,Tecnologia e Informação,Econômico,Em andamento,Local,"Consumidores, Empresas e Governo"
+675,675,EducaInclusão,Educação Inclusiva,Educação,Social,Em andamento,Nacional,População
+676,676,Saúde Pública,Saúde Pública,Saúde e Bem-estar,Social,Em andamento,Nacional,Consumidores e Empresas
+677,677,Parceria com ONGs para Preservação de Corais em Áreas Costeiras,Sustentabilidade,Sustentabilidade,Ambiental,Em planejamento,Local,Consumidores e Empresas
+678,678,IA em Diagnóstico Precoce de Doenças,Inteligência Artificial na Medicina,Tecnologia e Saúde,Científico,Em planejamento,Nacional,Consumidores
+679,679,Rêve Réalité (Sonho Realidade),Social,Serviços Sociais,"Social, Cultural",Em andamento,Nacional,População
+680,680,Proyecto Impacto Positivo,Social,Serviços Sociais,Social,Em planejamento,Nacional,Empresas
+681,681,SmartMove,TI,Tecnologia e Informação,Econômico,Em andamento,Local,Funcionários
+682,682,Projeto de Equilíbrio entre Trabalho e Vida Pessoal,Recursos Humanos,Gestão e Recursos Humanos,Social,Em andamento,Local,Funcionários e Empresas
+683,683,Por Que a Educação Transforma?,Educação,Educação,Social,Em andamento,Local,População
+684,684,Lírio de Lore,Educação,Educação,"Cultural, Social",Em andamento,Local,Funcionários
+685,685,GreenTech: Tecnologia Ambiental,Tecnologia Ambiental,Tecnologia e Meio Ambiente,"Ambiental, Econômico",Em andamento,Local,Consumidores e Empresas
+686,686,Programa Equidade na Petrobras,Social,Serviços Sociais,Social,Em andamento,Local,Consumidores e Empresas
+687,687,EcoTrans Ventures,Transporte Sustentável,Sustentabilidade,"Ambiental, Econômico",Em planejamento,Local,Empresas
+688,688,Tecnologia Tranquila,Tecnologia,Tecnologia e Inovação,"Econômico, Social",Em andamento,Nacional,"Consumidores, Empresas e Governo"
+689,689,TerraTecnologia,TI,Tecnologia e Informação,"Econômico, Ambiental",Em andamento,Local,População
+690,690,WebWisteria,TI,Tecnologia e Informação,Econômico,Em andamento,Nacional,Funcionários
+691,691,Iniciativa do Desempenho,Educação,Educação,Econômico,Em planejamento,Local,Funcionários
+692,692,Programa de Integridade - Selo Pró Ética,Governança,Direito e Governança,"Econômico, Social",Em andamento,Nacional,Consumidores e Empresas
+693,693,Biotecnologia Brilhante,Biotecnologia,Engenharia,"Científico, Econômico",Em planejamento,Nacional,Funcionários
+694,694,Programa de Capacitação em Empreendedorismo para Refugiados,Educação,Educação,"Social, Econômico",Em planejamento,Local,População
+695,695,Iniciativa de Análise de Dados Genômicos,Genômica,Ciência e Pesquisa,Científico,Em planejamento,Local,"Consumidores, Empresas e Governo"
+696,696,Project Harmony: Building Interfaith Dialogue and Cooperation,Desenvolvimento Comunitário,Desenvolvimento Comunitário,Social,Em andamento,Local,Funcionários
+697,697,Iniciativa de Educação Ambiental para Crianças em Situação de Risco,Educação,Educação,"Ambiental, Social",Em andamento,Nacional,Funcionários
+698,698,SONHA (Soluções Oníricas para Necessidades Humanas e Ambientais),Educação,Educação,"Social, Ambiental",Em planejamento,Nacional,Consumidores e Empresas
+699,699,VIGIA (Vigilância Integrada para Gestão e Impacto Ambiental),Ambiental,Meio Ambiente,Ambiental,Em planejamento,Local,Funcionários
+700,700,Innovate4Good: Inovação para o Bem,Tecnologia,Tecnologia e Inovação,"Social, Econômico",Em andamento,Nacional,Consumidores e Empresas
+701,701,EcoTransit Systems,Tecnologia,Tecnologia e Inovação,"Ambiental, Econômico",Em andamento,Local,Consumidores e Empresas
+702,702,Solstice Solace (Consolo do Solstício),Cultura,Arte e Cultura,"Cultural, Social",Em andamento,Nacional,"Consumidores, Empresas e Governo"
+703,703,EcoRide Solutions,Tecnologia,Tecnologia e Inovação,"Ambiental, Econômico",Em planejamento,Nacional,Funcionários e Empresas
+704,704,Desafio de Vida Sustentável: Campanha de Estilo de Vida Sustentável,Sustentabilidade,Sustentabilidade,"Social, Ambiental",Em andamento,Nacional,Empresas
+705,705,Programa de Diversidade e Inclusão,Recursos Humanos,Gestão e Recursos Humanos,Social,Em andamento,Local,Funcionários
+706,706,Quem Inova?,Tecnologia,Tecnologia e Inovação,"Econômico, Científico",Em andamento,Nacional,"Consumidores, Empresas e Governo"
+707,707,Pilar da Prosperidade,Economia,Economia e Finanças,Econômico,Em andamento,Local,Funcionários e Empresas
+708,708,HarmonizaHumanidade,Saúde Mental,Saúde e Bem-estar,Social,Em planejamento,Local,Funcionários
+709,709,Projeto Azul: Conservação da Água em Práticas Agrícolas,Agricultura,Agricultura e Alimentação,Ambiental,Em andamento,Local,Empresas
+710,710,Semente do Futuro,Educação,Educação,"Social, Ambiental",Em planejamento,Local,Consumidores
+711,711,Montagne Mystique (Montanha Mística),Turismo,Turismo e Lazer,"Cultural, Ambiental",Em andamento,Local,Consumidores
+712,712,Negra Rosa,Negócios,Desenvolvimento Econômico e Empresarial,"Econômico, Social",Em andamento,Local,Funcionários
+713,713,InovaçãoCultural,Cultura,Arte e Cultura,Social,Em planejamento,Local,Funcionários e Empresas
+714,714,Palais du Progrès (Palácio do Progresso),Educação,Educação,"Social, Científico",Em planejamento,Local,População
+715,715,CleanEnergy Innovations,Inovações em Energia Limpa,Energia e Recursos,"Ambiental, Econômico",Em andamento,Local,Consumidores
+716,716,HealthTech Ventures,Tecnologia na Saúde,Tecnologia e Saúde,"Econômico, Científico",Em andamento,Nacional,Funcionários
+717,717,Programa Avance,Educação,Educação,Social,Em andamento,Local,"Consumidores, Empresas e Governo"
+718,718,LinguísticaLavanda,Linguística,Educação,Científico,Em planejamento,Nacional,"Consumidores, Empresas e Governo"
+719,719,Campanha de Sensibilização para a Redução do Uso de Plásticos em Praias,Meio Ambiente,Meio Ambiente,Ambiental,Em planejamento,Local,Funcionários
+720,720,Iniciativa de Acessibilidade em Espaços Públicos,Acessibilidade Urbana,Desenvolvimento Urbano e Infraestrutura,"Social, Ambiental",Em planejamento,Local,Funcionários
+721,721,AcciónSostenible,Sustentabilidade,Sustentabilidade,Ambiental,Em andamento,Local,Funcionários e Empresas
+722,722,Janela para o Mundo,Educação Internacional,Educação,Social,Em andamento,Local,População
+723,723,EducaVida,Educação,Educação,Social,Em andamento,Local,Consumidores
+724,724,FutureCommute Solutions,Tecnologia,Tecnologia e Inovação,"Ambiental, Econômico",Em andamento,Local,Funcionários
+725,725,Noble Nécessité (Necessidade Nobre),Social,Serviços Sociais,"Social, Econômico",Em andamento,Local,Funcionários e Empresas
+726,726,Iniciativa Força Jovem,Desenvolvimento Juvenil,Educação,Social,Em andamento,Local,Funcionários e Empresas
+727,727,SínteseSáfira,Química,Ciência e Pesquisa,Científico,Em planejamento,Local,Consumidores e Empresas
+728,728,DE&I na Vitacon,Social,Serviços Sociais,Social,Em planejamento,Local,Funcionários
+729,729,Vida Ativa,Saúde,Saúde e Bem-estar,Social,Em andamento,Nacional,Consumidores
+730,730,Projeto Cooperação e Aprendizado,Educação,Educação,Econômico,Em andamento,Local,Consumidores
+731,731,JogoJaspe,Desenvolvimento de Jogos,Tecnologia e Dados,Econômico,Em andamento,Local,Funcionários e Empresas
+732,732,InnovaCambio,Educação,Educação,Econômico,Em andamento,Nacional,"Consumidores, Empresas e Governo"
+733,733,Zenith Zephyr (Zênite Zéfiro),Tecnologia,Tecnologia e Inovação,"Econômico, Científico",Em andamento,Local,Consumidores e Empresas
+734,734,Tech4All: Tecnologia para Todos,Tecnologia,Tecnologia e Inovação,Social,Em andamento,Nacional,"Consumidores, Empresas e Governo"
+735,735,Programa de Astronomia Observacional,Astronomia,Ciência e Pesquisa,Científico,Em andamento,Local,Empresas
+736,736,Inovação Pessoal,Educação,Educação,Econômico,Em andamento,Local,Funcionários
+737,737,ConexiónBienestar,Saúde,Saúde e Bem-estar,Social,Em andamento,Local,Funcionários e Empresas
+738,738,Psicologia Cognitiva Aplicada,Saúde,Saúde e Bem-estar,Social,Em andamento,Local,Consumidores e Empresas
+739,739,VelocityVoyage,TI,Tecnologia e Informação,Econômico,Em andamento,Local,"Consumidores, Empresas e Governo"
+740,740,FAUNA (Formação e Ações Unificadas para a Natureza e Animais),Ambiental,Meio Ambiente,"Ambiental, Social",Em andamento,Local,Empresas
+741,741,Diálogo Dinâmico,Educação,Educação,"Social, Cultural",Em planejamento,Local,Empresas
+742,742,EcoFriendly Commute,Transporte Sustentável,Sustentabilidade,"Ambiental, Econômico",Em planejamento,Local,"Consumidores, Empresas e Governo"
+743,743,SaludMental+,Saúde,Saúde e Bem-estar,Social,Em planejamento,Nacional,Funcionários e Empresas
+744,744,TechBridge: Promoção da Alfabetização Digital em Comunidades Carentes,"Educação, Tecnologia",Educação,Social,Em andamento,Local,"Consumidores, Empresas e Governo"
+745,745,Âncora da Estabilidade,Economia,Economia e Finanças,Econômico,Em planejamento,Local,Funcionários
+746,746,Júpiter Jurídico,Jurídico,Direito e Governança,"Social, Legal",Em planejamento,Nacional,Consumidores
+747,747,Programa de Capacitação em Artesanato para Mulheres Chefes de Família,Educação,Educação,"Social, Econômico",Em planejamento,Local,População
+748,748,FórumFuturista,Científico,Ciência e Pesquisa,"Científico, Cultural",Em andamento,Nacional,Consumidores e Empresas
+749,749,InnovaTalento,Educação,Educação,Econômico,Em planejamento,Local,"Consumidores, Empresas e Governo"
+750,750,ÓrbitaOpala,Astronomia,Ciência e Pesquisa,Científico,Em andamento,Local,Empresas
+751,751,TecidoTecnológico,TI,Tecnologia e Informação,"Econômico, Científico",Em andamento,Local,Consumidores e Empresas
+752,752,Aprendizado Profundo,Inteligência Artificial,Tecnologia e Dados,Científico,Em andamento,Nacional,Consumidores e Empresas
+753,753,Programa de Educação Financeira em Escolas de Baixa Renda,Educação Financeira,Educação,Social,Em planejamento,Local,População
+754,754,Iniciativa de Bioengenharia de Tecidos,Bioengenharia,Engenharia,Científico,Em andamento,Nacional,Empresas
+755,755,NutriNature,Saúde,Saúde e Bem-estar,"Social, Ambiental",Em andamento,Nacional,Funcionários
+756,756,DELTA (Desenvolvimento e Educação Local por Tecnologia e Apoio),Educação,Educação,"Econômico, Social",Em andamento,Local,Funcionários
+757,757,Desenvolvimento de Tecnologia para Monitoramento de Poluição do Ar,"Tecnologia, Meio Ambiente",Tecnologia e Inovação,Ambiental,Em planejamento,Nacional,"Consumidores, Empresas e Governo"
+758,758,Motivate,Educação,Educação,Social,Em andamento,Local,Funcionários
+759,759,Como Fazemos a Diferença?,Filantropia,Serviços Sociais,Social,Em andamento,Local,Funcionários e Empresas
+760,760,Iniciativa de Biologia Molecular Avançada,Biologia Molecular,Ciência e Pesquisa,Científico,Em andamento,Local,Funcionários
+761,761,Desenvolvimento Sustentável,Sustentabilidade,Sustentabilidade,Ambiental,Em andamento,Nacional,Funcionários e Empresas
+762,762,Iniciativa de Igualdade na HP,Social,Serviços Sociais,Social,Em andamento,Nacional,População
+763,763,Spark,Inovação,Empreendedorismo e Inovação,"Econômico, Científico",Em andamento,Nacional,Funcionários
+764,764,CriaçãoTech,Tecnologia e Design,Tecnologia e Inovação,"Econômico, Científico",Em planejamento,Nacional,Empresas
+765,765,VENTO (Vigilância Ecológica e Novas Tecnologias Organizadas),Ambiental,Meio Ambiente,"Ambiental, Econômico",Em planejamento,Local,Consumidores
+766,766,Gaia Galleria (Galeria Gaia),Cultura,Arte e Cultura,"Cultural, Ambiental",Em planejamento,Local,Empresas
+767,767,EducaCrecimiento,Educação,Educação,Econômico,Em planejamento,Local,"Consumidores, Empresas e Governo"
+768,768,Âncora do Futuro,Sustentabilidade,Sustentabilidade,"Social, Ambiental, Econômico",Em planejamento,Local,População
+769,769,EcoPulse,Tecnologia Ambiental,Tecnologia e Meio Ambiente,"Ambiental, Econômico",Em andamento,Local,Consumidores
+770,770,HojeMelhor,Desenvolvimento Pessoal,Educação,Social,Em andamento,Nacional,População
+771,771,Apoio à Produção de Alimentos Orgânicos em Pequenas Propriedades,Agricultura,Agricultura e Alimentação,"Ambiental, Social",Em andamento,Local,Consumidores e Empresas
+772,772,CuidaCidades,Urbanismo,Desenvolvimento Urbano e Infraestrutura,"Social, Ambiental",Em andamento,Nacional,Consumidores e Empresas
+773,773,Cidades Verdes: Integração de IoT para Desenvolvimento Sustentável,"Tecnologia, Meio Ambiente",Tecnologia e Inovação,"Ambiental, Econômico",Em planejamento,Nacional,Consumidores e Empresas
+774,774,SINAL (Sistema Inovador de Navegação e Apoio Local),Tecnologia,Tecnologia e Inovação,"Econômico, Social",Em planejamento,Nacional,Funcionários
+775,775,HidroHolograma,Hidrologia,Meio Ambiente,"Ambiental, Científico",Em andamento,Nacional,Consumidores e Empresas
+776,776,Programa de Educação Ambiental em Escolas,Educação,Educação,"Ambiental, Social",Em andamento,Local,Funcionários
+777,777,ConstróiSaúde,Infraestrutura de Saúde,Saúde e Infraestrutura,Social,Em andamento,Local,Consumidores e Empresas
+778,778,Balão de Possibilidades,Desenvolvimento Pessoal,Educação,Social,Em andamento,Local,Consumidores e Empresas
+779,779,DesarrolloTalento+,Educação,Educação,Econômico,Em andamento,Nacional,Funcionários
+780,780,Xereta da Xerazade,Educação,Educação,Social,Em andamento,Local,Funcionários e Empresas
+781,781,Iniciativa de Redução de Desperdício de Papel em Escritórios,Sustentabilidade,Sustentabilidade,"Ambiental, Econômico",Em andamento,Local,Empresas
+782,782,Além de Barreiras: Inclusão de Pessoas com Deficiência no Local de Trabalho,Social,Serviços Sociais,Social,Em andamento,Local,Funcionários e Empresas
+783,783,UrbanFlow,TI,Tecnologia e Informação,Econômico,Em andamento,Local,População
+784,784,Fadas Madrinhas para combate à violência contra a mulher,Social,Serviços Sociais,Social,Em planejamento,Local,"Consumidores, Empresas e Governo"
+785,785,SmartLife Tech,Tecnologia,Tecnologia e Inovação,"Econômico, Ambiental",Em andamento,Local,"Consumidores, Empresas e Governo"
+786,786,CulturaConecta,Cultura,Arte e Cultura,"Social, Cultural",Em planejamento,Local,Empresas
+787,787,Vidas Virtuosas,Educação,Educação,"Social, Ético",Em andamento,Nacional,Funcionários
+788,788,TechSoup: Acesso à Tecnologia para Organizações Sem Fins Lucrativos,Tecnologia,Tecnologia e Inovação,Social,Em planejamento,Local,Consumidores e Empresas
+789,789,Bioengenharia de Tecidos com Impressão 3D,Bioengenharia,Engenharia,Científico,Em planejamento,Local,Funcionários e Empresas
+790,790,IA em Modelagem de Ecossistemas Terrestres,Ecologia,Meio Ambiente,"Científico, Ambiental",Em planejamento,Nacional,Funcionários
+791,791,Renewable Revolution: Implementação de Parques Eólicos Comunitários,Energia,Energia e Recursos,"Ambiental, Econômico",Em planejamento,Local,Consumidores e Empresas
+792,792,Círculo da Vida,Saúde,Saúde e Bem-estar,Social,Em andamento,Local,Empresas
+793,793,Mentoria e Aprendizado,Educação,Educação,Econômico,Em planejamento,Local,Funcionários e Empresas
+794,794,Iniciativa de Redução do Uso de Plásticos Descartáveis em Restaurantes,Sustentabilidade,Sustentabilidade,Ambiental,Em planejamento,Nacional,Empresas
+795,795,Belleza Bio (Beleza Biológica),Saúde,Saúde e Bem-estar,"Social, Ambiental",Em planejamento,Nacional,Empresas
+796,796,Achieve,Educação,Educação,"Social, Científico",Em andamento,Nacional,Funcionários e Empresas
+797,797,Xcel,Educação,Educação,"Social, Econômico",Em andamento,Local,Funcionários
+798,798,Eco Équilibre (Equilíbrio Ecológico),Ambiental,Meio Ambiente,Ambiental,Em planejamento,Local,Consumidores
+799,799,EcoEnergia,Energia,Energia e Recursos,"Ambiental, Econômico",Em andamento,Local,Funcionários
+800,800,Fleur de Futur (Flor do Futuro),Ambiental,Meio Ambiente,"Ambiental, Social",Em andamento,Local,População
+801,801,Cristal da Tecnologia,Tecnologia,Tecnologia e Inovação,"Econômico, Científico",Em andamento,Local,"Consumidores, Empresas e Governo"
+802,802,Vela do Progresso,Inovação,Empreendedorismo e Inovação,"Econômico, Científico",Em andamento,Local,Funcionários e Empresas
+803,803,Projeto Sustentável na Coca-Cola,Sustentabilidade,Sustentabilidade,"Ambiental, Econômico",Em andamento,Nacional,População
+804,804,Novas Navegações,Educação,Educação,"Social, Científico",Em andamento,Nacional,População
+805,805,Desenvolvimento de Competências,Educação,Educação,Econômico,Em andamento,Local,Empresas
+806,806,Floresta Urbana,Urbanismo,Desenvolvimento Urbano e Infraestrutura,"Ambiental, Social",Em planejamento,Nacional,"Consumidores, Empresas e Governo"
+807,807,Xenofilia e Xerofilia,Cultura,Arte e Cultura,"Cultural, Social",Em andamento,Nacional,Funcionários
+808,808,Projeto de Valorização,Educação,Educação,Econômico,Em andamento,Local,Funcionários
+809,809,Programa de Engajamento,Educação,Educação,Econômico,Em andamento,Nacional,Funcionários
+810,810,Campanha de Conscientização sobre Desperdício de Energia em Escolas,Educação,Educação,"Social, Ambiental",Em andamento,Nacional,Funcionários
+811,811,AirSail,TI,Tecnologia e Informação,Econômico,Em andamento,Local,Funcionários e Empresas
+812,812,SABER (Soluções Ambientais Baseadas em Educação e Resiliência),Educação,Educação,"Ambiental, Social",Em planejamento,Nacional,Consumidores e Empresas
+813,813,Desenvolvimento de Tecnologia para Monitoramento de Poluição Atmosférica,"Tecnologia, Meio Ambiente",Tecnologia e Inovação,Ambiental,Em andamento,Local,Consumidores
+814,814,Estudos de Resistência de Patógenos a Antimicrobianos,Pesquisa Médica,Saúde e Pesquisa,Científico,Em andamento,Local,"Consumidores, Empresas e Governo"
+815,815,Torre de Babel Tecnológica,TI,Tecnologia e Informação,"Econômico, Científico",Em planejamento,Local,Funcionários
+816,816,Programa de Bem-Estar na McDonald's,Saúde,Saúde e Bem-estar,Social,Em planejamento,Nacional,População
+817,817,Quem Lidera a Mudança?,Desenvolvimento de Liderança,Educação,"Social, Econômico",Em planejamento,Local,População
+818,818,Youth Empowerment Program: Desenvolvimento de Liderança para Jovens em Risco,Desenvolvimento Juvenil,Educação,Social,Em planejamento,Nacional,População
+819,819,Edição Genômica com CRISPR,Genética,Ciência e Pesquisa,Científico,Em planejamento,Nacional,"Consumidores, Empresas e Governo"
+820,820,Projeto Inclusão na Ambev,Social,Serviços Sociais,Social,Em andamento,Local,"Consumidores, Empresas e Governo"
+821,821,Robôs Amigáveis,Tecnologia,Tecnologia e Inovação,"Social, Científico",Em andamento,Local,Funcionários
+822,822,Inovação Aberta,Inovação Tecnológica,Tecnologia e Inovação,"Econômico, Científico",Em andamento,Local,Funcionários
+823,823,Onda do Sucesso,Negócios,Desenvolvimento Econômico e Empresarial,"Econômico, Social",Em planejamento,Nacional,Funcionários e Empresas
+824,824,EcoMotion,Sustentabilidade,Sustentabilidade,Ambiental,Em planejamento,Nacional,Funcionários e Empresas
+825,825,Luzes da Liderança,Desenvolvimento de Carreira,Educação,"Social, Econômico",Em planejamento,Nacional,População
+826,826,Flourish,Desenvolvimento Comunitário,Desenvolvimento Comunitário,"Social, Econômico",Em planejamento,Local,Funcionários
+827,827,TranscendX,TI,Tecnologia e Informação,Econômico,Em andamento,Local,Consumidores e Empresas
+828,828,Proyecto de Salud Ocupacional,Saúde,Saúde e Bem-estar,Social,Em andamento,Local,Funcionários
+829,829,Física de Altas Energias,Física,Ciência e Pesquisa,Científico,Em andamento,Nacional,Empresas
+830,830,InspiraInclusão,Educação,Educação,Social,Em andamento,Local,"Consumidores, Empresas e Governo"
+831,831,GreenPath,Sustentabilidade,Sustentabilidade,Ambiental,Em andamento,Local,Consumidores e Empresas
+832,832,HealthTech Futures,"Tecnologia, Saúde",Tecnologia e Inovação,"Científico, Econômico",Em planejamento,Local,Funcionários
+833,833,CRISPR-Cas12 para Detecção de Patógenos,Biotecnologia,Engenharia,Científico,Em andamento,Nacional,Consumidores e Empresas
+834,834,Projeto Vitalidade,Saúde,Saúde e Bem-estar,Social,Em andamento,Nacional,Consumidores e Empresas
+835,835,Programa de Estudos de Matéria Escura,Astrofísica,Ciência e Pesquisa,Científico,Em andamento,Local,Consumidores
+836,836,SmartPorts,"Transporte Marítimo, Tecnologia",Transporte e Logística,"Ambiental, Econômico",Em andamento,Nacional,Consumidores
+837,837,Como É o Mundo Que Queremos?,Filosofia,Educação,Social,Em andamento,Local,Funcionários
+838,838,Programa de Inclusão na Tesla,Social,Serviços Sociais,Social,Em andamento,Nacional,Consumidores e Empresas
+839,839,Reciclagem Eficiente,Reciclagem,Meio Ambiente,"Ambiental, Econômico",Em planejamento,Nacional,População
+840,840,Iniciativa de Desenvolvimento na Adobe,Educação,Educação,Econômico,Em planejamento,Local,"Consumidores, Empresas e Governo"
+841,841,Clean Energy for All: Acesso à Energia Solar,Energia,Energia e Recursos,"Ambiental, Social",Em andamento,Local,Funcionários
+842,842,Parceria com Universidades para Pesquisa em Sustentabilidade,"Educação, Sustentabilidade",Educação,"Ambiental, Científico",Em planejamento,Nacional,Consumidores
+843,843,FutureFlight,TI,Tecnologia e Informação,Econômico,Em andamento,Local,Funcionários
+844,844,Ações de Promoção da Saúde Mental em Instituições de Ensino,Saúde,Saúde e Bem-estar,Social,Em andamento,Local,Funcionários e Empresas
+845,845,Iniciativa Igualdade na Vale,Social,Serviços Sociais,Social,Em andamento,Nacional,Empresas
+846,846,BeyondBrd: Além das Fronteiras,Desenvolvimento Internacional,Desenvolvimento Internacional,Social,Em andamento,Nacional,Consumidores
+847,847,Iniciativa de Saúde Integral,Saúde,Saúde e Bem-estar,Social,Em planejamento,Nacional,Funcionários e Empresas
+848,848,SmartVehicle Charging,TI,Tecnologia e Informação,Econômico,Em andamento,Local,População
+849,849,Iniciativa de Desenvolvimento na Toyota,Educação,Educação,Econômico,Em andamento,Local,Empresas
+850,850,Parceria com Escolas para Criação de Hortas Escolares Orgânicas,"Educação, Agricultura",Educação,"Ambiental, Social",Em planejamento,Local,Funcionários
+851,851,Movimento Mais,Saúde,Saúde e Bem-estar,Social,Em andamento,Nacional,"Consumidores, Empresas e Governo"
+852,852,Justiça Jovem,Social,Serviços Sociais,Social,Em planejamento,Local,"Consumidores, Empresas e Governo"
+853,853,Programa Empoderamento na Eletrobras,Social,Serviços Sociais,Econômico,Em planejamento,Local,População
+854,854,InovaçãoCidadã,Inovação Social,Empreendedorismo e Inovação,"Social, Econômico",Em andamento,Local,População
+855,855,Rastreamento de Emissões de Carbono na Cadeia de Suprimentos,Sustentabilidade,Sustentabilidade,"Ambiental, Econômico",Em andamento,Local,Consumidores
+856,856,Onde Vamos Chegar?,Educação,Educação,Social,Em andamento,Local,Consumidores
+857,857,Muralha da Inovação,Tecnologia,Tecnologia e Inovação,"Econômico, Científico",Em andamento,Local,Funcionários
+858,858,Innovate for Impact: Soluções Tecnológicas para Desafios Sociais,Tecnologia,Tecnologia e Inovação,"Social, Científico",Em andamento,Local,Funcionários e Empresas
+859,859,ÍconeInovador,TI,Tecnologia e Informação,"Econômico, Científico",Em andamento,Local,Empresas
+860,860,Programa de Desenvolvimento de Habilidades Socioemocionais,Educação,Educação,Social,Em planejamento,Local,Consumidores e Empresas
+861,861,Campanha de Sensibilização para a Redução do Uso de Agrotóxicos em Áreas Rurais,Agricultura,Agricultura e Alimentação,"Ambiental, Social",Em planejamento,Local,Funcionários e Empresas
+862,862,Labirinto de Liderança,Desenvolvimento de Liderança,Educação,"Social, Econômico",Em planejamento,Local,Consumidores e Empresas
+863,863,Água Limpa,Saneamento,Saúde e Infraestrutura,"Ambiental, Social",Em andamento,Local,População
+864,864,Jano de Justiça,Jurídico,Direito e Governança,"Social, Legal",Em andamento,Local,Consumidores
+865,865,Yoga da Yalda,Bem-estar,Saúde e Bem-estar,Social,Em andamento,Local,Funcionários
+866,866,SkySprint,Aviação,Transporte e Logística,Econômico,Em andamento,Local,Funcionários
+867,867,EmpowHer: Capacitação Feminina,Desenvolvimento Profissional,Educação,Social,Em andamento,Local,Consumidores
+868,868,AirScape,TI,Tecnologia e Informação,Econômico,Em andamento,Nacional,Consumidores e Empresas
+869,869,EcoDrive,Transporte,Transporte e Logística,"Ambiental, Econômico",Em andamento,Local,Funcionários e Empresas
+870,870,TranscendenceTech,Tecnologia,Tecnologia e Inovação,"Científico, Econômico",Em andamento,Local,Funcionários
+871,871,Programa de Engajamento de Funcionários,Recursos Humanos,Gestão e Recursos Humanos,Social,Em planejamento,Local,Funcionários
+872,872,SmartMaritime,"Transporte Marítimo, Tecnologia",Transporte e Logística,"Ambiental, Econômico",Em planejamento,Nacional,"Consumidores, Empresas e Governo"
+873,873,Projeto de Arquitetura de Computadores Quânticos,Tecnologia da Informação,Tecnologia e Informação,Científico,Em andamento,Local,Funcionários e Empresas
+874,874,Grasp,Educação,Educação,"Social, Científico",Em andamento,Local,Consumidores e Empresas
+875,875,Carrossel do Aprendizado,Educação,Educação,Social,Em andamento,Nacional,"Consumidores, Empresas e Governo"
+876,876,Iniciativa Diversidade na Cosan,Social,Serviços Sociais,Social,Em planejamento,Local,"Consumidores, Empresas e Governo"
+877,877,Programa Impulsiona Pequenos Negócios,Econômico,Economia e Finanças,"Econômico, Social",Em andamento,Local,População
+878,878,Inteligência Artificial Biomédica,Inteligência Artificial na Medicina,Tecnologia e Saúde,Científico,Em planejamento,Nacional,Funcionários
+879,879,Neurociência Computacional,Científico,Ciência e Pesquisa,Científico,Em andamento,Local,Funcionários e Empresas
+880,880,Programa de Bem-Estar na Microsoft,Saúde,Saúde e Bem-estar,Social,Em planejamento,Nacional,População
+881,881,Sonhos Sólidos,Educação,Educação,"Social, Econômico",Em andamento,Local,Consumidores e Empresas
+882,882,Projeto Verde: Iniciativa de Reflorestamento Urbano,Sustentabilidade,Sustentabilidade,Ambiental,Em andamento,Local,Consumidores
+883,883,Estrela Guia,Educação,Educação,Social,Em planejamento,Local,População
+884,884,Xícara de Xeque,Estratégia,Estratégia e Gestão,Econômico,Em planejamento,Local,Empresas
+885,885,Projeto de Implantação de Sistemas de Tratamento de Esgoto em Comunidades Rurais,Sustentabilidade,Sustentabilidade,"Ambiental, Social",Em planejamento,Local,Consumidores e Empresas
+886,886,Jardim do Conhecimento,Educação,Educação,"Social, Científico",Em planejamento,Local,Funcionários e Empresas
+887,887,LíderesInnovadores,Educação,Educação,Econômico,Em andamento,Local,"Consumidores, Empresas e Governo"
+888,888,RenewTech,Tecnologia de Energia Renovável,Energia e Recursos,"Ambiental, Econômico",Em planejamento,Local,Funcionários
+889,889,Kindle,Educação,Educação,"Social, Científico",Em andamento,Nacional,Funcionários
+890,890,EcoDrive Dynamics,Transporte Sustentável,Sustentabilidade,"Ambiental, Econômico",Em andamento,Local,Funcionários
+891,891,Flauta do Futuro,Cultural,Arte e Cultura,Cultural,Em andamento,Local,População
+892,892,SpeedSmart,Tecnologia em Transporte,Transporte e Tecnologia,Econômico,Em planejamento,Local,Funcionários
+893,893,Beyond Borders: Iniciativa de Integração de Refugiados,Social,Serviços Sociais,Social,Em planejamento,Local,Consumidores e Empresas
+894,894,Dream Big,Educação,Educação,Social,Em andamento,Nacional,"Consumidores, Empresas e Governo"
+895,895,Projeto de Reconhecimento e Recompensas,Recursos Humanos,Gestão e Recursos Humanos,Social,Em planejamento,Local,Funcionários
+896,896,VenceVida,Saúde,Saúde e Bem-estar,"Social, Científico",Em planejamento,Local,Consumidores e Empresas
+897,897,Aquiles Arte,Cultura,Arte e Cultura,"Cultural, Social",Em andamento,Local,Consumidores
+898,898,Foster,Desenvolvimento Comunitário,Desenvolvimento Comunitário,"Social, Econômico",Em planejamento,Local,Funcionários
+899,899,Estudos de Work-Life Balance,Saúde,Saúde e Bem-estar,Social,Em andamento,Local,Empresas
+900,900,O Que Podemos Construir Juntos?,Comunidade,Desenvolvimento Comunitário,Social,Em planejamento,Nacional,População
+901,901,Projeto Conexão Global,Educação,Educação,Econômico,Em andamento,Nacional,"Consumidores, Empresas e Governo"
+902,902,PromoveAlimentação,Saúde,Saúde e Bem-estar,"Social, Ambiental",Em planejamento,Local,"Consumidores, Empresas e Governo"
+903,903,Green Growth Accelerator: Incubadora de Negócios Sustentáveis,Negócios,Desenvolvimento Econômico e Empresarial,"Ambiental, Econômico",Em andamento,Local,Funcionários e Empresas
+904,904,FuturoEducação,Educação,Educação,Social,Em andamento,Nacional,Empresas
+905,905,Midas Moderno,Econômico,Economia e Finanças,Econômico,Em planejamento,Local,Consumidores
+906,906,Sensibilização sobre D&I aos colaboradores,Recursos Humanos,Gestão e Recursos Humanos,Social,Em andamento,Local,"Consumidores, Empresas e Governo"
+907,907,Diversidade Impulsiona Inovação: Treinamento de Inclusão Corporativa,Educação,Educação,Social,Em planejamento,Local,Funcionários
+908,908,Felicidade Interna Bruta aplicada ao negócio,Saúde,Saúde e Bem-estar,Social,Em planejamento,Local,Funcionários
+909,909,Iniciativa Empreendedorismo Jovem,Empreendedorismo Juvenil,Educação,"Econômico, Social",Em andamento,Local,"Consumidores, Empresas e Governo"
+910,910,Apoio à Economia Circular em Pequenas Empresas,Negócios,Desenvolvimento Econômico e Empresarial,"Ambiental, Econômico",Em andamento,Local,Consumidores
+911,911,Iniciativa Diversidade na Oi,Social,Serviços Sociais,Social,Em andamento,Nacional,Funcionários e Empresas
+912,912,Cultura Cosmopolita,Cultura,Arte e Cultura,"Cultural, Social",Em andamento,Nacional,Funcionários
+913,913,Programa Prosperidade,Desenvolvimento Econômico,Desenvolvimento Econômico e Empresarial,"Econômico, Social",Em planejamento,Nacional,Funcionários e Empresas
+914,914,Programa de Capacitação em Empreendedorismo para Jovens em Comunidades Rurais,Educação,Educação,"Social, Econômico",Em andamento,Local,Empresas
+915,915,Inovação em Capacitação,Educação,Educação,Econômico,Em andamento,Nacional,Funcionários
+916,916,CRISPR-Cas9 em Engenharia de Plantas,Biotecnologia,Engenharia,Científico,Em andamento,Nacional,Empresas
+917,917,Campanha de Conscientização sobre Consumo Responsável,Sustentabilidade,Sustentabilidade,"Social, Ambiental",Em andamento,Local,População
+918,918,Invictus Inclusão,Social,Serviços Sociais,Social,Em planejamento,Local,Empresas
+919,919,FortificaFuturos,Educação,Educação,"Social, Científico",Em planejamento,Local,Funcionários
+920,920,DataWave,Análise de Dados,Tecnologia e Dados,"Econômico, Científico",Em andamento,Nacional,Funcionários
+921,921,Projeto de Inovação na Nestlé,Tecnologia,Tecnologia e Inovação,"Científico, Econômico",Em planejamento,Local,População
+922,922,Joy Jump,Social,Serviços Sociais,Social,Em planejamento,Local,Consumidores e Empresas
+923,923,União Uplift,Desenvolvimento Pessoal,Educação,Social,Em planejamento,Local,Funcionários
+924,924,Ar Limpo,Meio Ambiente,Meio Ambiente,Ambiental,Em planejamento,Local,Empresas
+925,925,Desenvolvimento de Tecnologia para Monitoramento de Incêndios Florestais,"Tecnologia, Meio Ambiente",Tecnologia e Inovação,"Ambiental, Científico",Em planejamento,Local,População
+926,926,Éclat Éducatif (Brilho Educativo),Educação,Educação,"Social, Científico",Em andamento,Local,População
+927,927,Reforma que Transforma,Desenvolvimento Urbano,Desenvolvimento Urbano e Infraestrutura,"Social, Ambiental",Em planejamento,Local,Funcionários e Empresas
+928,928,Onde Estão os Desafios?,Educação,Educação,Social,Em andamento,Local,Consumidores e Empresas
+929,929,DesenvolveDireitos,Direito,Direito e Governança,Social,Em planejamento,Nacional,Empresas
+930,930,Iniciativa de Química Computacional,Científico,Ciência e Pesquisa,Científico,Em andamento,Nacional,População
+931,931,Jornada da Justiça,Direito,Direito e Governança,Social,Em andamento,Local,Empresas
+932,932,Cuidado Infantil,Saúde,Saúde e Bem-estar,Social,Em andamento,Local,Empresas
+933,933,NavegaNobres,Educação,Educação,"Social, Científico",Em planejamento,Nacional,Empresas
+934,934,TechSoup: Providing Technology Access to Nonprofit Organizations,"Tecnologia, Social",Tecnologia e Inovação,Social,Em andamento,Nacional,"Consumidores, Empresas e Governo"
+935,935,CRISPR em Terapia de Doenças Hereditárias,Genética,Ciência e Pesquisa,Científico,Em andamento,Local,"Consumidores, Empresas e Governo"
+936,936,Cidades Criativas,Urbanismo,Desenvolvimento Urbano e Infraestrutura,"Cultural, Social",Em andamento,Local,Funcionários
+937,937,Campanha de Reflorestamento em Áreas Urbanas,Meio Ambiente,Meio Ambiente,Ambiental,Em planejamento,Nacional,"Consumidores, Empresas e Governo"
+938,938,Programa de Incentivo à Biodiversidade em Áreas Urbanas,Meio Ambiente,Meio Ambiente,Ambiental,Em planejamento,Local,População
+939,939,Campanha de Sensibilização para a Adoção de Energias Renováveis,Energia,Energia e Recursos,Ambiental,Em planejamento,Local,Funcionários e Empresas
+940,940,DesarrolloHumano+,Educação,Educação,Social,Em andamento,Local,"Consumidores, Empresas e Governo"
+941,941,TransformaMar,Meio Ambiente,Meio Ambiente,Ambiental,Em planejamento,Local,Funcionários e Empresas
+942,942,ConexiónSolidaridad,Social,Serviços Sociais,Social,Em andamento,Local,Consumidores
+943,943,SmartCity Mobility,TI,Tecnologia e Informação,Econômico,Em andamento,Nacional,"Consumidores, Empresas e Governo"
+944,944,TERRA (Tecnologia e Educação para a Revitalização de Recursos Ambientais),Educação,Educação,"Ambiental, Científico",Em planejamento,Local,Consumidores
+945,945,Alquimia da Ação,Desenvolvimento Sustentável,Sustentabilidade,"Ambiental, Social",Em andamento,Local,Consumidores e Empresas
+946,946,RURAL (Reformas Únicas para Uso da Terra e Agricultura Local),Agricultura,Agricultura e Alimentação,"Ambiental, Econômico",Em andamento,Local,Funcionários
+947,947,Flecha da Focalização,Desenvolvimento Pessoal,Educação,Social,Em planejamento,Local,Funcionários
+948,948,Tech4Dev: Tecnologia para Desenvolvimento,Tecnologia para Desenvolvimento,Tecnologia e Inovação,"Econômico, Social",Em andamento,Local,Funcionários
+949,949,DadosDiamante,TI,Tecnologia e Informação,"Econômico, Científico",Em planejamento,Nacional,Consumidores e Empresas
+950,950,Projeto de Inovação na Sony,Tecnologia,Tecnologia e Inovação,"Científico, Econômico",Em andamento,Nacional,População
+951,951,Projeto Esperança,Desenvolvimento Social,Desenvolvimento Comunitário,Social,Em andamento,Local,Empresas
+952,952,Inclusão Produtiva,Social,Serviços Sociais,Econômico,Em andamento,Local,Funcionários
+953,953,EmpowerTech: Capacitação em Tecnologia para Mulheres,Educação,Educação,Econômico,Em andamento,Nacional,Funcionários
+954,954,Urgências Urbanas,Urbanismo,Desenvolvimento Urbano e Infraestrutura,"Social, Econômico",Em andamento,Nacional,Funcionários
+955,955,FutureTransit Hubs,TI,Tecnologia e Informação,Econômico,Em andamento,Local,Funcionários e Empresas
+956,956,Ciência Verde,Ciência Ambiental,Meio Ambiente,"Ambiental, Científico",Em andamento,Nacional,População
+957,957,Project Harmony: Diálogo e Cooperação Inter-religiosa,Desenvolvimento Comunitário,Desenvolvimento Comunitário,Social,Em planejamento,Local,Funcionários
+958,958,Campanha de Sensibilização para o Uso Consciente de Energia em Residências,Sustentabilidade,Sustentabilidade,"Ambiental, Social",Em andamento,Local,População
+959,959,AscendAção,Desenvolvimento Pessoal,Educação,Social,Em planejamento,Local,"Consumidores, Empresas e Governo"
+960,960,Dionísio Digital,Tecnologia,Tecnologia e Inovação,"Econômico, Cultural",Em andamento,Local,Consumidores e Empresas
+961,961,SustentaEducação,Educação,Educação,Social,Em planejamento,Nacional,População
+962,962,EmpreendeJovem,Empreendedorismo Juvenil,Educação,"Econômico, Social",Em planejamento,Local,Funcionários
+963,963,Operações Otimizadas,Negócios,Desenvolvimento Econômico e Empresarial,Econômico,Em andamento,Local,População
+964,964,Ações de Promoção da Diversidade e Inclusão em Ambientes Corporativos,Recursos Humanos,Gestão e Recursos Humanos,Social,Em andamento,Nacional,Consumidores e Empresas
+965,965,Ponte para o Futuro,Desenvolvimento Social,Desenvolvimento Comunitário,"Social, Econômico",Em planejamento,Local,População
+966,966,Projeto de Implantação de Sistemas de Coleta Seletiva em Condomínios Residenciais,Sustentabilidade,Sustentabilidade,"Ambiental, Social",Em andamento,Local,População
+967,967,Biologia Sintética Aplicada,Biologia Sintética,Engenharia,Científico,Em planejamento,Local,Funcionários e Empresas
+968,968,Ações de Bem-Estar na SaúdeMais,Saúde,Saúde e Bem-estar,Social,Em planejamento,Local,Funcionários e Empresas
+969,969,Campanha de Conscientização sobre Consumo Consciente de Moda,Sustentabilidade,Sustentabilidade,"Social, Ambiental",Em planejamento,Local,Empresas
+970,970,Iniciativa de Redução do Desperdício de Alimentos em Eventos Corporativos,Sustentabilidade,Sustentabilidade,"Ambiental, Social",Em andamento,Nacional,Funcionários
+971,971,TransformaAlimentação,Alimentação,Agricultura e Alimentação,"Econômico, Ambiental",Em planejamento,Local,Empresas
+972,972,Leap,Tecnologia,Tecnologia e Inovação,"Econômico, Científico",Em planejamento,Local,Funcionários e Empresas
+973,973,Estudio de Clima Organizacional,Educação,Educação,Econômico,Em andamento,Local,População
+974,974,Ações de Sensibilização sobre Direitos Humanos em Ambientes Corporativos,Social,Serviços Sociais,Social,Em andamento,Local,População
+975,975,LíderesConscientes,Educação,Educação,Social,Em andamento,Local,Funcionários e Empresas
+976,976,OtimizaOportunidades,Desenvolvimento de Carreira,Educação,Econômico,Em andamento,Local,População
+977,977,Farol da Esperança,Saúde Mental,Saúde e Bem-estar,Social,Em planejamento,Local,Funcionários
+978,978,Projeto de Redução de Desperdício de Água em Residências,Sustentabilidade,Sustentabilidade,"Ambiental, Social",Em planejamento,Nacional,Funcionários
+979,979,Inovação em Liderança,Educação,Educação,Econômico,Em planejamento,Local,"Consumidores, Empresas e Governo"
+980,980,Desenvolvimento de Vacinas com RNA,Biotecnologia,Engenharia,Científico,Em andamento,Local,Funcionários e Empresas
+981,981,Ações de DE&I na Wacker,Social,Serviços Sociais,Social,Em planejamento,Local,Funcionários
+982,982,Projeto de Feedback Construtivo,Recursos Humanos,Gestão e Recursos Humanos,Social,Em andamento,Nacional,População
+983,983,Lift Off,Tecnologia,Tecnologia e Inovação,"Econômico, Científico",Em andamento,Nacional,"Consumidores, Empresas e Governo"
+984,984,Iniciativa de Saúde e Segurança no Trabalho,"Saúde, Segurança do Trabalho",Saúde e Bem-estar,"Social, Econômico",Em planejamento,Local,Consumidores
+985,985,Ações de Promoção da Saúde Mental em Instituições de Saúde Mental,Saúde,Saúde e Bem-estar,Social,Em andamento,Nacional,Consumidores e Empresas
+986,986,Cometa da Criatividade,Cultural,Arte e Cultura,Cultural,Em planejamento,Local,Funcionários
+987,987,Modelagem Climática Global,Climatologia,Meio Ambiente,"Científico, Ambiental",Em andamento,Nacional,"Consumidores, Empresas e Governo"
+988,988,Tecnologia Segura,Tecnologia,Tecnologia e Inovação,"Econômico, Social",Em andamento,Local,Consumidores
+989,989,Projeto de Diversidade na Mastercard,Social,Serviços Sociais,Social,Em andamento,Local,"Consumidores, Empresas e Governo"
+990,990,Triumph,Desenvolvimento Pessoal,Educação,Social,Em andamento,Nacional,Funcionários e Empresas
+991,991,ElectricFleet,Transporte Elétrico,Transporte e Tecnologia,"Ambiental, Econômico",Em andamento,Local,Consumidores
+992,992,Parceria com ONGs para Preservação de Habitats de Animais Silvestres,Sustentabilidade,Sustentabilidade,Ambiental,Em andamento,Local,Funcionários e Empresas
+993,993,Sabin Inclusivo: Promovendo a Ascensão Profissional de Lideranças Pretas,Social,Serviços Sociais,Social,Em andamento,Local,"Consumidores, Empresas e Governo"
+994,994,Proyecto Esperanza+,Social,Serviços Sociais,Social,Em planejamento,Local,"Consumidores, Empresas e Governo"
+995,995,Iniciativas Inovadoras,Tecnologia,Tecnologia e Inovação,"Econômico, Científico",Em andamento,Nacional,Funcionários
+996,996,Escada para as Estrelas,Científico,Ciência e Pesquisa,Científico,Em planejamento,Local,População
+997,997,EficiênciaEducativa,Educação,Educação,"Social, Econômico",Em andamento,Nacional,População
+998,998,SmartFreight,TI,Tecnologia e Informação,Econômico,Em andamento,Local,Consumidores
+999,999,Educação Digital,Educação Tecnológica,Tecnologia e Educação,Social,Em andamento,Local,Empresas
+1000,1000,DesarrolloSostenible+,Sustentabilidade,Sustentabilidade,Ambiental,Em planejamento,Local,Funcionários e Empresas
+1001,1001,Zaratustra Zero Waste,Ambiental,Meio Ambiente,Ambiental,Em planejamento,Local,Funcionários
+1002,1002,CleanMass Transit,"Transporte, Energia",Transporte e Logística,"Ambiental, Econômico",Em andamento,Local,Funcionários
+1003,1003,Gerência Generosa,Negócios,Desenvolvimento Econômico e Empresarial,"Econômico, Social",Em andamento,Local,Funcionários
+1004,1004,LogísticaLímpida,Logística,Transporte e Logística,"Econômico, Ambiental",Em andamento,Local,População
+1005,1005,EcoDrive Innovations,Transporte,Transporte e Logística,"Ambiental, Econômico",Em andamento,Nacional,Consumidores
+1006,1006,Xénophile Xylophone (Xilofone Xenófilo),Cultural,Arte e Cultura,Cultural,Em planejamento,Local,População
+1007,1007,Oportunidades Orgânicas,Agricultura,Agricultura e Alimentação,"Econômico, Ambiental",Em andamento,Local,Empresas
+1008,1008,Teia de Conexões,TI,Tecnologia e Informação,"Econômico, Científico",Em andamento,Local,Consumidores
+1009,1009,TechBridge: Fostering Digital Literacy in Underserved Communities,"Tecnologia, Educação",Tecnologia e Inovação,Social,Em andamento,Local,Consumidores e Empresas
+1010,1010,Inovação para Todos: Capacitação Tecnológica para Idosos,Tecnologia,Tecnologia e Inovação,Social,Em andamento,Local,Empresas
+1011,1011,Projeto de Implantação de Sistemas de Energia Solar em Escolas Públicas,"Educação, Energia",Educação,"Ambiental, Econômico",Em planejamento,Nacional,Consumidores
+1012,1012,UrbanismoUnakita,Urbanismo,Desenvolvimento Urbano e Infraestrutura,"Social, Ambiental",Em andamento,Local,Empresas
+1013,1013,Voie Verte (Caminho Verde),Ambiental,Meio Ambiente,Ambiental,Em andamento,Local,Funcionários e Empresas
+1014,1014,EcoRail,Transporte Ferroviário Sustentável,Sustentabilidade,"Ambiental, Econômico",Em planejamento,Local,Funcionários e Empresas
+1015,1015,Iniciativa Diversidade na Movida,Social,Serviços Sociais,Social,Em andamento,Local,Funcionários e Empresas
+1016,1016,Apoio ao Crescimento,Educação,Educação,Econômico,Em andamento,Local,"Consumidores, Empresas e Governo"
+1017,1017,IA em Genômica Funcional,Genética,Ciência e Pesquisa,Científico,Em andamento,Local,"Consumidores, Empresas e Governo"
+1018,1018,QuasarQuimera,Astronomia,Ciência e Pesquisa,Científico,Em andamento,Local,Consumidores
+1019,1019,CriaçãoInclusiva,Desenvolvimento de Produto Inclusivo,Desenvolvimento Econômico e Empresarial,Social,Em planejamento,Nacional,Empresas
+1020,1020,Campanha de Sensibilização para o Uso Sustentável de Recursos Hídricos em Indústrias,Sustentabilidade,Sustentabilidade,"Ambiental, Econômico",Em andamento,Nacional,Consumidores
+1021,1021,SmartFleet Management,Gestão de Frotas,Transporte e Logística,Econômico,Em planejamento,Nacional,Funcionários
+1022,1022,VoyageX,TI,Tecnologia e Informação,Econômico,Em andamento,Local,Consumidores
+1023,1023,Projeto de Reutilização de Água em Indústrias,Sustentabilidade,Sustentabilidade,"Ambiental, Econômico",Em planejamento,Nacional,Funcionários e Empresas
+1024,1024,Fonte da Juventude,Saúde,Saúde e Bem-estar,Social,Em andamento,Local,Consumidores e Empresas
+1025,1025,Iniciativa de Estudos Climáticos,Climatologia,Meio Ambiente,"Científico, Ambiental",Em planejamento,Nacional,Consumidores
+1026,1026,ClimaConsciente,Ambiental,Meio Ambiente,"Ambiental, Social",Em andamento,Local,Funcionários
+1027,1027,TechTransit Dynamics,Tecnologia em Transporte,Transporte e Tecnologia,"Econômico, Ambiental",Em andamento,Local,População
+1028,1028,B-EPIC Brazil Enterprise Productivity & Inclusion Club,Educação,Educação,Econômico,Em andamento,Local,Consumidores e Empresas
+1029,1029,Trilho do Futuro,Desenvolvimento Sustentável,Sustentabilidade,"Ambiental, Econômico",Em andamento,Nacional,Consumidores
+1030,1030,Parceria com ONGs para Proteção de Espécies Endêmicas,Sustentabilidade,Sustentabilidade,Ambiental,Em andamento,Nacional,"Consumidores, Empresas e Governo"
+1031,1031,DesenvolveCidadania,Educação Cívica,Educação,Social,Em andamento,Local,População
+1032,1032,GreenTrans,Transporte,Transporte e Logística,"Ambiental, Econômico",Em andamento,Nacional,"Consumidores, Empresas e Governo"
+1033,1033,SocTech: Tecnologia Social,Tecnologia Social,Tecnologia e Inovação,Social,Em andamento,Local,Empresas
+1034,1034,BioBravura,Biologia,Ciência e Pesquisa,Científico,Em planejamento,Local,Consumidores e Empresas
+1035,1035,Energia Limpa,Energia Renovável,Energia e Recursos,"Ambiental, Econômico",Em andamento,Nacional,Empresas
+1036,1036,Projeto Amor Próprio,Desenvolvimento Pessoal,Educação,Social,Em andamento,Local,Consumidores e Empresas
+1037,1037,Proj. ASAP: Ação Social para Todos,Desenvolvimento Social,Desenvolvimento Comunitário,Social,Em andamento,Local,Consumidores
+1038,1038,Programa de Modelagem Climática Global,Climatologia,Meio Ambiente,"Científico, Ambiental",Em andamento,Local,Funcionários e Empresas
+1039,1039,AbraçaArte,Arte e Cultura,Arte e Cultura,Social,Em planejamento,Local,Funcionários e Empresas
+1040,1040,DadosDervixe,TI,Tecnologia e Informação,"Econômico, Científico",Em andamento,Local,Funcionários
+1041,1041,Por Que Aprender Isto?,Educação,Educação,Social,Em andamento,Local,Consumidores e Empresas
+1042,1042,Journey,Educação,Educação,"Social, Cultural",Em andamento,Local,Funcionários
+1043,1043,Projeto de Inclusão na Adobe,Social,Serviços Sociais,Social,Em andamento,Nacional,Funcionários
+1044,1044,Odisséia Organizacional,Negócios,Desenvolvimento Econômico e Empresarial,"Econômico, Organizacional",Em andamento,Local,População
+1045,1045,Projeto de Implantação de Sistemas de Captação de Água de Chuva em Escolas,"Educação, Sustentabilidade",Educação,"Ambiental, Econômico",Em planejamento,Nacional,Funcionários
+1046,1046,RAIZ (Reforma Agrária Inovadora e Sustentável),Agricultura,Agricultura e Alimentação,"Ambiental, Social",Em andamento,Local,Funcionários
+1047,1047,Projeto de Implantação de Sistemas de Tratamento de Efluentes em Comunidades Ribeirinhas,Sustentabilidade,Sustentabilidade,"Ambiental, Social",Em planejamento,Local,Funcionários e Empresas
+1048,1048,FuturoProsperidad,Educação,Educação,Econômico,Em andamento,Local,População
+1049,1049,SolarSolutions,Energia,Energia e Recursos,"Ambiental, Econômico",Em planejamento,Local,Funcionários
+1050,1050,Desenvolvimento de Tecnologia para Reciclagem de Resíduos de Construção Civil,"Tecnologia, Sustentabilidade",Tecnologia e Inovação,Ambiental,Em andamento,Local,População
+1051,1051,Iniciativa de Combate ao Trabalho Infantil em Cadeias de Suprimentos,Social,Serviços Sociais,"Social, Econômico",Em planejamento,Local,Funcionários
+1052,1052,Iniciativa de Reaproveitamento de Materiais de Construção em Projetos Habitacionais,Construção Sustentável,Sustentabilidade,"Ambiental, Social",Em andamento,Nacional,Funcionários
+1053,1053,Valquíria de Valores,Educação,Educação,"Social, Ético",Em andamento,Nacional,População
+1054,1054,TecnologiaTurquesa,TI,Tecnologia e Informação,"Econômico, Científico",Em planejamento,Nacional,Funcionários
+1055,1055,Parceria com ONGs para Proteção de Espécies Ameaçadas,Sustentabilidade,Sustentabilidade,Ambiental,Em andamento,Local,Funcionários
+1056,1056,Rise,Desenvolvimento Pessoal,Educação,Social,Em andamento,Local,Empresas
+1057,1057,RenewablePower,Energia Renovável,Energia e Recursos,"Ambiental, Econômico",Em andamento,Local,Empresas
+1058,1058,Quem Cuida das Nossas Cidades?,Urbanismo,Desenvolvimento Urbano e Infraestrutura,"Social, Ambiental",Em andamento,Local,Empresas
+1059,1059,Iniciativa de Desenvolvimento na Coca-Cola,Educação,Educação,Econômico,Em planejamento,Nacional,População
+1060,1060,Projeto de Inteligência Artificial Biomédica,Inteligência Artificial na Medicina,Tecnologia e Saúde,Científico,Em andamento,Local,Consumidores
+1061,1061,Iniciativa Diversidade na MRV,Social,Serviços Sociais,Social,Em andamento,Nacional,Consumidores
+1062,1062,Drive,Negócios,Desenvolvimento Econômico e Empresarial,Econômico,Em andamento,Nacional,Consumidores
+1063,1063,Harness,Tecnologia,Tecnologia e Inovação,"Econômico, Científico",Em andamento,Local,Funcionários
+1064,1064,Projeto de Desenvolvimento de Competências,Educação,Educação,"Social, Econômico",Em andamento,Local,Funcionários
+1065,1065,Desenvolvimento 360°,Educação,Educação,Econômico,Em planejamento,Local,"Consumidores, Empresas e Governo"
+1066,1066,SmartTrans,Transporte,Transporte e Logística,"Ambiental, Econômico",Em planejamento,Nacional,População
+1067,1067,SustainFarm: Agricultura Sustentável,Sustentabilidade,Sustentabilidade,Ambiental,Em planejamento,Local,Funcionários
+1068,1068,IA em Descoberta de Novos Fármacos,Biotecnologia,Engenharia,"Científico, Econômico",Em andamento,Nacional,"Consumidores, Empresas e Governo"
+1069,1069,EcoRitmo,Sustentabilidade,Sustentabilidade,Ambiental,Em planejamento,Nacional,População
+1070,1070,Renewable Futures: Construindo um Futuro Sustentável,Sustentabilidade,Sustentabilidade,"Ambiental, Econômico",Em andamento,Local,População
+1071,1071,Unleash,Inovação,Empreendedorismo e Inovação,"Econômico, Científico",Em andamento,Nacional,População
+1072,1072,Horizon Hope (Esperança no Horizonte),Social,Serviços Sociais,"Social, Econômico",Em andamento,Nacional,Funcionários
+1073,1073,MenteMóvel,Educação,Educação,"Social, Científico",Em planejamento,Local,"Consumidores, Empresas e Governo"
+1074,1074,Espiral de Soluções,TI,Tecnologia e Informação,"Econômico, Científico",Em andamento,Local,Consumidores
+1075,1075,Horizonte Limpo,Ambiental,Meio Ambiente,Ambiental,Em andamento,Local,Funcionários e Empresas
+1076,1076,Nouveau Natura (Nova Natureza),Ambiental,Meio Ambiente,Ambiental,Em planejamento,Nacional,População
+1077,1077,GreenGlide,Sustentabilidade,Sustentabilidade,Ambiental,Em andamento,Nacional,População
+1078,1078,Programa Impulsiona Start-Ups,"Educação, Negócios",Educação,"Econômico, Social",Em andamento,Local,Funcionários
+1079,1079,Prospera,Desenvolvimento Econômico,Desenvolvimento Econômico e Empresarial,"Econômico, Social",Em andamento,Nacional,Empresas
+1080,1080,Yacht para o Futuro,Educação,Educação,"Social, Econômico",Em andamento,Nacional,Funcionários
+1081,1081,L'Arte di Innovare (A Arte de Inovar),Educação,Educação,"Cultural, Científico",Em planejamento,Local,Funcionários
+1082,1082,EcoCar Sharing,Sustentabilidade,Sustentabilidade,Ambiental,Em andamento,Nacional,Consumidores
+1083,1083,Univers Urbain (Universo Urbano),Urbanismo,Desenvolvimento Urbano e Infraestrutura,"Social, Econômico",Em andamento,Local,População
+1084,1084,Projeto de Redução de Emissões de Gases de Efeito Estufa em Indústrias,Sustentabilidade,Sustentabilidade,"Ambiental, Econômico",Em andamento,Nacional,População
+1085,1085,Como Melhorar o Mundo?,Desenvolvimento Social,Desenvolvimento Comunitário,Social,Em andamento,Local,Consumidores e Empresas
+1086,1086,TransformaCultura,Cultura,Arte e Cultura,Social,Em planejamento,Local,Funcionários e Empresas
+1087,1087,ÚtilUtopia,Economia,Economia e Finanças,"Econômico, Social",Em andamento,Local,Consumidores e Empresas
+1088,1088,Iniciativa de Valorização da Cultura Local em Comunidades Indígenas,"Social, Cultural",Serviços Sociais,Social,Em planejamento,Local,Funcionários e Empresas
+1089,1089,Onde Está o Equilíbrio?,Saúde Mental,Saúde e Bem-estar,Social,Em andamento,Local,Consumidores
+1090,1090,Océan Ouvert (Oceano Aberto),Ambiental,Meio Ambiente,"Ambiental, Econômico",Em andamento,Local,Empresas
+1091,1091,ElectricPublic Transit,"Transporte, Energia",Transporte e Logística,"Ambiental, Econômico",Em planejamento,Local,Consumidores
+1092,1092,Pandora de Projetos,Geral,Geral e Diversificado,"Econômico, Social",Em andamento,Nacional,Funcionários
+1093,1093,Programa de Capacitação em Tecnologia para Jovens em Situação de Vulnerabilidade,"Educação, Tecnologia",Educação,Social,Em planejamento,Local,População
+1094,1094,InformaçãoÍndigo,TI,Tecnologia e Informação,Econômico,Em planejamento,Local,Empresas
+1095,1095,DataOptimize,Análise de Dados,Tecnologia e Dados,"Econômico, Científico",Em andamento,Nacional,Funcionários
+1096,1096,Desenvolvimento de Tecnologia para Monitoramento de Desmatamento,"Tecnologia, Meio Ambiente",Tecnologia e Inovação,Ambiental,Em planejamento,Nacional,Funcionários
+1097,1097,TransTech Dynamics,Tecnologia em Transporte,Transporte e Tecnologia,"Econômico, Ambiental",Em andamento,Local,Consumidores
+1098,1098,Projeto Inovação e Crescimento,Tecnologia,Tecnologia e Inovação,"Econômico, Científico",Em planejamento,Local,Funcionários e Empresas
+1099,1099,Quem Cuida?,Saúde,Saúde e Bem-estar,Social,Em planejamento,Local,População
+1100,1100,DriveLogic,TI,Tecnologia e Informação,Econômico,Em andamento,Local,"Consumidores, Empresas e Governo"
+1101,1101,GeraGentileza,Desenvolvimento Pessoal,Educação,Social,Em andamento,Local,População
+1102,1102,ConexiónTalento,Educação,Educação,Econômico,Em andamento,Nacional,Empresas
+1103,1103,Vivre Sain (Viver Saudável),Saúde,Saúde e Bem-estar,"Social, Ambiental",Em andamento,Local,Consumidores e Empresas
+1104,1104,Aqua Vita (Água da Vida),Ambiental,Meio Ambiente,"Ambiental, Social",Em andamento,Local,População
+1105,1105,Iniciativa de Igualdade na Nike,Social,Serviços Sociais,Social,Em andamento,Local,"Consumidores, Empresas e Governo"
+1106,1106,Desenvolvimento de Potencial,Educação,Educação,Econômico,Em andamento,Local,Consumidores
+1107,1107,Realeza Renovável,Energia,Energia e Recursos,"Ambiental, Econômico",Em andamento,Local,Funcionários
+1108,1108,SONAR (Soluções Organizadas de Navegação e Apoio Rural),Agricultura,Agricultura e Alimentação,"Econômico, Ambiental",Em andamento,Local,Consumidores
+1109,1109,ElevaEspírito,Desenvolvimento Pessoal,Educação,Social,Em andamento,Nacional,Empresas
+1110,1110,Programa de Transformação na Oracle,Tecnologia,Tecnologia e Inovação,"Científico, Econômico",Em andamento,Nacional,"Consumidores, Empresas e Governo"
+1111,1111,Renewable Resources,Sustentabilidade,Sustentabilidade,Ambiental,Em andamento,Nacional,Funcionários
+1112,1112,Programa de Saúde Ocupacional,Saúde,Saúde e Bem-estar,Social,Em andamento,Nacional,Consumidores e Empresas
+1113,1113,Uplift,Desenvolvimento Comunitário,Desenvolvimento Comunitário,"Social, Econômico",Em andamento,Local,Funcionários
+1114,1114,CRISPR para Melhoramento Genético de Culturas,Biotecnologia,Engenharia,"Científico, Econômico",Em andamento,Local,População
+1115,1115,Ações de Promoção da Saúde Mental em Instituições Prisionais,Saúde,Saúde e Bem-estar,Social,Em planejamento,Nacional,População
+1116,1116,Projeto Vida Nova,Saúde,Saúde e Bem-estar,Social,Em andamento,Nacional,Funcionários
+1117,1117,Asas da Educação,Educação,Educação,Social,Em andamento,Local,"Consumidores, Empresas e Governo"
+1118,1118,FutureTech,Tecnologia,Tecnologia e Inovação,"Científico, Econômico",Em planejamento,Local,População
+1119,1119,Campanha de Sensibilização para a Adoção de Práticas Sustentáveis em Eventos Corporativos,Sustentabilidade,Sustentabilidade,"Ambiental, Social",Em planejamento,Local,Funcionários
+1120,1120,FutureWater Transport,"Tecnologia, Transporte",Tecnologia e Inovação,"Ambiental, Econômico",Em planejamento,Local,Funcionários
+1121,1121,O Que a Ciência Diz?,Educação Científica,Educação,Científico,Em andamento,Local,Funcionários e Empresas
+1122,1122,"Ações de bem estar, saúde e felicidade na Farmax",Saúde,Saúde e Bem-estar,Social,Em planejamento,Local,Funcionários e Empresas
+1123,1123,DiversityNow: Diversidade Agora,Diversidade e Inclusão,Direito e Governança,Social,Em planejamento,Nacional,Funcionários
+1124,1124,Projeto de Inclusão Digital para Idosos em Centros de Convivência,"Educação, Tecnologia",Educação,Social,Em planejamento,Nacional,Consumidores e Empresas
+1125,1125,Quando A Tecnologia Ajuda?,Tecnologia,Tecnologia e Inovação,"Econômico, Social",Em andamento,Local,Funcionários
+1126,1126,Iniciativa de Reciclagem de Resíduos de Construção Civil em Bairros Populares,Construção Sustentável,Sustentabilidade,"Ambiental, Social",Em andamento,Local,População
+1127,1127,"Cultivando o bem-estar, colhendo felicidade!",Saúde,Saúde e Bem-estar,Social,Em andamento,Local,Consumidores
+1128,1128,Projeto de Valorização de Práticas Culturais Tradicionais em Comunidades Indígenas,"Social, Cultural",Serviços Sociais,Social,Em planejamento,Nacional,Empresas
+1129,1129,Teseu em Telecomunicações,Tecnologia,Tecnologia e Inovação,"Econômico, Científico",Em planejamento,Local,Consumidores
+1130,1130,Harmonia Habitacional,Urbanismo,Desenvolvimento Urbano e Infraestrutura,"Social, Ambiental",Em planejamento,Local,Funcionários
+1131,1131,HídricoHarmonia,Ambiental,Meio Ambiente,Ambiental,Em andamento,Local,"Consumidores, Empresas e Governo"
+1132,1132,Promueve+Diversidad,Social,Serviços Sociais,Social,Em andamento,Local,População
+1133,1133,Nuvem de Inovação,Tecnologia,Tecnologia e Inovação,"Econômico, Científico",Em andamento,Nacional,População
+1134,1134,Raio de Esperança,Sustentabilidade,Sustentabilidade,"Social, Ambiental",Em planejamento,Local,Empresas
+1135,1135,VelocityTech,Tecnologia,Tecnologia e Inovação,"Científico, Econômico",Em planejamento,Local,Consumidores
+1136,1136,EcoTech Solutions,Tecnologia,Tecnologia e Inovação,"Ambiental, Econômico",Em andamento,Local,Consumidores
+1137,1137,Programa Transformação Pessoal,Desenvolvimento Pessoal,Educação,Social,Em andamento,Local,População
+1138,1138,Rá Revitaliza,Ambiental,Meio Ambiente,"Ambiental, Econômico",Em andamento,Local,Consumidores e Empresas
+1139,1139,Além de Fronteiras: Programa de Integração de Refugiados,Social,Serviços Sociais,Social,Em planejamento,Local,População
+1140,1140,CRISPR-Cas9 em Edição de Células-Tronco,Biotecnologia,Engenharia,Científico,Em andamento,Nacional,Empresas
+1141,1141,Projeto Inovação na Google,Tecnologia,Tecnologia e Inovação,"Científico, Econômico",Em andamento,Local,Consumidores e Empresas
+1142,1142,Projeto Renascer: Reintegração de Egressos do Sistema Prisional,Social,Serviços Sociais,Social,Em andamento,Local,Funcionários e Empresas
+1143,1143,Montanha da Motivação,Desenvolvimento Pessoal,Educação,Social,Em planejamento,Nacional,Funcionários
+1144,1144,SmartTransport Systems,Tecnologia,Tecnologia e Inovação,"Ambiental, Econômico",Em andamento,Local,Empresas
+1145,1145,O Que Torna Isso Possível?,Inovação,Empreendedorismo e Inovação,"Econômico, Científico",Em andamento,Local,População
+1146,1146,Prometeu Progressivo,Tecnologia,Tecnologia e Inovação,"Econômico, Científico",Em andamento,Local,"Consumidores, Empresas e Governo"
+1147,1147,NAVE (Núcleos de Aprendizado e Valorização Ecológica),Educação,Educação,"Ambiental, Social",Em planejamento,Local,Consumidores e Empresas
+1148,1148,SkySustain,Tecnologia,Tecnologia e Inovação,Ambiental,Em andamento,Local,Consumidores e Empresas
+1149,1149,Ações de DE&I na Açotubo,Social,Serviços Sociais,Social,Em andamento,Nacional,Funcionários
+1150,1150,Parceiros pela Paz,Social,Serviços Sociais,Social,Em planejamento,Local,"Consumidores, Empresas e Governo"
+1151,1151,Projeto Equidade na EDP,Social,Serviços Sociais,Social,Em planejamento,Local,População
+1152,1152,Luz da Liberdade,Direito,Direito e Governança,Social,Em planejamento,Local,Consumidores e Empresas
+1153,1153,EcoExpress,Transporte,Transporte e Logística,"Ambiental, Econômico",Em andamento,Local,Funcionários
+1154,1154,Projeto de Inteligência Artificial Biomimética,Inteligência Artificial,Tecnologia e Dados,Científico,Em andamento,Local,Consumidores
+1155,1155,Torre de Vigilância,Segurança,Direito e Governança,Social,Em planejamento,Local,Funcionários e Empresas
+1156,1156,Onde Podemos Crescer?,Desenvolvimento Pessoal,Educação,Social,Em andamento,Local,Funcionários
+1157,1157,Iniciativa de Redução do Uso de Agua em Lavanderias Comunitárias,Sustentabilidade,Sustentabilidade,"Ambiental, Social",Em planejamento,Local,Funcionários
+1158,1158,Mosaico de Talentos,Educação,Educação,"Social, Econômico",Em planejamento,Local,Funcionários
+1159,1159,Avenida das Alianças,Econômico,Economia e Finanças,"Econômico, Social",Em andamento,Local,Consumidores e Empresas
+1160,1160,GreenWheels,Sustentabilidade,Sustentabilidade,Ambiental,Em planejamento,Nacional,População
+1161,1161,Programa de Mentoria para Mulheres Empreendedoras,Educação,Educação,"Social, Econômico",Em andamento,Local,"Consumidores, Empresas e Governo"
+1162,1162,JustiçaJovem,Social,Serviços Sociais,Social,Em andamento,Local,Funcionários e Empresas
+1163,1163,GreenComm: Comunicação Verde,Tecnologia Ambiental,Tecnologia e Meio Ambiente,"Ambiental, Econômico",Em planejamento,Nacional,População
+1164,1164,FuturoAlimentar,Alimentação,Agricultura e Alimentação,"Econômico, Ambiental",Em andamento,Nacional,Consumidores e Empresas
+1165,1165,Quixote Qualitativo,Educação,Educação,"Social, Científico",Em andamento,Nacional,Funcionários e Empresas
+1166,1166,Atlas de Aspirações,Educação,Educação,"Social, Científico",Em andamento,Local,Consumidores
+1167,1167,FutureCommute,TI,Tecnologia e Informação,Econômico,Em planejamento,Local,Empresas
+1168,1168,Educação e Empoderamento,Educação,Educação,"Social, Cultural",Em andamento,Local,População
+1169,1169,Programa de Capacitação em Primeiros Socorros em Comunidades Vulneráveis,Saúde,Saúde e Bem-estar,Social,Em planejamento,Nacional,Consumidores e Empresas
+1170,1170,Programa de Compensación y Beneficios,Social,Serviços Sociais,Econômico,Em planejamento,Local,Empresas
+1171,1171,ZenZircão,Desenvolvimento Pessoal,Educação,Social,Em andamento,Local,Funcionários
+1172,1172,DataSense,Análise de Dados,Tecnologia e Dados,"Econômico, Científico",Em planejamento,Local,Empresas
+1173,1173,ClimaCaleidoscópio,Climatologia,Meio Ambiente,"Ambiental, Científico",Em andamento,Local,Empresas
+1174,1174,ConstróiSustentabilidade,Sustentabilidade,Sustentabilidade,"Ambiental, Social",Em andamento,Local,Consumidores
+1175,1175,Transcendental Transit,TI,Tecnologia e Informação,Econômico,Em planejamento,Local,População
+1176,1176,FutureTransit Solutions,Transporte,Transporte e Logística,"Ambiental, Econômico",Em andamento,Local,Funcionários e Empresas
+1177,1177,Beyond Borders: Bridging Cultures through Education,Educação Internacional,Educação,Social,Em andamento,Local,Consumidores e Empresas
+1178,1178,Desenvolvimento de Tecnologia para Energia Limpa em Áreas Rurais,"Tecnologia, Energia",Tecnologia e Inovação,"Ambiental, Científico",Em andamento,Local,"Consumidores, Empresas e Governo"
+1179,1179,Yield More,Agricultura,Agricultura e Alimentação,"Econômico, Ambiental",Em andamento,Local,Empresas
+1180,1180,Iniciativa de Nanotecnologia Avançada,Científico,Ciência e Pesquisa,Científico,Em andamento,Nacional,Consumidores
+1181,1181,Incentivo à Agricultura Urbana em Comunidades Carentes,Agricultura,Agricultura e Alimentação,"Social, Ambiental",Em planejamento,Nacional,Consumidores
+1182,1182,Programa Inclusão na Lojas Americanas,Social,Serviços Sociais,Social,Em planejamento,Local,Consumidores
+1183,1183,Raízes do Saber,Educação,Educação,"Social, Científico",Em planejamento,Local,Consumidores
+1184,1184,EducaEco,Educação,Educação,"Social, Ambiental",Em andamento,Local,"Consumidores, Empresas e Governo"
+1185,1185,TechTransit Innovations,Inovações em Tecnologia de Transporte,Transporte e Tecnologia,"Econômico, Ambiental",Em planejamento,Nacional,População
+1186,1186,Ganha e Dá,Empreendedorismo,Empreendedorismo e Inovação,"Econômico, Social",Em andamento,Local,Funcionários
+1187,1187,Campanha de Sensibilização para a Redução do Uso de Agrotóxicos,"Saúde, Agricultura",Saúde e Bem-estar,"Ambiental, Social",Em planejamento,Local,Empresas
+1188,1188,ConsciênciaClimática,Ambiental,Meio Ambiente,Ambiental,Em andamento,Local,Funcionários
+1189,1189,PulsoPúblico,Social,Serviços Sociais,Social,Em andamento,Local,População
+1190,1190,DesafioSaúde,Saúde,Saúde e Bem-estar,Social,Em andamento,Local,Consumidores e Empresas
+1191,1191,SkyStream,TI,Tecnologia e Informação,Econômico,Em andamento,Local,População
+1192,1192,Projeto de Reflorestamento em Áreas Degradadas,Sustentabilidade,Sustentabilidade,Ambiental,Em andamento,Local,Empresas
+1193,1193,IA em Diagnóstico de Transtornos Neuropsiquiátricos,Científico,Ciência e Pesquisa,Social,Em andamento,Local,Funcionários e Empresas
+1194,1194,Bravura de Brunelleschi,Arquitetura,Arte e Cultura,"Cultural, Econômico",Em andamento,Local,Consumidores
+1195,1195,ProsperaPaz,Paz e Segurança,Direito e Governança,Social,Em andamento,Nacional,"Consumidores, Empresas e Governo"
+1196,1196,Propel,Negócios,Desenvolvimento Econômico e Empresarial,"Econômico, Organizacional",Em planejamento,Nacional,Empresas
+1197,1197,Quem Se Importa?,Desenvolvimento Social,Desenvolvimento Comunitário,Social,Em planejamento,Local,Consumidores
+1198,1198,Way Carbon,"Tecnologia, Meio Ambiente",Tecnologia e Inovação,"Ambiental, Econômico",Em planejamento,Local,"Consumidores, Empresas e Governo"
+1199,1199,Educação Ambiental,Educação Ambiental,Educação e Meio Ambiente,"Ambiental, Social",Em planejamento,Nacional,Consumidores e Empresas
+1200,1200,Desenvolvimento de Tecnologia para Reciclagem de Resíduos Têxteis,"Tecnologia, Sustentabilidade",Tecnologia e Inovação,Ambiental,Em planejamento,Local,Empresas
+1201,1201,PulsarPérola,Astrofísica,Ciência e Pesquisa,Científico,Em andamento,Local,Consumidores
+1202,1202,Ignite,Inovação,Empreendedorismo e Inovação,"Econômico, Científico",Em andamento,Local,Empresas
+1203,1203,Campanha de Sensibilização para o Descarte Adequado de Resíduos Químicos,Sustentabilidade,Sustentabilidade,Ambiental,Em planejamento,Local,Funcionários
+1204,1204,Dolce Durable (Doce Duradouro),Sustentabilidade,Sustentabilidade,"Ambiental, Social",Em andamento,Local,Funcionários
+1205,1205,EducaEmpreendedorismo,Empreendedorismo,Empreendedorismo e Inovação,"Econômico, Social",Em andamento,Nacional,Consumidores e Empresas
+1206,1206,Urano Urbano,Urbanismo,Desenvolvimento Urbano e Infraestrutura,"Social, Econômico",Em andamento,Local,Funcionários
+1207,1207,Revolução Renovável: Implementação de Fazendas Solares Comunitárias,Energia,Energia e Recursos,"Ambiental, Econômico",Em planejamento,Local,Consumidores
+1208,1208,JANELA (Justiça Ambiental e Núcleos de Educação para a Liberdade de Ação),Ambiental,Meio Ambiente,"Ambiental, Social",Em planejamento,Local,Funcionários
+1209,1209,QuantumQuest,Científico,Ciência e Pesquisa,Científico,Em andamento,Local,Funcionários
+1210,1210,Zelo Zonal,Urbanismo,Desenvolvimento Urbano e Infraestrutura,"Social, Econômico",Em andamento,Local,População
+1211,1211,Projeto de Robótica Biomimética,Tecnologia,Tecnologia e Inovação,"Científico, Econômico",Em andamento,Nacional,Empresas
+1212,1212,Resgate Resiliente,Saúde,Saúde e Bem-estar,Social,Em planejamento,Nacional,"Consumidores, Empresas e Governo"
+1213,1213,Teia de Talentos,Desenvolvimento de Carreira,Educação,Econômico,Em andamento,Local,População
+1214,1214,UrbanTech Transit,"Transporte, Tecnologia",Transporte e Logística,"Ambiental, Econômico",Em andamento,Nacional,Funcionários
+1215,1215,Iniciativa de Valorização da Cultura Indígena em Escolas Urbanas,Educação Cultural,Educação,Social,Em andamento,Nacional,Funcionários
+1216,1216,Incentivo à Mobilidade Urbana Sustentável,Transporte,Transporte e Logística,Ambiental,Em planejamento,Local,"Consumidores, Empresas e Governo"
+1217,1217,DesenvolveDurável,Sustentabilidade,Sustentabilidade,"Econômico, Ambiental",Em planejamento,Local,"Consumidores, Empresas e Governo"
+1218,1218,SopaTech: Acesso Tecnológico para Instituições Sem Fins Lucrativos,Tecnologia,Tecnologia e Inovação,Social,Em andamento,Local,Consumidores e Empresas
+1219,1219,MediTech Solutions,"Tecnologia, Saúde",Tecnologia e Inovação,"Científico, Econômico",Em andamento,Nacional,Funcionários
+1220,1220,Projeto de Sistemas de Energia Renovável,Energia Renovável,Energia e Recursos,"Ambiental, Econômico",Em andamento,Nacional,Funcionários
+1221,1221,DataNexus,Gestão e Análise de Dados,Tecnologia e Dados,"Econômico, Científico",Em planejamento,Local,Consumidores
+1222,1222,Espelho Social,Sociologia,Educação,Social,Em planejamento,Local,Funcionários
+1223,1223,O Que Você Precisa Saber?,Educação,Educação,Social,Em andamento,Local,Funcionários e Empresas
+1224,1224,Como É Feito Isso?,Educação Tecnológica,Tecnologia e Educação,Científico,Em andamento,Nacional,Consumidores
+1225,1225,Pura Vida (Vida Pura),Saúde,Saúde e Bem-estar,"Social, Ambiental",Em planejamento,Local,Consumidores
+1226,1226,DE&I com foco em raça e etnia,Social,Serviços Sociais,Social,Em planejamento,Nacional,Empresas
+1227,1227,TechTransit Solutions,Tecnologia,Tecnologia e Inovação,"Ambiental, Econômico",Em planejamento,Nacional,Funcionários
+1228,1228,Alquimia das Artes,Cultural,Arte e Cultura,Cultural,Em andamento,Local,População
+1229,1229,Xarope para o Progresso,Saúde,Saúde e Bem-estar,"Social, Econômico",Em andamento,Local,Empresas
+1230,1230,Projeto de Reaproveitamento de Resíduos de Alimentos em Restaurantes,Sustentabilidade,Sustentabilidade,"Ambiental, Social",Em andamento,Nacional,Funcionários
+1231,1231,Joya Juvenil (Joia Juvenil),Educação,Educação,"Social, Cultural",Em andamento,Local,Funcionários
+1232,1232,Desenvolvimento de Nanossensores para Monitoramento Ambiental,Científico,Ciência e Pesquisa,Ambiental,Em andamento,Nacional,Consumidores
+1233,1233,Projeto de Inteligência Artificial Explicável,Inteligência Artificial,Tecnologia e Dados,Científico,Em planejamento,Local,População
+1234,1234,Nourish,Saúde,Saúde e Bem-estar,"Social, Ambiental",Em andamento,Nacional,"Consumidores, Empresas e Governo"
+1235,1235,Desenvolvimento de Tecnologia para Monitoramento de Poluição Hídrica,"Tecnologia, Meio Ambiente",Tecnologia e Inovação,Ambiental,Em andamento,Nacional,População
+1236,1236,TechBoost,Tecnologia,Tecnologia e Inovação,"Científico, Econômico",Em andamento,Local,População
+1237,1237,EcoJet,Aviação Sustentável,Sustentabilidade,"Ambiental, Econômico",Em andamento,Local,População
+1238,1238,GOTA (Gestão Organizada de Tecnologias Aquáticas),Ambiental,Meio Ambiente,"Ambiental, Econômico",Em andamento,Local,Consumidores
+1239,1239,Trilha da Transformação,Sustentabilidade,Sustentabilidade,"Social, Ambiental, Econômico",Em planejamento,Local,Funcionários e Empresas
+1240,1240,Estudos de Bioengenharia de Tecidos,Bioengenharia,Engenharia,Científico,Em planejamento,Local,Funcionários
+1241,1241,Flexibilidade e Foco,Negócios,Desenvolvimento Econômico e Empresarial,Econômico,Em andamento,Local,Consumidores
+1242,1242,Estudos de Genética de Populações Humanas,Genética,Ciência e Pesquisa,Científico,Em andamento,Local,"Consumidores, Empresas e Governo"
+1243,1243,EmpreendeSustentável,Empreendedorismo Sustentável,Sustentabilidade,"Ambiental, Econômico",Em andamento,Local,Consumidores e Empresas
+1244,1244,VIDA (Valorização e Inovação para o Desenvolvimento Ambiental),Ambiental,Meio Ambiente,Ambiental,Em andamento,Local,Funcionários
+1245,1245,Desafío+Inclusión,Social,Serviços Sociais,Social,Em andamento,Local,"Consumidores, Empresas e Governo"
+1246,1246,Inspire,Educação,Educação,Social,Em andamento,Nacional,Consumidores e Empresas
+1247,1247,Blossom,Desenvolvimento Comunitário,Desenvolvimento Comunitário,"Social, Econômico",Em planejamento,Nacional,Funcionários
+1248,1248,Química Quântica Teórica,Científico,Ciência e Pesquisa,Científico,Em andamento,Nacional,Funcionários
+1249,1249,Estudos de Biodiversidade com Sequenciamento de DNA,Biodiversidade,Meio Ambiente,"Científico, Ambiental",Em planejamento,Nacional,Empresas
+1250,1250,IA em Neurociência Cognitiva,Científico,Ciência e Pesquisa,Científico,Em planejamento,Nacional,Funcionários e Empresas
+1251,1251,EmpowerTech: Programa de Capacitação Digital para Mulheres,Educação,Educação,Econômico,Em planejamento,Local,"Consumidores, Empresas e Governo"
+1252,1252,Bioinformática Estrutural,Bioinformática,Ciência e Pesquisa,Científico,Em planejamento,Local,Consumidores
+1253,1253,Estudos de Satisfação do Funcionário,Educação,Educação,Econômico,Em andamento,Local,Consumidores
+1254,1254,AçãoCidadã,Ativismo Social,Serviços Sociais,Social,Em andamento,Nacional,Funcionários e Empresas
+1255,1255,Bon Vivant (Boa Vida),Cultura,Arte e Cultura,"Cultural, Social",Em andamento,Local,Consumidores e Empresas
+1256,1256,BrilhaBem,Energia,Energia e Recursos,"Ambiental, Econômico",Em planejamento,Local,Funcionários
+1257,1257,Programa Inclusão na Iguatemi,Social,Serviços Sociais,Social,Em planejamento,Local,População
+1258,1258,Quest for Quality,Negócios,Desenvolvimento Econômico e Empresarial,"Econômico, Organizacional",Em andamento,Local,Funcionários e Empresas
+1259,1259,Iniciativa de Desarrollo de Habilidades,Educação,Educação,Econômico,Em andamento,Local,Consumidores
+1260,1260,Programa de Física Quântica Experimental,Física Quântica,Ciência e Pesquisa,Científico,Em andamento,Nacional,Empresas
+1261,1261,Pulsar do Progresso,TI,Tecnologia e Informação,"Econômico, Científico",Em andamento,Local,Empresas
+1262,1262,Innovate for Impact: Technology Solutions for Social Challenges,"Tecnologia, Social",Tecnologia e Inovação,"Social, Científico",Em andamento,Nacional,Funcionários
+1263,1263,TechConnect: Inclusão Digital para Comunidades Carentes,Tecnologia,Tecnologia e Inovação,Social,Em andamento,Local,Consumidores e Empresas
+1264,1264,RenovaRespeito,Educação,Educação,Social,Em andamento,Nacional,Funcionários
+1265,1265,Rio de Renovação,Ambiental,Meio Ambiente,Ambiental,Em andamento,Local,Funcionários
+1266,1266,Artistas da Mudança: Treinamento Profissional para Comunidades Desfavorecidas,Desenvolvimento Profissional,Educação,Social,Em andamento,Local,Funcionários
+1267,1267,JuventudeJade,Educação,Educação,Social,Em planejamento,Local,Funcionários
+1268,1268,Iniciativa de Desenvolvimento de Equipes,Educação,Educação,Econômico,Em planejamento,Local,Consumidores
+1269,1269,REDE (Resiliência e Desenvolvimento Econômico),Econômico,Economia e Finanças,"Econômico, Social",Em planejamento,Local,Empresas
+1270,1270,Iniciativa de Bioinformática Estrutural,Bioinformática,Ciência e Pesquisa,Científico,Em andamento,Local,Empresas
+1271,1271,JourneyGenius,Tecnologia em Viagens,Turismo e Tecnologia,Econômico,Em andamento,Nacional,Consumidores e Empresas
+1272,1272,Como Viver Sustentavelmente?,Sustentabilidade,Sustentabilidade,"Ambiental, Social",Em andamento,Local,Empresas
+1273,1273,Programa Inovação na Prática,Tecnologia,Tecnologia e Inovação,"Científico, Econômico",Em andamento,Local,Consumidores
+1274,1274,Programa de Capacitação em Empreendedorismo para Jovens,Educação,Educação,"Social, Econômico",Em andamento,Nacional,Funcionários e Empresas
+1275,1275,Zênite de Zeus,Científico,Ciência e Pesquisa,Científico,Em andamento,Local,Empresas
+1276,1276,Hope Horizon,Social,Serviços Sociais,"Social, Ambiental",Em planejamento,Local,Funcionários e Empresas
+1277,1277,Desenvolvimento de Tecnologia para Reciclagem de Vidro,"Tecnologia, Sustentabilidade",Tecnologia e Inovação,Ambiental,Em andamento,Nacional,Empresas
+1278,1278,Programa de Acolhimento de Novos Funcionários,Recursos Humanos,Gestão e Recursos Humanos,Social,Em andamento,Local,População
+1279,1279,EcoDriveX,Transporte,Transporte e Logística,"Ambiental, Econômico",Em andamento,Local,Consumidores
+1280,1280,HabitatsHumanos,Urbanismo,Desenvolvimento Urbano e Infraestrutura,"Social, Ambiental",Em andamento,Nacional,População
+1281,1281,Overcome,Desenvolvimento Pessoal,Educação,Social,Em andamento,Local,Consumidores
+1282,1282,EcoFriendly Foods,Alimentação Sustentável,Sustentabilidade,"Ambiental, Econômico",Em planejamento,Local,Funcionários e Empresas
+1283,1283,ConstruyeFelicidad,Social,Serviços Sociais,Social,Em andamento,Nacional,Consumidores e Empresas
+1284,1284,Clarão do Conhecimento,Educação,Educação,"Social, Científico",Em planejamento,Local,Empresas
+1285,1285,AI Analytics,Análise de Dados com IA,Tecnologia e Dados,"Econômico, Científico",Em andamento,Local,Consumidores e Empresas
+1286,1286,Iniciativa de Valorização da Cultura Afro-Brasileira em Escolas,Educação Cultural,Educação,Social,Em planejamento,Local,Consumidores
+1287,1287,Projeto Diversidade na Gerdau,Social,Serviços Sociais,Social,Em planejamento,Local,Funcionários
+1288,1288,EcoMobilidade,Transporte,Transporte e Logística,"Ambiental, Econômico",Em andamento,Local,Funcionários
+1289,1289,CRISPR em Terapia de Doenças Autoimunes,Genética,Ciência e Pesquisa,Científico,Em andamento,Nacional,"Consumidores, Empresas e Governo"
+1290,1290,Proj. HOPE: Esperança para Comunidades Carentes,Desenvolvimento Social,Desenvolvimento Comunitário,Social,Em andamento,Local,Funcionários
+1291,1291,Épico de Ética,Educação,Educação,"Social, Ético",Em andamento,Local,Empresas
+1292,1292,CiênciaCitrino,Educação Científica,Educação,Científico,Em andamento,Local,Consumidores
+1293,1293,Iniciativa de Redução de Desperdício Alimentar em Restaurantes,Sustentabilidade,Sustentabilidade,"Ambiental, Social",Em planejamento,Local,Empresas
+1294,1294,VozVerde,Ambiental,Meio Ambiente,"Ambiental, Social",Em andamento,Local,"Consumidores, Empresas e Governo"
+1295,1295,Ações de Promoção da Saúde Mental em Casas de Repouso,Saúde,Saúde e Bem-estar,Social,Em andamento,Local,Consumidores
+1296,1296,Quem Desenvolve a Comunidade?,Desenvolvimento Comunitário,Desenvolvimento Comunitário,Social,Em planejamento,Local,Funcionários
+1297,1297,Onde Encontrar Respostas?,Educação,Educação,Social,Em andamento,Local,População
+1298,1298,FutureRail,Transporte Ferroviário,Transporte e Logística,"Econômico, Ambiental",Em planejamento,Local,"Consumidores, Empresas e Governo"
+1299,1299,Projeto Neurociência Aplicada,Científico,Ciência e Pesquisa,Social,Em planejamento,Nacional,Funcionários e Empresas
+1300,1300,Projeto de Geologia Planetária,Geologia Planetária,Ciência e Pesquisa,Científico,Em planejamento,Local,Funcionários
+1301,1301,Atalho para o Amanhã,TI,Tecnologia e Informação,"Econômico, Científico",Em planejamento,Nacional,Consumidores
+1302,1302,CiberCultura,TI,Tecnologia e Informação,"Cultural, Econômico",Em andamento,Local,Funcionários e Empresas
+1303,1303,LíderesHumanos+,Social,Serviços Sociais,Social,Em planejamento,Nacional,População
+1304,1304,Carrossel Comunitário,Desenvolvimento Comunitário,Desenvolvimento Comunitário,Social,Em andamento,Nacional,Funcionários
+1305,1305,Programa de Diversidad e Inclusión,Social,Serviços Sociais,Social,Em andamento,Nacional,Funcionários
+1306,1306,SmartTransit Innovate,Inovação em Transporte Inteligente,Transporte e Tecnologia,"Econômico, Ambiental",Em planejamento,Local,Funcionários e Empresas
+1307,1307,DesenvolveNegócios,Empreendedorismo,Empreendedorismo e Inovação,"Econômico, Social",Em andamento,Local,População
+1308,1308,CRISPR e Edição de Plantas Agrícolas,Biotecnologia,Engenharia,"Científico, Econômico",Em andamento,Local,População
+1309,1309,Projeto de Melhoria do Clima Organizacional,Recursos Humanos,Gestão e Recursos Humanos,Social,Em andamento,Local,"Consumidores, Empresas e Governo"
+1310,1310,Onda Otimista,Psicologia,Saúde e Bem-estar,Social,Em andamento,Local,População
+1311,1311,Estudos de Genômica de Precisão,Genética,Ciência e Pesquisa,Científico,Em andamento,Local,Funcionários
+1312,1312,Redução de fatalidades e acidentes graves,"Saúde, Segurança do Trabalho",Saúde e Bem-estar,"Social, Econômico",Em andamento,Local,População
+1313,1313,Projeto de Diversidade na Netflix,Social,Serviços Sociais,Social,Em andamento,Nacional,Consumidores e Empresas
+1314,1314,Projeto Igualdade na GPA,Social,Serviços Sociais,Social,Em andamento,Nacional,Empresas
+1315,1315,Projeto Igualdade na Itaú,Social,Serviços Sociais,Social,Em andamento,Local,Funcionários e Empresas
+1316,1316,Wotan em Wireless,Tecnologia,Tecnologia e Inovação,"Econômico, Científico",Em andamento,Local,Consumidores
+1317,1317,Waste Watch - Todos de Olho no Desperdício,Sustentabilidade,Sustentabilidade,Ambiental,Em planejamento,Local,Funcionários e Empresas
+1318,1318,SBTi (Science Based Targets Initiative),Sustentabilidade,Sustentabilidade,Ambiental,Em andamento,Local,Consumidores
+1319,1319,Projeto de Implantação de Sistemas de Captação de Água de Chuva em Residências Urbanas,Meio Ambiente,Meio Ambiente,Ambiental,Em andamento,Local,Consumidores e Empresas
+1320,1320,CRISPR em Terapia de Câncer,Científico,Ciência e Pesquisa,Social,Em andamento,Nacional,Consumidores e Empresas
+1321,1321,Ações de Promoção da Saúde Mental em Asilos,Saúde,Saúde e Bem-estar,Social,Em andamento,Local,População
+1322,1322,FLORA (Formação Local e Oportunidades para Revitalização Ambiental),Educação,Educação,"Ambiental, Social",Em planejamento,Nacional,Consumidores e Empresas
+1323,1323,TectônicaTopázio,Geologia,Ciência e Pesquisa,Científico,Em andamento,Local,Funcionários
+1324,1324,Programa de Igualdade na Walmart,Social,Serviços Sociais,Social,Em andamento,Nacional,Funcionários
+1325,1325,Estudos de Dinâmica de Populações em Ecologia,"Ciência, Educação",Ciência e Pesquisa,Científico,Em planejamento,Local,Empresas
+1326,1326,Iniciativa de Genômica de Precisão,Genética,Ciência e Pesquisa,Científico,Em planejamento,Nacional,Funcionários e Empresas
+1327,1327,TransformaEducação,Educação,Educação,Social,Em andamento,Local,Funcionários
+1328,1328,Hidrogênio Verde,Energia,Energia e Recursos,Ambiental,Em andamento,Nacional,Empresas
+1329,1329,Viver Bem,Saúde,Saúde e Bem-estar,Social,Em andamento,Local,Funcionários
+1330,1330,GreenEdu: Educação Verde,Educação Ambiental,Educação e Meio Ambiente,"Ambiental, Social",Em planejamento,Nacional,Funcionários e Empresas
+1331,1331,Programa de Capacitação em Tecnologia para Pessoas em Situação de Vulnerabilidade,"Educação, Tecnologia",Educação,Social,Em andamento,Nacional,Empresas
+1332,1332,Rede de Realizações,TI,Tecnologia e Informação,"Econômico, Científico",Em planejamento,Nacional,População
+1333,1333,VirtualVermelha,Realidade Virtual,Tecnologia e Inovação,"Econômico, Científico",Em andamento,Local,"Consumidores, Empresas e Governo"
+1334,1334,CidadeCíclica,Urbanismo,Desenvolvimento Urbano e Infraestrutura,"Ambiental, Social",Em planejamento,Nacional,Funcionários e Empresas
+1335,1335,"LÍDER (Liderança, Inovação, Desenvolvimento, Educação e Resiliência)",Educação,Educação,"Social, Econômico",Em planejamento,Local,Consumidores e Empresas
+1336,1336,Vórtice de Soluções,Inovação,Empreendedorismo e Inovação,"Econômico, Científico",Em andamento,Local,Consumidores e Empresas
+1337,1337,Incentivo ao estilo de vida saudável,Saúde,Saúde e Bem-estar,Social,Em andamento,Local,Empresas
+1338,1338,Ações de Felicidade na Pharmavida,Saúde,Saúde e Bem-estar,Social,Em andamento,Nacional,População
+1339,1339,Bem-estar na Busca,Saúde Mental,Saúde e Bem-estar,Social,Em planejamento,Nacional,Funcionários e Empresas
+1340,1340,AMAR (Ações para Melhorar e Acolher Refugiados),Social,Serviços Sociais,Social,Em andamento,Nacional,"Consumidores, Empresas e Governo"
+1341,1341,Programa de Mentoria para Empreendedores Sociais,Educação,Educação,"Social, Econômico",Em andamento,Local,Funcionários e Empresas
+1342,1342,DataDriven Decisions,Tecnologia,Tecnologia e Inovação,"Científico, Econômico",Em andamento,Local,Empresas
+1343,1343,Programa de Capacitação em Tecnologia para Pessoas em Situação de Rua,"Educação, Tecnologia",Educação,Social,Em andamento,Nacional,Funcionários e Empresas
+1344,1344,Wave Forward,Educação,Educação,"Social, Científico",Em andamento,Nacional,Funcionários
+1345,1345,EcoCommute,Transporte Sustentável,Sustentabilidade,"Ambiental, Econômico",Em planejamento,Local,"Consumidores, Empresas e Governo"
+1346,1346,TransformaNegócios,Empreendedorismo,Empreendedorismo e Inovação,"Econômico, Social",Em andamento,Local,População
+1347,1347,Tech for Good: Empowering Communities through Technology,"Tecnologia, Social",Tecnologia e Inovação,Social,Em planejamento,Nacional,Empresas
+1348,1348,Iniciativa de Igualdade na Google,Social,Serviços Sociais,Social,Em andamento,Local,Empresas
+1349,1349,Xenofonte Xadrez,Educação,Educação,"Social, Cognitivo",Em planejamento,Local,"Consumidores, Empresas e Governo"
+1350,1350,Como Podemos Ajudar?,Filantropia,Serviços Sociais,Social,Em planejamento,Local,Empresas
+1351,1351,Estudos de Gestão da Diversidade,Social,Serviços Sociais,Social,Em andamento,Nacional,Funcionários e Empresas
+1352,1352,Saúde Mental,Saúde,Saúde e Bem-estar,Social,Em planejamento,Nacional,Funcionários e Empresas
+1353,1353,Projeto de Gestão do Conhecimento,Educação,Educação,"Social, Econômico",Em planejamento,Local,"Consumidores, Empresas e Governo"
+1354,1354,ConexãoSaúde,Saúde,Saúde e Bem-estar,Social,Em andamento,Local,Funcionários e Empresas
+1355,1355,Semente da Vida,Saúde,Saúde e Bem-estar,"Social, Científico",Em andamento,Local,Consumidores e Empresas
+1356,1356,Como Funciona Isso?,Educação,Educação,"Social, Científico",Em andamento,Local,Consumidores e Empresas
+1357,1357,EmpreendeDigital,Empreendedorismo Tecnológico,Tecnologia e Inovação,"Econômico, Social",Em planejamento,Nacional,Funcionários
+1358,1358,Iniciativa Nova Visão,Desenvolvimento Pessoal,Educação,Social,Em andamento,Local,Funcionários
+1359,1359,MotivaMundo,Educação,Educação,Social,Em andamento,Local,População
+1360,1360,PromoveInovação,Fomento à Inovação,Empreendedorismo e Inovação,"Econômico, Científico",Em andamento,Local,Consumidores
+1361,1361,Babel Biotech,Biotecnologia,Engenharia,"Científico, Econômico",Em planejamento,Local,"Consumidores, Empresas e Governo"
+1362,1362,GreenTransit,Transporte,Transporte e Logística,"Ambiental, Econômico",Em andamento,Local,Consumidores e Empresas
+1363,1363,Walhalla Wellness,Saúde,Saúde e Bem-estar,"Social, Bem-estar",Em andamento,Nacional,Consumidores e Empresas
+1364,1364,EmpowerHer: Apoio às Mulheres nas Áreas de STEM,Educação em STEM,Tecnologia e Educação,Social,Em andamento,Nacional,Consumidores e Empresas
+1365,1365,Prisma do Potencial,Educação,Educação,"Social, Científico",Em andamento,Nacional,"Consumidores, Empresas e Governo"
+1366,1366,AI Insights,Inteligência Artificial,Tecnologia e Dados,Científico,Em andamento,Local,Funcionários
+1367,1367,Por Que o Futuro Importa?,Educação,Educação,Social,Em planejamento,Local,População
+1368,1368,EcoRoute Solutions,Tecnologia,Tecnologia e Inovação,"Ambiental, Econômico",Em andamento,Local,População
+1369,1369,EmpowerHer: Programa de Bolsas para Mulheres em STEM,Educação em STEM,Tecnologia e Educação,Social,Em andamento,Local,Funcionários
+1370,1370,EcoTrans Solutions,Tecnologia,Tecnologia e Inovação,"Ambiental, Econômico",Em andamento,Local,Consumidores
+1371,1371,Xerxes Xenofilia,Cultural,Arte e Cultura,"Cultural, Social",Em planejamento,Nacional,Consumidores
+1372,1372,Parceria com Escolas para Criação de Horta Vertical em Ambientes Urbanos,"Educação, Agricultura",Educação,"Ambiental, Social",Em andamento,Local,Funcionários e Empresas
+1373,1373,SÁBIO (Soluções Avançadas para Bem-estar Integral e Oportunidade),Saúde,Saúde e Bem-estar,"Social, Econômico",Em andamento,Local,Consumidores
+1374,1374,"FALA (Formação, Aprendizagem e Liberdade de Ação)",Educação,Educação,Social,Em andamento,Local,População
+1375,1375,CICLO (Capacitação Integrada para Conservação e Liderança Organizada),Educação,Educação,"Ambiental, Social",Em andamento,Nacional,"Consumidores, Empresas e Governo"
+1376,1376,MOVE (Mobilização Organizada para a Valorização do Espaço),Urbanismo,Desenvolvimento Urbano e Infraestrutura,"Social, Ambiental",Em andamento,Local,Funcionários e Empresas
+1377,1377,Programa Elevate,Desenvolvimento Pessoal,Educação,Social,Em andamento,Local,Consumidores e Empresas
+1378,1378,EduGreen: Educação Verde,Educação Ambiental,Educação e Meio Ambiente,"Ambiental, Social",Em andamento,Local,Consumidores
+1379,1379,Inovação na Cultura Organizacional,Educação,Educação,Econômico,Em planejamento,Local,Funcionários e Empresas
+1380,1380,Portal para o Progresso,Desenvolvimento Social,Desenvolvimento Comunitário,"Social, Econômico",Em andamento,Local,Funcionários
+1381,1381,Iniciativa de Economia Solidária em Comunidades Carentes,"Negócios, Social",Desenvolvimento Econômico e Empresarial,"Social, Econômico",Em planejamento,Local,"Consumidores, Empresas e Governo"
+1382,1382,EmpowerHer: Supporting Women in STEM Fields,Educação em STEM,Tecnologia e Educação,Social,Em planejamento,Nacional,Funcionários
+1383,1383,NeuroNácar,Neurociência,Ciência e Pesquisa,Científico,Em planejamento,Local,"Consumidores, Empresas e Governo"
+1384,1384,Quem Precisa de Ajuda?,Assistência Social,Serviços Sociais,Social,Em andamento,Nacional,Empresas
+1385,1385,Labirinto da Liderança,Educação,Educação,"Social, Econômico",Em andamento,Local,Funcionários
+1386,1386,Por Que a Arte Importa?,Arte e Cultura,Arte e Cultura,Social,Em planejamento,Local,"Consumidores, Empresas e Governo"
+1387,1387,TranspireX,Tecnologia Têxtil,Engenharia,Econômico,Em andamento,Local,População
+1388,1388,Iniciativa de Empoderamento Feminino,Social,Serviços Sociais,Social,Em andamento,Local,Funcionários
+1389,1389,Gaia Global,Ambiental,Meio Ambiente,"Ambiental, Social",Em andamento,Nacional,"Consumidores, Empresas e Governo"
+1390,1390,BiodiversidadeBase,Biotecnologia,Engenharia,"Ambiental, Científico",Em andamento,Local,Consumidores e Empresas
+1391,1391,Wi-Fi com Impacto,Tecnologia,Tecnologia e Inovação,"Econômico, Social",Em andamento,Local,Funcionários
+1392,1392,FuturoPróspero,Educação,Educação,Econômico,Em andamento,Local,População
+1393,1393,InovaSaúde,Saúde,Saúde e Bem-estar,Social,Em planejamento,Nacional,Empresas
+1394,1394,Iniciativa de Inovação na IBM,Tecnologia,Tecnologia e Inovação,"Científico, Econômico",Em andamento,Local,Funcionários
+1395,1395,Quem Cultiva o Bem?,Agricultura Sustentável,Sustentabilidade,"Ambiental, Social",Em andamento,Local,Empresas
+1396,1396,EcoTravels,Viagens Sustentáveis,Sustentabilidade,"Ambiental, Econômico",Em planejamento,Local,População
+1397,1397,Projeto Progresso Pessoal,Educação,Educação,Econômico,Em andamento,Local,Consumidores e Empresas
+1398,1398,Liderança e Colaboração,Educação,Educação,Econômico,Em andamento,Local,Consumidores e Empresas
+1399,1399,GráficoGenético,Genética,Ciência e Pesquisa,Científico,Em andamento,Local,Empresas
+1400,1400,Mininum living wage - base operacional,Finanças,Economia e Finanças,"Econômico, Social",Em andamento,Nacional,Funcionários
+1401,1401,Espiritu Libre (Espírito Livre),Social,Serviços Sociais,"Social, Cultural",Em andamento,Nacional,Empresas
+1402,1402,CleanAir Transport,"Transporte, Tecnologia",Transporte e Logística,"Ambiental, Econômico",Em andamento,Local,Funcionários
+1403,1403,ConectaInovação,Inovação Tecnológica,Tecnologia e Inovação,"Econômico, Científico",Em andamento,Local,"Consumidores, Empresas e Governo"
+1404,1404,Promoção de Energias Renováveis em Comunidades Rurais,Energia,Energia e Recursos,"Ambiental, Social",Em andamento,Local,Funcionários e Empresas
+1405,1405,EcoRouteX,Tecnologia,Tecnologia e Inovação,Ambiental,Em andamento,Nacional,"Consumidores, Empresas e Governo"
+1406,1406,VeloTech,TI,Tecnologia e Informação,Econômico,Em planejamento,Nacional,Funcionários e Empresas
+1407,1407,Iniciativa Renovação Pessoal,Desenvolvimento Pessoal,Educação,Social,Em planejamento,Local,Empresas
+1408,1408,Lazer e Logística,Urbanismo,Desenvolvimento Urbano e Infraestrutura,"Econômico, Social",Em planejamento,Local,Funcionários
+1409,1409,EcoFlow,Sustentabilidade,Sustentabilidade,Ambiental,Em planejamento,Local,"Consumidores, Empresas e Governo"
+1410,1410,AcciónPositiva,Social,Serviços Sociais,Social,Em andamento,Local,Funcionários e Empresas
+1411,1411,GreenBiz: Negócios Verdes,Empreendedorismo Sustentável,Sustentabilidade,"Ambiental, Econômico",Em planejamento,Local,Funcionários
+1412,1412,Iniciativa Rosa Negra,Social,Serviços Sociais,Social,Em planejamento,Local,"Consumidores, Empresas e Governo"
+1413,1413,Proyecto Camino+,Educação,Educação,Econômico,Em andamento,Local,Funcionários
+1414,1414,DadosDinâmicos,TI,Tecnologia e Informação,"Econômico, Científico",Em andamento,Local,"Consumidores, Empresas e Governo"
+1415,1415,Porta para o Possível,TI,Tecnologia e Informação,"Econômico, Científico",Em andamento,Local,Consumidores
+1416,1416,AçãoCultural,Cultura,Arte e Cultura,Social,Em andamento,Local,População
+1417,1417,Harmonie Humaine (Harmonia Humana),Social,Serviços Sociais,Social,Em planejamento,Local,Consumidores
+1418,1418,SmartTrans Solutions,Tecnologia,Tecnologia e Inovação,"Ambiental, Econômico",Em andamento,Local,Consumidores
+1419,1419,Ações de Promoção da Diversidade e Inclusão em Instituições de Ensino Superior,Educação,Educação,Social,Em andamento,Local,Consumidores
+1420,1420,Projeto de Inclusão na Nike,Social,Serviços Sociais,Social,Em andamento,Nacional,Funcionários
+1421,1421,Projeto Viva Verde: Promoção do Estilo de Vida Sustentável,Sustentabilidade,Sustentabilidade,"Social, Ambiental",Em andamento,Local,Funcionários e Empresas
+1422,1422,EmpreendeNegócios,Empreendedorismo,Empreendedorismo e Inovação,"Econômico, Social",Em andamento,Local,Funcionários
+1423,1423,QuânticaQuotidiana,Científico,Ciência e Pesquisa,Científico,Em andamento,Local,Empresas
+1424,1424,Projeto Renovação,Desenvolvimento Pessoal,Educação,Social,Em andamento,Nacional,"Consumidores, Empresas e Governo"
